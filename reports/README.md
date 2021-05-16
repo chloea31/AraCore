@@ -28,8 +28,11 @@ BiGG Models can be extended to include models built in other research groups, as
 **Pipeline / Method :** 
 
 > 1st step : Parse the file in Python => extract the information you need (metabolites, reactions and maybe genes).
+>
 > 2nd step : Introduce more annotations in metabolites, reactions and maybe genes => standards ( = MEMOTE, MIRIAM, SBML).
+>
 > 3rd step : Convert the Python file into SBML one.
+>
 > 4th step : Verify if the new/updated model corresponds to the standards (see if we perform this step after converting the Python file into a SBML one).
 
 
