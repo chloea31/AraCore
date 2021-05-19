@@ -1,0 +1,414 @@
+IDs,Name
+hnu_h,Photon
+PQ_h,Oxidized plastoquinone
+H2O_h,"H2O, water"
+H_h,"H+, proton"
+PQH2_h,Reduced plastoquinone
+O2_h,"O2, oxygen"
+H_l,"H+, proton"
+PCox_h,Oxidized plastocyanin
+PCrd_h,Reduced plastocyanin
+Fdox_h,Oxidized ferredoxin
+Fdrd_h,Reduced ferredoxin
+NADP_h,Nicotinamide adenine dinucleotide phosphate
+NADPH_h,Nicotinamide adenine dinucleotide phosphate - reduced
+ADP_h,Adenosine diphosphate
+Pi_h,Orthophosphate
+ATP_h,Adenosine triphosphate
+RuBP_h,"Ribulose 1,5-bisphosphate"
+CO2_h,"CO2, carbon dioxide"
+PGA_h,3-Phosphoglycerate
+DPGA_h,3-Phospho-D-glyceroyl phosphate
+GAP_h,Glyceraldehyde 3-phosphate
+DHAP_h,Dihydroxyacetone phosphate
+FBP_h,"Fructose 1,6-bisphosphate"
+F6P_h,Fructose 6-phosphate
+E4P_h,Erythrose 4-phosphate
+X5P_h,Xylulose 5-phosphate
+SBP_h,"Sedoheptulose 1,7-bisphosphate"
+S7P_h,Sedoheptulose 7-phosphate
+R5P_h,Ribose 5-phosphate
+Ru5P_h,Ribulose 5-phosphate
+G6P_h,Glucose 6-phosphate
+G1P_h,Glucose 1-phosphate
+ADPG_h,ADP-Glucose
+PPi_h,"Diphosphate, Pyrophosphate"
+starch1_h,"Starch, X+1 glucose units"
+starch2_h,"Starch, X+2 glucose units"
+starch3_h,"Starch, X+3 glucose units"
+starch5_h,"Starch, X+5 glucose units"
+Mas_h,Maltose
+Glc_h,Glucose
+starch1_c,"Starch, X+1 glucose units"
+Mas_c,Maltose
+starch2_c,"Starch, X+2 glucose units"
+Glc_c,Glucose
+ATP_c,Adenosine triphosphate
+G6P_c,Glucose 6-phosphate
+ADP_c,Adenosine diphosphate
+H_c,"H+, proton"
+Na_c,Na+ ion
+Na_h,Na+ ion
+Pi_c,Orthophosphate
+G1P_c,Glucose 1-phosphate
+GAP_c,Glyceraldehyde 3-phosphate
+DHAP_c,Dihydroxyacetone phosphate
+FBP_c,"Fructose 1,6-bisphosphate"
+H2O_c,"H2O, water"
+F6P_c,Fructose 6-phosphate
+F26BP_c,"Fructose 2,6-bisphosphate"
+UTP_c,Uridine triphosphate
+UDPG_c,UDP-Glucose
+PPi_c,"Diphosphate, Pyrophosphate"
+S6P_c,Sucrose-6-phosphate
+UDP_c,Uridine diphosphate
+Suc_c,Sucrose
+Frc_c,Fructose
+T6P_c,Trehalose 6-phosphate
+Tre_c,Trehalose
+cellulose1_c,"Cellulose, 1 repeat units"
+cellulose2_c,"Cellulose, 2 repeat units"
+cellulose3_c,"Cellulose, 3 repeat units"
+Mal_c,Malate
+NAD_c,Nicotinamide adenine dinucleotide
+OAA_c,Oxaloacetate
+NADH_c,Nicotinamide adenine dinucleotide - reduced
+PEP_c,Phosphoenolpyruvate
+CO2_c,"CO2, carbon dioxide"
+HCO3_c,Bicarbonate
+2PGA_c,2-Phosphoglycerate 
+PGA_c,3-Phosphoglycerate
+DPGA_c,3-Phospho-D-glyceroyl phosphate
+NADP_c,Nicotinamide adenine dinucleotide phosphate
+NADPH_c,Nicotinamide adenine dinucleotide phosphate - reduced
+NAD_h,Nicotinamide adenine dinucleotide
+NADH_h,Nicotinamide adenine dinucleotide - reduced
+2PGA_h,2-Phosphoglycerate 
+PEP_h,Phosphoenolpyruvate
+Pyr_c,Pyruvate
+Pyr_h,Pyruvate
+Pyr_m,Pyruvate
+ThPP_m,"ThPP, Thiamine pyrophosphate"
+H_m,"H+, proton"
+H_DASH_Eth_DASH_ThPP_m,2-(alpha-Hydroxyethyl)thiamine diphosphate
+CO2_m,"CO2, carbon dioxide"
+LPA_m,Lipoamide
+A_DASH_DHL_m,Acetyldihydrolipoamide
+CoA_m,Coenzyme A
+A_DASH_CoA_m,Acetyl-Coenzyme A
+DHL_m,Dihydrolipoamide
+NAD_m,Nicotinamide adenine dinucleotide
+NADH_m,Nicotinamide adenine dinucleotide - reduced
+OAA_m,Oxaloacetate
+H2O_m,"H2O, water"
+Cit_m,Citrate
+cACN_m,cis-Aconitate
+iCit_m,Isocitrate
+KG_m,"alpha-Ketoglutarate, 2-Oxoglutarate"
+S_DASH_DHL_m,Succinyldihydrolipoamide
+S_DASH_CoA_m,Succinyl-CoA
+ADP_m,Adenosine diphosphate
+Pi_m,Orthophosphate
+SCA_m,Succinate
+ATP_m,Adenosine triphosphate
+Q_m,Ubiquinone
+Fum_m,Fumarate
+QH2_m,Ubiquinol
+Mal_m,Malate
+H_i,"H+, proton"
+Cytcox_m,Oxidized cytochrome c
+Cytcrd_m,Reduced cytochrome c
+O2_m,"O2, oxygen"
+PGCA_h,2-Phosphoglycolate
+GCA_h,Glycolate
+GCA_p,Glycolate
+O2_p,"O2, oxygen"
+GLX_p,Glyoxylate
+H2O2_p,Hydrogen peroxide
+H2O_p,"H2O, water"
+Glu_p,Glutamate
+Gly_p,Glycine
+KG_p,"alpha-Ketoglutarate, 2-Oxoglutarate"
+Gly_m,Glycine
+LPL_m,Lipoylprotein
+amDHP_m,Aminomethyldihydrolipoylprotein
+THF_m,"5,6,7,8-Tetrahydrofolate"
+DHP_m,Dihydrolipolprotein
+M_DASH_THF_m,"5,10-Methylenetetrahydrofolate"
+NH4_m,Ammonia
+Ser_m,Serine
+Ser_p,Serine
+HPR_p,Hydroxypyruvate
+NADH_p,Nicotinamide adenine dinucleotide - reduced
+H_p,"H+, proton"
+GCEA_p,Glycerate
+NAD_p,Nicotinamide adenine dinucleotide
+Mal_p,Malate
+OAA_p,Oxaloacetate
+GCEA_h,Glycerate
+GLP_h,Glucono-delta-lactone-6-phosphate
+6PG_h,6-Phospho-D-gluconate
+DAHP_h,3-Deoxy-D-arabino-heptulosonate-7-phosphate
+DHQ_h,3-Dehydroquinate
+DHS_h,3-Dehydroshikimate
+SA_h,Shikimate
+S3P_h,Shikimate 3-phosphate
+EPSP_h,5-Enolpyruvyl-shikimate-3-phosphate
+CHR_h,Chorismate
+PRPP_h,5-Phosphoribosyl 1-pyrophosphate
+AMP_h,Adenosine 5-phosphate
+Mal_h,Malate
+OAA_h,Oxaloacetate
+NADPH_m,Nicotinamide adenine dinucleotide phosphate - reduced
+NADP_m,Nicotinamide adenine dinucleotide phosphate
+A_DASH_CoA_c,Acetyl-Coenzyme A
+Cit_c,Citrate
+CoA_c,Coenzyme A
+A_DASH_CoA_h,Acetyl-Coenzyme A
+Cit_h,Citrate
+CoA_h,Coenzyme A
+cACN_c,cis-Aconitate
+cACN_h,cis-Aconitate
+iCit_c,Isocitrate
+iCit_p,Isocitrate
+iCit_h,Isocitrate
+KG_c,"alpha-Ketoglutarate, 2-Oxoglutarate"
+KG_h,"alpha-Ketoglutarate, 2-Oxoglutarate"
+SCA_c,Succinate
+SCA_p,Succinate
+AC_h,Acetate
+HCO3_h,Bicarbonate
+M_DASH_CoA_h,Malonyl-Coenzyme A
+ACP_h,Acyl-carrier protein
+M_DASH_ACP_h,Malonyl-acyl-carrier-protein
+For_h,Formate
+THF_h,"5,6,7,8-Tetrahydrofolate"
+F_DASH_THF_h,10-Formyltetrahydrofolate
+DHF_c,Dihydrofolate
+THF_c,"5,6,7,8-Tetrahydrofolate"
+TRXox_c,Oxidized thioredoxin
+TRXrd_c,Reduced thioredoxin
+ADN_c,Adenosine
+AMP_c,Adenosine 5-phosphate
+Rib_c,Ribose
+AD_c,Adenine
+PRPP_c,5-Phosphoribosyl 1-pyrophosphate
+Rib_h,Ribose
+NO3_c,Nitrate
+NO2_c,Nitrite
+NO2_h,Nitrite
+NH4_h,Ammonia
+SO4_h,Sulfate
+SO4_m,Sulfate
+APS_h,Adenosine 5-phosphosulfate
+GSH_h,Glutathione
+SO3_h,Sulfite
+GSSG_h,Glutathione disulfide
+H2S_h,Hydrogen sulfide
+Glu_h,Glutamate
+Ala_h,Alanine
+Glu_m,Glutamate
+Ala_m,Alanine
+Pyr_p,Pyruvate
+Ala_p,Alanine
+A_DASH_Glu_h,Acetylglutamate
+A_DASH_GluP_h,Acetylglutamate 5-phosphate
+A_DASH_Glu_DASH_SeA_h,Acetylglutamate 5-semialdehyde
+A_DASH_Orn_h,Acetylornithine
+Orn_h,Ornithine
+Gln_h,Glutamine
+CBP_h,Carbamoyl phosphate
+CTL_h,Citrulline
+Asp_h,Aspartate
+Arg_DASH_SCA_h,Argininosuccinate
+Arg_h,Arginine
+Fum_h,Fumarate
+Fum_c,Fumarate
+Gln_c,Glutamine
+Asp_c,Aspartate
+Glu_c,Glutamate
+Asn_c,Asparagine
+Asp_m,Aspartate
+Asp_p,Aspartate
+NH4_c,Ammonia
+Ser_c,Serine
+A_DASH_Ser_c,O-Acetyl-L-serine
+Ser_h,Serine
+A_DASH_Ser_h,O-Acetyl-L-serine
+A_DASH_Ser_m,O-Acetyl-L-serine
+H2S_c,Hydrogen sulfide
+Cys_c,Cysteine
+AC_c,Acetate
+Cys_h,Cysteine
+H2S_m,Hydrogen sulfide
+Cys_m,Cysteine
+AC_m,Acetate
+GABA_c,"GABA, 4-Aminobutyrate"
+GABA_m,"GABA, 4-Aminobutyrate"
+SCA_DASH_SeA_m,Succinate semialdehyde
+Gln_m,Glutamine
+Thr_c,Threonine
+ACD_c,Acetaldehyde
+Gly_c,Glycine
+GLX_h,Glyoxylate
+H2O2_h,Hydrogen peroxide
+Gly_h,Glycine
+PR_DASH_ATP_h,5-Phosphoribosyl-ATP
+PR_DASH_AMP_h,5-Phosphoribosyl-AMP
+P_DASH_AICAR_DASH_P_h,1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide
+Pu_DASH_AICAR_DASH_P_h,5-[(5-phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide
+EIGP_h,Erythro-1-imidazol-4-glycerol 3-phosphate
+AICAR_h,5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide
+IA_DASH_P_h,Imidazole acetol-phosphate
+Hisol_DASH_P_h,Histidinol phosphate
+Hisol_h,Histidinol
+Hisal_h,Histidinal
+His_h,Histidine
+Thr_h,Threonine
+OB_h,2-Oxobutanoate
+ThPP_h,"ThPP, Thiamine pyrophosphate"
+H_DASH_Eth_DASH_ThPP_h,2-(alpha-Hydroxyethyl)thiamine diphosphate
+AHB_h,2-Aceto-2-hydroxybutanoate
+DHMP_h,"2,3-Dihydroxy-3-methylpentanoate"
+MOP_h,3-Methyl-2-oxopentanoate
+Ile_h,Isoleucine
+AL_h,2-Acetolactate
+DHMB_h,"2,3-Dihydroxy-3-methylbutanoate"
+MOB_h,3-Methyl-2-oxobutanoate
+2IPM_h,2-Isopropylmalate
+IPM_h,2-Isopropylmaleate
+3IPM_h,3-Isopropylmalate
+IPO_h,2-Isopropyl-3-oxosuccinate
+4MOP_h,4-Methyl-2-oxopentanoate
+Leu_h,Leucine
+AspP_h,Aspartyl-4-phosphate
+Asp_DASH_SeA_h,Aspartate 4-semialdehyde
+DHD_h,"2,3-Dihydrodipicolinate"
+THD_h,"2,3,4,5-Tetrahydrodipicolinate"
+DAP_h,Diaminopimelate
+mDAP_h,meso-Diaminopimelate
+Lys_h,Lysine
+H_DASH_Ser_h,Homoserine
+PH_DASH_Ser_h,O-Phosphohomoserine
+CTH_h,Cystathionine
+H_DASH_Cys_h,Homocysteine
+M_DASH_THF_c,"5,10-Methylenetetrahydrofolate"
+5M_DASH_THF_c,5-Methyltetrahydrofolate
+H_DASH_Cys_c,Homocysteine
+Met_c,Methionine
+aMet_c,Adenosylmethionine
+aH_DASH_Cys_c,Adenosylhomocysteine
+PRE_h,Prephenate
+AGN_h,Arogenate
+Phe_h,Phenylalanine
+Arg_m,Arginine
+Orn_m,Ornithine
+urea_m,Urea
+Glu_DASH_SeA_m,Glutamate 5-semialdehyde
+GluP_c,Glutamate 5-phosphate
+GluP_h,Glutamate 5-phosphate
+GluP_m,Glutamate 5-phosphate
+Glu_DASH_SeA_c,Glutamate 5-semialdehyde
+Glu_DASH_SeA_h,Glutamate 5-semialdehyde
+P5C_c,1-Pyrroline-5-carboxylate
+P5C_h,1-Pyrroline-5-carboxylate
+P5C_m,1-Pyrroline-5-carboxylate
+Pro_c,Proline
+Pro_m,Proline
+P_DASH_HPR_h,3-Phosphohydroxypyruvate
+PSer_h,O-Phosphoserine
+ANT_h,Anthranilate
+PR_DASH_ANT_h,5-Phosphoribosyl-anthranilate
+CPD_DASH_Ru5P_h,1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate
+Ind_DASH_GP_h,Indole-glycerol 3-phosphate
+Ind_h,Indole
+Trp_h,Tryptophan
+Tyr_h,Tyrosine
+Val_h,Valine
+PRA_h,5-Phospho-beta-D-ribosylamine
+GAR_h,5-Phospho-D-ribosylglycineamide
+FGAR_h,5-Phospho-D-ribosyl-N-formylglycineamide
+FGAM_h,5-Phospho-D-ribosyl-N-formylglycineamidine
+AIR_h,5-Aminoimidazole ribonucleotide
+CAIR_h,4-Carboxyaminoimidazole ribonucleotide
+SAICAR_h,1-(5-Phosphoribosyl)-4-(N-succino-carboxamide)-5-aminoimidazole
+FAICAR_h,5-phosphoribosyl-5-formamido-4-imidazole carboxamide
+IMP_h,Inosine 5-phosphate
+IMP_c,Inosine 5-phosphate
+XMP_c,Xanthosine 5-phosphate
+GMP_c,Guanosine 5-phosphate
+GTP_h,Guanosine triphosphate
+DC_DASH_AMP_h,"N6-(1,2-Dicarboxyethyl)-AMP"
+GDP_h,Guanosine diphosphate
+CB_DASH_Asp_h,N-Carbamoyl-L-aspartate
+DHO_h,Dihydroorotate
+DHO_m,Dihydroorotate
+ORO_m,Orotate
+ORO_c,Orotate
+OMP_c,Orotidine 5-phosphate
+UMP_c,Uridine 5-phosphate
+CTP_c,Cytidine triphosphate
+GDP_c,Guanosine diphosphate
+CDP_c,Cytidine diphosphate
+dADP_c,2-Deoxyadenosine 5-diphosphate
+dCDP_c,2-Deoxycytidine 5-diphosphate
+dGDP_c,2-Deoxyguanosine 5-diphosphate
+dUDP_c,2-Deoxyuridine 5-diphosphate
+dUTP_c,2-Deoxyuridine 5-triphosphate
+dUMP_c,2-Deoxyuridine 5-monophosphate
+dTMP_c,2-Deoxythymidine 5-monophosphate
+dTDP_c,2-Deoxythymidine 5-diphosphate
+GTP_c,Guanosine triphosphate
+dATP_c,2-Deoxyadenosine 5-triphosphate
+dCTP_c,2-Deoxycytidine 5-triphosphate
+dGTP_c,2-Deoxyguanosine 5-triphosphate
+dTTP_c,2-Deoxythymidine 5-triphosphate
+SO4_c,Sulfate
+GCA_c,Glycolate
+GCEA_c,Glycerate
+Ala_c,Alanine
+Arg_c,Arginine
+Lys_c,Lysine
+Lys_m,Lysine
+His_m,Histidine
+His_c,Histidine
+DHO_c,Dihydroorotate
+O2_c,"O2, oxygen"
+Arg_p,Arginine
+Asn_p,Asparagine
+Cys_p,Cysteine
+Gln_p,Glutamine
+His_p,Histidine
+Ile_c,Isoleucine
+Ile_p,Isoleucine
+Leu_c,Leucine
+Leu_p,Leucine
+Lys_p,Lysine
+Met_p,Methionine
+Phe_c,Phenylalanine
+Phe_p,Phenylalanine
+Pro_p,Proline
+Thr_p,Threonine
+Trp_c,Tryptophan
+Trp_p,Tryptophan
+Tyr_c,Tyrosine
+Tyr_p,Tyrosine
+Val_c,Valine
+Val_p,Valine
+Asn_h,Asparagine
+Asn_m,Asparagine
+Ile_m,Isoleucine
+Leu_m,Leucine
+Met_h,Methionine
+Met_m,Methionine
+Phe_m,Phenylalanine
+Pro_h,Proline
+Thr_m,Threonine
+Trp_m,Tryptophan
+Tyr_m,Tyrosine
+Val_m,Valine
+PQstar_h,Plastoquinone radical
+PGR5_PGRL1ox_h,oxidised proton gradient regulation 5 (PGR5)/PGR5-like photosynthetic phenotype 1 (PGRL1) complex
+PGR5_PGRL1rd_h,reduced proton gradient regulation 5 (PGR5)/PGR5-like photosynthetic phenotype 1 (PGRL1) complex
+NDHox_h,oxidised NADH dehydrogenase-like (NDH) complex
+NDHrd_h,reduced NADH dehydrogenase-like (NDH) complex
