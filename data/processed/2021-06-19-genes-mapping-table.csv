@@ -1,0 +1,826 @@
+,aracore_ids,aracore_name,aracore_annotations,symbol,chr,start,end,description,ncbigene,gene_name,uniprot_id
+0,AT4G05180,AT4G05180,{},PSBQ2,4,2671523.0,2673243.0,"Oxygen-evolving enhancer protein 3-2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q41932]",825866.0,"Oxygen-evolving enhancer protein 3-2, chloroplastic ",Q41932
+1,AT2G30570,AT2G30570,{},PSBW,2,13019028.0,13020311.0,PSBW [Source:UniProtKB/TrEMBL;Acc:A0A178VQ32],817606.0,PSBW ,A0A178VQ32
+2,ATCG00560,ATCG00560,{},PSBL,Pt,63804.0,63920.0,Photosystem II reaction center protein L [Source:UniProtKB/Swiss-Prot;Acc:P60129],844751.0,Photosystem II reaction center protein L ,P60129
+3,AT4G21280,AT4G21280,{},PSBQ1,4,11334352.0,11335815.0,"Oxygen-evolving enhancer protein 3-1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9XFT3]",827877.0,"Oxygen-evolving enhancer protein 3-1, chloroplastic ",Q9XFT3
+4,ATCG00300,ATCG00300,{},PSBZ,Pt,35751.0,35939.0,Photosystem II reaction center protein Z [Source:UniProtKB/TrEMBL;Acc:A0A1B1W4U3],844774.0,Photosystem II reaction center protein Z ,A0A1B1W4U3
+5,AT1G06680,AT1G06680,{},PSBP1,1,2047634.0,2049439.0,"Oxygen-evolving enhancer protein 2-1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q42029]",837178.0,"Oxygen-evolving enhancer protein 2-1, chloroplastic ",Q42029
+6,ATCG00080,ATCG00080,{},PSBI,Pt,7583.0,7693.0,Photosystem II reaction center protein I [Source:UniProtKB/TrEMBL;Acc:A0A1B1W4S2],844794.0,Photosystem II reaction center protein I ,A0A1B1W4S2
+7,AT2G06520,AT2G06520,{},PSBX,2,2587729.0,2588448.0,PSBX [Source:UniProtKB/TrEMBL;Acc:A0A178W0Y5],815210.0,PSBX ,A0A178W0Y5
+8,AT1G79040,AT1G79040,{},PSBR,1,29735952.0,29737009.0,"Photosystem II 10 kDa polypeptide, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P27202]",844245.0,"Photosystem II 10 kDa polypeptide, chloroplastic ",P27202
+9,AT5G66570,AT5G66570,{},PSBO1,5,26568572.0,26570461.0,"Oxygen-evolving enhancer protein 1-1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P23321]",836789.0,"Oxygen-evolving enhancer protein 1-1, chloroplastic ",P23321
+10,AT3G21055,AT3G21055,{},PSBTN,3,7376432.0,7377226.0,Photosystem II subunit T [Source:UniProtKB/TrEMBL;Acc:A0A1I9LS90],821657.0,Photosystem II subunit T ,A0A1I9LS90
+11,ATCG00020,ATCG00020,{},PSBA,Pt,383.0,1444.0,Photosystem II protein D1 [Source:UniProtKB/Swiss-Prot;Acc:P83755],844802.0,Photosystem II protein D1 ,P83755
+12,ATCG00270,ATCG00270,{},PSBD,Pt,32711.0,33772.0,Photosystem II D2 protein [Source:UniProtKB/Swiss-Prot;Acc:P56761],844775.0,Photosystem II D2 protein ,P56761
+13,ATCG00690,ATCG00690,{},PSBT,Pt,74082.0,74183.0,Photosystem II reaction center protein T [Source:UniProtKB/Swiss-Prot;Acc:P61839],844731.0,Photosystem II reaction center protein T ,P61839
+14,ATCG00710,ATCG00710,{},PSBH,Pt,74485.0,74706.0,Photosystem II reaction center protein H [Source:UniProtKB/Swiss-Prot;Acc:P56780],844730.0,Photosystem II reaction center protein H ,P56780
+15,ATCG00550,ATCG00550,{},PSBJ,Pt,63538.0,63660.0,Photosystem II reaction center protein J [Source:UniProtKB/Swiss-Prot;Acc:P56781],844749.0,Photosystem II reaction center protein J ,P56781
+16,ATCG00570,ATCG00570,{},PSBF,Pt,63942.0,64061.0,Cytochrome b559 subunit beta [Source:UniProtKB/TrEMBL;Acc:A0A1B1W4V6],844746.0,Cytochrome b559 subunit beta ,A0A1B1W4V6
+17,AT1G67740,AT1G67740,{},PSBY,1,25394031.0,25395249.0,Putative uncharacterized protein [Source:UniProtKB/TrEMBL;Acc:Q549N8],843099.0,Putative uncharacterized protein ,Q549N8
+18,ATCG00580,ATCG00580,{},PSBE,Pt,64071.0,64322.0,Cytochrome b559 subunit alpha [Source:UniProtKB/TrEMBL;Acc:A0A1B1W4W2],844745.0,Cytochrome b559 subunit alpha ,A0A1B1W4W2
+19,AT3G50820,AT3G50820,{},PSBO2,3,18890874.0,18892508.0,"Oxygen-evolving enhancer protein 1-2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9S841]",824246.0,"Oxygen-evolving enhancer protein 1-2, chloroplastic ",Q9S841
+20,ATCG00680,ATCG00680,{},PSBB,Pt,72371.0,73897.0,Photosystem II CP47 reaction center protein [Source:UniProtKB/TrEMBL;Acc:A0A1B1W4X0],844733.0,Photosystem II CP47 reaction center protein ,A0A1B1W4X0
+21,ATCG00280,ATCG00280,{},PSBC,Pt,33720.0,35141.0,Photosystem II CP43 reaction center protein [Source:UniProtKB/TrEMBL;Acc:A0A1B1W4T4],844773.0,Photosystem II CP43 reaction center protein ,A0A1B1W4T4
+22,AT1G44575,AT1G44575,{},PSBS,1,16870221.0,16873427.0,"Photosystem II 22 kDa protein, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9XF91]",841033.0,"Photosystem II 22 kDa protein, chloroplastic ",Q9XF91
+23,ATCG00220,ATCG00220,{},PSBM,Pt,28707.0,28811.0,Photosystem II reaction center protein M [Source:UniProtKB/Swiss-Prot;Acc:P62109],844781.0,Photosystem II reaction center protein M ,P62109
+24,ATCG00700,ATCG00700,{},PSBN,Pt,74249.0,74380.0,Protein PsbN [Source:UniProtKB/Swiss-Prot;Acc:P62113],844732.0,Protein PsbN ,P62113
+25,ATCG00070,ATCG00070,{},PSBK,Pt,7017.0,7202.0,Photosystem II reaction center protein K [Source:UniProtKB/Swiss-Prot;Acc:P56782],844795.0,Photosystem II reaction center protein K ,P56782
+26,ATCG00730,ATCG00730,{},PETD,Pt,76481.0,77672.0,Cytochrome b6-f complex subunit 4 [Source:UniProtKB/Swiss-Prot;Acc:P56774],844728.0,Cytochrome b6-f complex subunit 4 ,P56774
+27,ATCG00600,ATCG00600,{},PETG,Pt,65998.0,66111.0,Cytochrome b6-f complex subunit 5 [Source:UniProtKB/Swiss-Prot;Acc:P56775],844743.0,Cytochrome b6-f complex subunit 5 ,P56775
+28,ATCG00210,ATCG00210,{},PETN,Pt,28089.0,28178.0,Cytochrome b6-f complex subunit 8 [Source:UniProtKB/Swiss-Prot;Acc:P61039],844779.0,Cytochrome b6-f complex subunit 8 ,P61039
+29,ATCG00590,ATCG00590,{},ORF31,Pt,65712.0,65807.0,Cytochrome b6-f complex subunit 6 [Source:UniProtKB/TrEMBL;Acc:A0A1B1W4V9],844744.0,Cytochrome b6-f complex subunit 6 ,A0A1B1W4V9
+30,AT2G26500,AT2G26500,{},,2.0,11270082.0,11271074.0,At2g26500/T9J22.17 [Source:UniProtKB/TrEMBL;Acc:O48717],817191.0,At2g26500/T9J22.17 ,O48717
+31,AT4G03280,AT4G03280,{},PETC,4,1440146.0,1441863.0,"Cytochrome b6-f complex iron-sulfur subunit, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9ZR03]",827996.0,"Cytochrome b6-f complex iron-sulfur subunit, chloroplastic ",Q9ZR03
+32,ATCG00720,ATCG00720,{},PETB,Pt,74841.0,76292.0,Cytochrome b6 [Source:UniProtKB/Swiss-Prot;Acc:P56773],844729.0,Cytochrome b6 ,P56773
+33,ATCG00540,ATCG00540,{},PETA,Pt,61657.0,62619.0,Cytochrome f [Source:UniProtKB/Swiss-Prot;Acc:P56771],844748.0,Cytochrome f ,P56771
+34,AT2G05620,AT2G05620,{},PGR5,2,2080647.0,2081859.0,"Protein PROTON GRADIENT REGULATION 5, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9SL05]",815111.0,"Protein PROTON GRADIENT REGULATION 5, chloroplastic ",Q9SL05
+35,AT4G22890,AT4G22890,{},PGRL1A,4,12006986.0,12009536.0,PGR5-LIKE A [Source:UniProtKB/TrEMBL;Acc:A0A178UU76],828388.0,PGR5-LIKE A ,A0A178UU76
+36,AT4G11960,AT4G11960,{},PGRL1B,4,7174886.0,7177888.0,"PGR5-like protein 1B, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q8GYC7]",826803.0,"PGR5-like protein 1B, chloroplastic ",Q8GYC7
+37,AT5G58260,AT5G58260,{},ndhN,5,23560568.0,23562001.0,NdhN [Source:UniProtKB/TrEMBL;Acc:A0A178UG88],835938.0,NdhN ,A0A178UG88
+38,ATCG01090,ATCG01090,{},NDHI,Pt,119244.0,119762.0,"NAD(P)H-quinone oxidoreductase subunit I, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P56755]",844806.0,"NAD(P)H-quinone oxidoreductase subunit I, chloroplastic ",P56755
+39,AT1G14150,AT1G14150,{},PNSL2,1,4839801.0,4840823.0,"Photosynthetic NDH subunit of lumenal location 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9XI73]",837974.0,"Photosynthetic NDH subunit of lumenal location 2, chloroplastic ",Q9XI73
+40,ATCG00440,ATCG00440,{},NDHC,Pt,50001.0,50363.0,"NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic [Source:UniProtKB/TrEMBL;Acc:A0A1B1W4V1]",844762.0,"NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic ",A0A1B1W4V1
+41,AT1G70760,AT1G70760,{},ndhL,1,26687202.0,26688384.0,"NAD(P)H-quinone oxidoreductase subunit L, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9CAC5]",843413.0,"NAD(P)H-quinone oxidoreductase subunit L, chloroplastic ",Q9CAC5
+42,ATCG01100,ATCG01100,{},NDHA,Pt,119847.0,122009.0,"NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q37165]",844804.0,"NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic ",Q37165
+43,ATCG00890,ATCG00890,{},NDHB.1,Pt,94941.0,96795.0,NADH-Ubiquinone/plastoquinone (complex I) protein [Source:TAIR;Acc:ATCG00890],,NADH-Ubiquinone/plastoquinone (complex I) protein ,ATCG00890
+44,AT5G43750,AT5G43750,{},PNSB5,5,17579867.0,17581275.0,PnsB5 [Source:UniProtKB/TrEMBL;Acc:A0A178UJI2],834396.0,PnsB5 ,A0A178UJI2
+45,AT1G74880,AT1G74880,{},ndhO,1,28129828.0,28131077.0,"NAD(P)H-quinone oxidoreductase subunit O, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9S829]",843827.0,"NAD(P)H-quinone oxidoreductase subunit O, chloroplastic ",Q9S829
+46,ATCG00430,ATCG00430,{},NDHK,Pt,49257.0,49934.0,"NAD(P)H-quinone oxidoreductase subunit K, chloroplastic [Source:UniProtKB/TrEMBL;Acc:A0A1B1W4U5]",844761.0,"NAD(P)H-quinone oxidoreductase subunit K, chloroplastic ",A0A1B1W4U5
+47,AT4G37925,AT4G37925,{},NDHM,4,17830533.0,17831619.0,"NAD(P)H-quinone oxidoreductase subunit M, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q2V2S7]",3770591.0,"NAD(P)H-quinone oxidoreductase subunit M, chloroplastic ",Q2V2S7
+48,ATCG01080,ATCG01080,{},NDHG,Pt,118377.0,118907.0,"NAD(P)H-quinone oxidoreductase subunit 6, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q95695]",844739.0,"NAD(P)H-quinone oxidoreductase subunit 6, chloroplastic ",Q95695
+49,AT1G15980,AT1G15980,{},PNSB1,1,5489145.0,5491363.0,"Photosynthetic NDH subunit of subcomplex B 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9S9N6]",838168.0,"Photosynthetic NDH subunit of subcomplex B 1, chloroplastic ",Q9S9N6
+50,AT4G39710,AT4G39710,{},PNSL4,4,18426492.0,18428578.0,"Photosynthetic NDH subunit of lumenal location 4, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9SCY3]",830126.0,"Photosynthetic NDH subunit of lumenal location 4, chloroplastic ",Q9SCY3
+51,AT1G18730,AT1G18730,{},PNSB4,1,6460403.0,6462344.0,"Photosynthetic NDH subunit of subcomplex B 4, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q8RXS1]",838455.0,"Photosynthetic NDH subunit of subcomplex B 4, chloroplastic ",Q8RXS1
+52,AT3G01440,AT3G01440,{},PNSL3,3,168408.0,169662.0,"Photosynthetic NDH subunit of lumenal location 3, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9SGH4]",821143.0,"Photosynthetic NDH subunit of lumenal location 3, chloroplastic ",Q9SGH4
+53,ATCG01110,ATCG01110,{},NDHH,Pt,122011.0,123192.0,"NAD(P)H-quinone oxidoreductase subunit H, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P56753]",844805.0,"NAD(P)H-quinone oxidoreductase subunit H, chloroplastic ",P56753
+54,ATCG01070,ATCG01070,{},NDHE,Pt,117804.0,118109.0,"NAD(P)H-quinone oxidoreductase subunit 4L, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P26289]",844741.0,"NAD(P)H-quinone oxidoreductase subunit 4L, chloroplastic ",P26289
+55,AT5G13120,AT5G13120,{},PNSL5,5,4162374.0,4164923.0,Peptidyl-prolyl cis-trans isomerase [Source:UniProtKB/TrEMBL;Acc:A0A178UN74],831151.0,Peptidyl-prolyl cis-trans isomerase ,A0A178UN74
+56,ATCG01010,ATCG01010,{},NDHF,Pt,110398.0,112638.0,"NAD(P)H-quinone oxidoreductase subunit 5, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P56752]",844705.0,"NAD(P)H-quinone oxidoreductase subunit 5, chloroplastic ",P56752
+57,ATCG00420,ATCG00420,{},NDHJ,Pt,48677.0,49153.0,"NAD(P)H-quinone oxidoreductase subunit J, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P56754]",844763.0,"NAD(P)H-quinone oxidoreductase subunit J, chloroplastic ",P56754
+58,ATCG01050,ATCG01050,{},NDHD,Pt,115665.0,117185.0,NADH-Ubiquinone/plastoquinone (complex I) protein [Source:TAIR;Acc:ATCG01050],,NADH-Ubiquinone/plastoquinone (complex I) protein ,ATCG01050
+59,AT2G39470,AT2G39470,{},PNSL1,2,16476198.0,16477843.0,"Photosynthetic NDH subunit of lumenal location 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:O80634]",818532.0,"Photosynthetic NDH subunit of lumenal location 1, chloroplastic ",O80634
+60,AT3G16250,AT3G16250,{},PNSB3,3,5506931.0,5508414.0,"Photosynthetic NDH subunit of subcomplex B 3, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9LU21]",820871.0,"Photosynthetic NDH subunit of subcomplex B 3, chloroplastic ",Q9LU21
+61,AT4G02770,AT4G02770,{},PSAD1,4,1229031.0,1230164.0,"Photosystem I reaction center subunit II-1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9S7H1]",828183.0,"Photosystem I reaction center subunit II-1, chloroplastic ",Q9S7H1
+62,AT1G08380,AT1G08380,{},PSAO,1,2640803.0,2641934.0,PSAO [Source:UniProtKB/TrEMBL;Acc:A0A178W5Y5],837358.0,PSAO ,A0A178W5Y5
+63,AT2G20260,AT2G20260,{},PSAE2,2,8736734.0,8737767.0,"Photosystem I reaction center subunit IV B, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9S714]",816545.0,"Photosystem I reaction center subunit IV B, chloroplastic ",Q9S714
+64,AT1G03130,AT1G03130,{},PSAD2,1,753307.0,754262.0,"Photosystem I reaction center subunit II-2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9SA56]",838400.0,"Photosystem I reaction center subunit II-2, chloroplastic ",Q9SA56
+65,AT1G31330,AT1G31330,{},PSAF,1,11214676.0,11216141.0,"Photosystem I reaction center subunit III, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9SHE8]",840021.0,"Photosystem I reaction center subunit III, chloroplastic ",Q9SHE8
+66,AT2G46820,AT2G46820,{},CURT1B,2,19243348.0,19245141.0,"Protein CURVATURE THYLAKOID 1B, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q8LCA1]",819295.0,"Protein CURVATURE THYLAKOID 1B, chloroplastic ",Q8LCA1
+67,ATCG00630,ATCG00630,{},PSAJ,Pt,66929.0,67063.0,Photosystem I reaction center subunit IX [Source:UniProtKB/TrEMBL;Acc:A0A1B1W4W1],844738.0,Photosystem I reaction center subunit IX ,A0A1B1W4W1
+68,ATCG00340,ATCG00340,{},PSAB,Pt,37375.0,39579.0,Photosystem I P700 chlorophyll a apoprotein A2 [Source:UniProtKB/TrEMBL;Acc:A0A1B1W4U2],844770.0,Photosystem I P700 chlorophyll a apoprotein A2 ,A0A1B1W4U2
+69,ATCG00350,ATCG00350,{},PSAA,Pt,39605.0,41857.0,Photosystem I P700 chlorophyll a apoprotein A1 [Source:UniProtKB/Swiss-Prot;Acc:P56766],844768.0,Photosystem I P700 chlorophyll a apoprotein A1 ,P56766
+70,AT1G30380,AT1G30380,{},PSAK,1,10722183.0,10723247.0,"Photosystem I reaction center subunit psaK, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9SUI5]",839918.0,"Photosystem I reaction center subunit psaK, chloroplastic ",Q9SUI5
+71,AT4G12800,AT4G12800,{},PSAL,4,7521257.0,7522761.0,photosystem I subunit l [Source:TAIR;Acc:AT4G12800],826892.0,photosystem I subunit l ,AT4G12800
+72,ATCG01060,ATCG01060,{},PSAC,Pt,117318.0,117563.0,Photosystem I iron-sulfur center [Source:UniProtKB/Swiss-Prot;Acc:P62090],844750.0,Photosystem I iron-sulfur center ,P62090
+73,AT3G16140,AT3G16140,{},PSAH1,3,5467987.0,5469594.0,"Photosystem I reaction center subunit VI-1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9SUI7]",820859.0,"Photosystem I reaction center subunit VI-1, chloroplastic ",Q9SUI7
+74,AT1G55670,AT1G55670,{},PSAG,1,20802670.0,20803449.0,"Photosystem I reaction center subunit V, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9S7N7]",842016.0,"Photosystem I reaction center subunit V, chloroplastic ",Q9S7N7
+75,AT4G28750,AT4G28750,{},PSAE1,4,14202758.0,14204061.0,"Photosystem I reaction center subunit IV A, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9S831]",828996.0,"Photosystem I reaction center subunit IV A, chloroplastic ",Q9S831
+76,ATCG00510,ATCG00510,{},PSAI,Pt,59247.0,59360.0,Photosystem I reaction center subunit VIII [Source:UniProtKB/TrEMBL;Acc:A0A1B1W4U9],844753.0,Photosystem I reaction center subunit VIII ,A0A1B1W4U9
+77,AT5G64040,AT5G64040,{},PSAN,5,25628521.0,25629708.0,"Photosystem I reaction center subunit PSI-N, chloroplast, putative / PSI-N, putative (PSAN) [Source:UniProtKB/TrEMBL;Acc:F4KC80]",836525.0,"Photosystem I reaction center subunit PSI-N, chloroplast, putative / PSI-N, putative (PSAN) ",F4KC80
+78,AT1G52230,AT1G52230,{},PSAH2,1,19454798.0,19455668.0,"Photosystem I reaction center subunit VI-2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9SUI6]",841653.0,"Photosystem I reaction center subunit VI-2, chloroplastic ",Q9SUI6
+79,AT1G20020,AT1G20020,{},LFNR2,1,6942625.0,6945091.0,"Ferredoxin--NADP reductase, leaf isozyme 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q8W493]",838591.0,"Ferredoxin--NADP reductase, leaf isozyme 2, chloroplastic ",Q8W493
+80,AT4G05390,AT4G05390,{},RFNR1,4,2738531.0,2740927.0,"Ferredoxin--NADP reductase, root isozyme 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9M0V6]",825887.0,"Ferredoxin--NADP reductase, root isozyme 1, chloroplastic ",Q9M0V6
+81,AT1G30510,AT1G30510,{},RFNR2,1,10806930.0,10809188.0,"Ferredoxin--NADP reductase, root isozyme 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9S9P8]",839930.0,"Ferredoxin--NADP reductase, root isozyme 2, chloroplastic ",Q9S9P8
+82,AT5G66190,AT5G66190,{},LFNR1,5,26450964.0,26453199.0,"Ferredoxin--NADP reductase, leaf isozyme 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9FKW6]",836751.0,"Ferredoxin--NADP reductase, leaf isozyme 1, chloroplastic ",Q9FKW6
+83,AT1G15700,AT1G15700,{},ATPC2,1,5402569.0,5403818.0,"ATP synthase gamma chain 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q01909]",838139.0,"ATP synthase gamma chain 2, chloroplastic ",Q01909
+84,ATCG00470,ATCG00470,{},ATPE,Pt,52265.0,52663.0,"ATP synthase epsilon chain, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P09468]",844758.0,"ATP synthase epsilon chain, chloroplastic ",P09468
+85,ATCG00140,ATCG00140,{},ATPH,Pt,13262.0,13507.0,"ATP synthase subunit c, chloroplastic [Source:UniProtKB/TrEMBL;Acc:A0A1B1W4S3]",844788.0,"ATP synthase subunit c, chloroplastic ",A0A1B1W4S3
+86,ATCG00480,ATCG00480,{},ATPB,Pt,52660.0,54156.0,"ATP synthase subunit beta, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P19366]",844757.0,"ATP synthase subunit beta, chloroplastic ",P19366
+87,AT4G04640,AT4G04640,{},ATPC1,4,2350498.0,2352025.0,"ATP synthase gamma chain 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q01908]",825797.0,"ATP synthase gamma chain 1, chloroplastic ",Q01908
+88,ATCG00150,ATCG00150,{},ATPI,Pt,14021.0,14770.0,"ATP synthase subunit a, chloroplastic [Source:UniProtKB/TrEMBL;Acc:A0A1B1W4S9]",844787.0,"ATP synthase subunit a, chloroplastic ",A0A1B1W4S9
+89,ATCG00120,ATCG00120,{},ATPA,Pt,9938.0,11461.0,"ATP synthase subunit alpha, chloroplastic [Source:UniProtKB/TrEMBL;Acc:A0A1B1W4S8]",844790.0,"ATP synthase subunit alpha, chloroplastic ",A0A1B1W4S8
+90,ATCG00130,ATCG00130,{},ATPF,Pt,11529.0,12798.0,"ATP synthase subunit b, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P56759]",844789.0,"ATP synthase subunit b, chloroplastic ",P56759
+91,AT4G09650,AT4G09650,{},ATPD,4,6100714.0,6101864.0,PDE332 [Source:UniProtKB/TrEMBL;Acc:A0A178V1L3],826551.0,PDE332 ,A0A178V1L3
+92,AT1G67090,AT1G67090,{},RBCS-1A,1,25048158.0,25049667.0,Ribulose bisphosphate carboxylase small chain [Source:UniProtKB/TrEMBL;Acc:A0A178WD57],843029.0,Ribulose bisphosphate carboxylase small chain ,A0A178WD57
+93,ATCG00490,ATCG00490,{},RBCL,Pt,54958.0,56397.0,Ribulose bisphosphate carboxylase large chain [Source:UniProtKB/Swiss-Prot;Acc:O03042],844754.0,Ribulose bisphosphate carboxylase large chain ,O03042
+94,AT5G38410,AT5G38410,{},,5.0,15376988.0,15378642.0,Ribulose bisphosphate carboxylase small chain [Source:UniProtKB/TrEMBL;Acc:B3H5S2],833828.0,Ribulose bisphosphate carboxylase small chain ,B3H5S2
+95,AT5G38420,AT5G38420,{},RBCS-2B,5,15380907.0,15382071.0,"Ribulose bisphosphate carboxylase small chain 2B, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P10797]",833829.0,"Ribulose bisphosphate carboxylase small chain 2B, chloroplastic ",P10797
+96,AT5G38430,AT5G38430,{},RBCS-1B,5,15383167.0,15385320.0,"Ribulose bisphosphate carboxylase small chain 1B, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P10796]",833830.0,"Ribulose bisphosphate carboxylase small chain 1B, chloroplastic ",P10796
+97,AT1G79550,AT1G79550,{},PGK3,1,29924023.0,29926636.0,Phosphoglycerate kinase [Source:UniProtKB/TrEMBL;Acc:A0A178WHC3],844293.0,Phosphoglycerate kinase ,A0A178WHC3
+98,AT1G56190,AT1G56190,{},,1.0,21028137.0,21030684.0,Phosphoglycerate kinase [Source:UniProtKB/TrEMBL;Acc:A0A178W4Q1],842072.0,Phosphoglycerate kinase ,A0A178W4Q1
+99,AT3G12780,AT3G12780,{},PGK1,3,4060920.0,4063306.0,Phosphoglycerate kinase [Source:UniProtKB/TrEMBL;Acc:A0A178V5M8],820461.0,Phosphoglycerate kinase ,A0A178V5M8
+100,AT1G42970,AT1G42970,{},GAPB,1,16127353.0,16129895.0,"Glyceraldehyde-3-phosphate dehydrogenase GAPB, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P25857]",840895.0,"Glyceraldehyde-3-phosphate dehydrogenase GAPB, chloroplastic ",P25857
+101,AT1G12900,AT1G12900,{},GAPA-2,1,4392438.0,4394454.0,glyceraldehyde 3-phosphate dehydrogenase A subunit 2 [Source:TAIR;Acc:AT1G12900],837848.0,glyceraldehyde 3-phosphate dehydrogenase A subunit 2 ,AT1G12900
+102,AT3G26650,AT3G26650,{},GAPA1,3,9794862.0,9797045.0,"Glyceraldehyde-3-phosphate dehydrogenase GAPA1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P25856]",822277.0,"Glyceraldehyde-3-phosphate dehydrogenase GAPA1, chloroplastic ",P25856
+103,AT3G55440,AT3G55440,{},CTIMC,3,20553403.0,20556560.0,"Triosephosphate isomerase, cytosolic [Source:UniProtKB/Swiss-Prot;Acc:P48491]",824710.0,"Triosephosphate isomerase, cytosolic ",P48491
+104,AT2G21170,AT2G21170,{},TIM,2,9070734.0,9074470.0,TIM [Source:UniProtKB/TrEMBL;Acc:A0A178VN28],816652.0,TIM ,A0A178VN28
+105,AT4G26530,AT4G26530,{},FBA5,4,13390754.0,13393265.0,Fructose-bisphosphate aldolase [Source:UniProtKB/TrEMBL;Acc:A0A178V385],828759.0,Fructose-bisphosphate aldolase ,A0A178V385
+106,AT2G21330,AT2G21330,{},FBA1,2,9128122.0,9130619.0,"Fructose-bisphosphate aldolase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9SJU4]",816672.0,"Fructose-bisphosphate aldolase 1, chloroplastic ",Q9SJU4
+107,AT2G01140,AT2G01140,{},FBA3,2,94727.0,96863.0,"Fructose-bisphosphate aldolase 3, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9ZU52]",814643.0,"Fructose-bisphosphate aldolase 3, chloroplastic ",Q9ZU52
+108,AT4G38970,AT4G38970,{},FBA2,4,18163496.0,18166008.0,Fructose-bisphosphate aldolase [Source:UniProtKB/TrEMBL;Acc:A0A178UW98],830052.0,Fructose-bisphosphate aldolase ,A0A178UW98
+109,AT3G52930,AT3G52930,{},FBA8,3,19626748.0,19629204.0,Fructose-bisphosphate aldolase [Source:UniProtKB/TrEMBL;Acc:A0A178V8L4],824459.0,Fructose-bisphosphate aldolase ,A0A178V8L4
+110,AT3G54050,AT3G54050,{},CFBP1,3,20016837.0,20018822.0,"Fructose-1,6-bisphosphatase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P25851]",824572.0,"Fructose-1,6-bisphosphatase 1, chloroplastic ",P25851
+111,AT2G45290,AT2G45290,{},TKL-2,2,18672497.0,18676484.0,"Transketolase-2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:F4IW47]",819137.0,"Transketolase-2, chloroplastic ",F4IW47
+112,AT3G60750,AT3G60750,{},TKL-1,3,22453668.0,22457458.0,"Transketolase-1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q8RWV0]",825246.0,"Transketolase-1, chloroplastic ",Q8RWV0
+113,AT3G55800,AT3G55800,{},SBPASE,3,20709294.0,20711640.0,"Sedoheptulose-1,7-bisphosphatase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P46283]",824746.0,"Sedoheptulose-1,7-bisphosphatase, chloroplastic ",P46283
+114,AT5G61410,AT5G61410,{},RPE,5,24683606.0,24686217.0,RPE [Source:UniProtKB/TrEMBL;Acc:A0A178UPG9],836262.0,RPE ,A0A178UPG9
+115,AT3G04790,AT3G04790,{},RPI3,3,1313297.0,1314288.0,EMB3119 [Source:UniProtKB/TrEMBL;Acc:A0A178V804],819639.0,EMB3119 ,A0A178V804
+116,AT5G44520,AT5G44520,{},,5.0,17934287.0,17936554.0,NagB/RpiA/CoA transferase-like superfamily protein [Source:TAIR;Acc:AT5G44520],834479.0,NagB/RpiA/CoA transferase-like superfamily protein ,AT5G44520
+117,AT1G32060,AT1G32060,{},PRK,1,11532199.0,11534639.0,Phosphoribulokinase [Source:UniProtKB/TrEMBL;Acc:A0A178WLP9],840098.0,Phosphoribulokinase ,A0A178WLP9
+118,AT4G24620,AT4G24620,{},PGI1,4,12708646.0,12712825.0,Glucose-6-phosphate isomerase [Source:UniProtKB/TrEMBL;Acc:A0A178UUU3],828564.0,Glucose-6-phosphate isomerase ,A0A178UUU3
+119,AT5G51820,AT5G51820,{},PGMP,5,21063298.0,21068327.0,"Phosphoglucomutase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9SCY0]",835257.0,"Phosphoglucomutase, chloroplastic ",Q9SCY0
+120,AT1G70730,AT1G70730,{},PGM2,1,26668646.0,26673166.0,Phosphoglucomutase/phosphomannomutase family protein [Source:UniProtKB/TrEMBL;Acc:F4I6W4],843410.0,Phosphoglucomutase/phosphomannomutase family protein ,F4I6W4
+121,AT1G23190,AT1G23190,{},PGM3,1,8219808.0,8224547.0,"Probable phosphoglucomutase, cytoplasmic 1 [Source:UniProtKB/Swiss-Prot;Acc:O49299]",838927.0,"Probable phosphoglucomutase, cytoplasmic 1 ",O49299
+122,AT4G39210,AT4G39210,{},APL3,4,18259547.0,18263468.0,Glucose-1-phosphate adenylyltransferase [Source:UniProtKB/TrEMBL;Acc:A0A178US50],830076.0,Glucose-1-phosphate adenylyltransferase ,A0A178US50
+123,AT5G48300,AT5G48300,{},APS1,5,19570238.0,19572804.0,"Glucose-1-phosphate adenylyltransferase small subunit, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P55228]",834883.0,"Glucose-1-phosphate adenylyltransferase small subunit, chloroplastic ",P55228
+124,AT1G27680,AT1G27680,{},APL2,1,9631190.0,9634597.0,"Glucose-1-phosphate adenylyltransferase large subunit 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P55230]",839660.0,"Glucose-1-phosphate adenylyltransferase large subunit 2, chloroplastic ",P55230
+125,AT2G21590,AT2G21590,{},APL4,2,9238296.0,9242481.0,"Probable glucose-1-phosphate adenylyltransferase large subunit, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9SIK1]",816697.0,"Probable glucose-1-phosphate adenylyltransferase large subunit, chloroplastic ",Q9SIK1
+126,AT5G19220,AT5G19220,{},ADG2,5,6463824.0,6466831.0,"Glucose-1-phosphate adenylyltransferase large subunit 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P55229]",832042.0,"Glucose-1-phosphate adenylyltransferase large subunit 1, chloroplastic ",P55229
+127,AT1G05610,AT1G05610,{},APS2,1,1673861.0,1676077.0,ADP-glucose pyrophosphorylase small subunit 2 [Source:TAIR;Acc:AT1G05610],837066.0,ADP-glucose pyrophosphorylase small subunit 2 ,AT1G05610
+128,AT5G24300,AT5G24300,{},SS1,5,8266566.0,8271205.0,"Starch synthase, chloroplastic/amyloplastic (Fragment) [Source:UniProtKB/TrEMBL;Acc:W8QN76]",832497.0,"Starch synthase, chloroplastic/amyloplastic (Fragment) ",W8QN76
+129,AT4G18240,AT4G18240,{},SS4,4,10082108.0,10087203.0,"Probable starch synthase 4, chloroplastic/amyloplastic [Source:UniProtKB/Swiss-Prot;Acc:Q0WVX5]",827550.0,"Probable starch synthase 4, chloroplastic/amyloplastic ",Q0WVX5
+130,AT1G11720,AT1G11720,{},ATSS3,1,3951366.0,3957044.0,SS3 [Source:UniProtKB/TrEMBL;Acc:A0A178W4M9],837716.0,SS3 ,A0A178W4M9
+131,AT3G01180,AT3G01180,{},SS2,3,62245.0,66111.0,"Starch synthase, chloroplastic/amyloplastic (Fragment) [Source:UniProtKB/TrEMBL;Acc:W8QNS2]",820294.0,"Starch synthase, chloroplastic/amyloplastic (Fragment) ",W8QNS2
+132,AT4G00490,AT4G00490,{},BAM2,4,222289.0,225131.0,"Beta-amylase 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:O65258]",827959.0,"Beta-amylase 2, chloroplastic ",O65258
+133,AT2G32290,AT2G32290,{},BAM6,2,13714516.0,13717002.0,Beta-amylase 6 [Source:UniProtKB/Swiss-Prot;Acc:Q8L762],817789.0,Beta-amylase 6 ,Q8L762
+134,AT4G17090,AT4G17090,{},BAM3,4,9604962.0,9607402.0,"Beta-amylase 3, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:O23553]",827419.0,"Beta-amylase 3, chloroplastic ",O23553
+135,AT3G23920,AT3G23920,{},BAM1,3,8641181.0,8644449.0,Beta-amylase [Source:UniProtKB/TrEMBL;Acc:A0A178VNG4],821975.0,Beta-amylase ,A0A178VNG4
+136,AT5G64860,AT5G64860,{},DPE1,5,25925173.0,25928879.0,"4-alpha-glucanotransferase DPE1, chloroplastic/amyloplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9LV91]",836609.0,"4-alpha-glucanotransferase DPE1, chloroplastic/amyloplastic ",Q9LV91
+137,AT2G40840,AT2G40840,{},DPE2,2,17044932.0,17051062.0,4-alpha-glucanotransferase DPE2 [Source:UniProtKB/Swiss-Prot;Acc:Q8RXD9],818682.0,4-alpha-glucanotransferase DPE2 ,Q8RXD9
+138,AT4G29130,AT4G29130,{},HXK1,4,14352037.0,14355201.0,HXK1 [Source:UniProtKB/TrEMBL;Acc:A0A384KTL6],829034.0,HXK1 ,A0A384KTL6
+139,AT2G19860,AT2G19860,{},HXK2,2,8570607.0,8574067.0,Phosphotransferase [Source:UniProtKB/TrEMBL;Acc:A0A178VX81],816505.0,Phosphotransferase ,A0A178VX81
+140,AT3G46970,AT3G46970,{},PHS2,3,17301394.0,17306633.0,"Alpha-glucan phosphorylase 2, cytosolic [Source:UniProtKB/Swiss-Prot;Acc:Q9SD76]",823850.0,"Alpha-glucan phosphorylase 2, cytosolic ",Q9SD76
+141,AT3G29320,AT3G29320,{},PHS1,3,11252807.0,11257814.0,Alpha-glucan phosphorylase 1 [Source:UniProtKB/Swiss-Prot;Acc:Q9LIB2],822590.0,Alpha-glucan phosphorylase 1 ,Q9LIB2
+142,AT2G36460,AT2G36460,{},FBA6,2,15296613.0,15298754.0,"Fructose-bisphosphate aldolase 6, cytosolic [Source:UniProtKB/Swiss-Prot;Acc:Q9SJQ9]",818220.0,"Fructose-bisphosphate aldolase 6, cytosolic ",Q9SJQ9
+143,AT4G26520,AT4G26520,{},,4.0,13388290.0,13390862.0,Aldolase superfamily protein [Source:TAIR;Acc:AT4G26520],828758.0,Aldolase superfamily protein ,AT4G26520
+144,AT5G03690,AT5G03690,{},FBA4,5,963147.0,965327.0,"Fructose-bisphosphate aldolase 4, cytosolic [Source:UniProtKB/Swiss-Prot;Acc:F4KGQ0]",831759.0,"Fructose-bisphosphate aldolase 4, cytosolic ",F4KGQ0
+145,AT1G43670,AT1G43670,{},CYFBP,1,16467298.0,16470500.0,"Fructose-1,6-bisphosphatase, cytosolic [Source:UniProtKB/Swiss-Prot;Acc:Q9MA79]",840953.0,"Fructose-1,6-bisphosphatase, cytosolic ",Q9MA79
+146,AT1G07110,AT1G07110,{},FKFBP,1,2178022.0,2184193.0,FKFBP [Source:UniProtKB/TrEMBL;Acc:A0A178W4F2],837221.0,FKFBP ,A0A178W4F2
+147,AT5G42740,AT5G42740,{},PGIC,5,17135661.0,17141173.0,Glucose-6-phosphate isomerase [Source:UniProtKB/TrEMBL;Acc:A0A178UPP5],834283.0,Glucose-6-phosphate isomerase ,A0A178UPP5
+148,AT5G52560,AT5G52560,{},USP,5,21330608.0,21334811.0,UDP-sugar pyrophosphorylase [Source:UniProtKB/Swiss-Prot;Acc:Q9C5I1],835333.0,UDP-sugar pyrophosphorylase ,Q9C5I1
+149,AT2G35020,AT2G35020,{},GLCNAC1PUT2,2,14756511.0,14760709.0,UDP-N-acetylglucosamine diphosphorylase 2 [Source:UniProtKB/Swiss-Prot;Acc:O64765],818066.0,UDP-N-acetylglucosamine diphosphorylase 2 ,O64765
+150,AT5G17310,AT5G17310,{},UGP1,5,5696478.0,5700993.0,UTP--glucose-1-phosphate uridylyltransferase 1 [Source:UniProtKB/Swiss-Prot;Acc:P57751],831596.0,UTP--glucose-1-phosphate uridylyltransferase 1 ,P57751
+151,AT3G56040,AT3G56040,{},UGP3,3,20792477.0,20797670.0,"UTP--glucose-1-phosphate uridylyltransferase 3, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:F4IY62]",824770.0,"UTP--glucose-1-phosphate uridylyltransferase 3, chloroplastic ",F4IY62
+152,AT3G03250,AT3G03250,{},UGP,3,749309.0,754161.0,UTP--glucose-1-phosphate uridylyltransferase [Source:UniProtKB/TrEMBL;Acc:A0A1I9LT02],821313.0,UTP--glucose-1-phosphate uridylyltransferase ,A0A1I9LT02
+153,AT5G11110,AT5G11110,{},SPS2,5,3536189.0,3541149.0,Glycosyltransferase (Fragment) [Source:UniProtKB/TrEMBL;Acc:W8QNB0],830979.0,Glycosyltransferase (Fragment) ,W8QNB0
+154,AT4G10120,AT4G10120,{},SPS4,4,6313914.0,6320094.0,Probable sucrose-phosphate synthase 4 [Source:UniProtKB/Swiss-Prot;Acc:F4JLK2],826603.0,Probable sucrose-phosphate synthase 4 ,F4JLK2
+155,AT5G20280,AT5G20280,{},SPS1,5,6844712.0,6850237.0,Sucrose-phosphate synthase 1 [Source:UniProtKB/Swiss-Prot;Acc:Q94BT0],832150.0,Sucrose-phosphate synthase 1 ,Q94BT0
+156,AT3G52340,AT3G52340,{},SPP2,3,19406853.0,19409457.0,Sucrose-6F-phosphate phosphohydrolase 2 [Source:UniProtKB/TrEMBL;Acc:A0A1I9LQG1],824399.0,Sucrose-6F-phosphate phosphohydrolase 2 ,A0A1I9LQG1
+157,AT2G35840,AT2G35840,{},SPP2,2,15053483.0,15057426.0,Probable sucrose-phosphatase 2 [Source:UniProtKB/Swiss-Prot;Acc:Q9SJ66],818157.0,Probable sucrose-phosphatase 2 ,Q9SJ66
+158,AT4G02280,AT4G02280,{},SUS3,4,994726.0,998991.0,Sucrose synthase (Fragment) [Source:UniProtKB/TrEMBL;Acc:W8Q6L8],828081.0,Sucrose synthase (Fragment) ,W8Q6L8
+159,AT5G49190,AT5G49190,{},SUS2,5,19943181.0,19947588.0,Sucrose synthase 2 [Source:UniProtKB/Swiss-Prot;Acc:Q00917],834978.0,Sucrose synthase 2 ,Q00917
+160,AT5G20830,AT5G20830,{},SUS1,5,7050217.0,7055398.0,Sucrose synthase 1 [Source:UniProtKB/Swiss-Prot;Acc:P49040],832206.0,Sucrose synthase 1 ,P49040
+161,AT1G73370,AT1G73370,{},SUS6,1,27584364.0,27588978.0,Sucrose synthase (Fragment) [Source:UniProtKB/TrEMBL;Acc:W8Q3K7],843672.0,Sucrose synthase (Fragment) ,W8Q3K7
+162,AT3G43190,AT3G43190,{},SUS4,3,15179010.0,15184105.0,Sucrose synthase 4 [Source:UniProtKB/Swiss-Prot;Acc:Q9LXL5],823393.0,Sucrose synthase 4 ,Q9LXL5
+163,AT5G37180,AT5G37180,{},SUS5,5,14718141.0,14723139.0,sucrose synthase 5 [Source:TAIR;Acc:AT5G37180],833692.0,sucrose synthase 5 ,AT5G37180
+164,AT1G72000,AT1G72000,{},INVF,1,27103277.0,27105663.0,Probable alkaline/neutral invertase F [Source:UniProtKB/Swiss-Prot;Acc:Q9C560],843531.0,Probable alkaline/neutral invertase F ,Q9C560
+165,AT4G09510,AT4G09510,{},CINV2,4,6021160.0,6024042.0,Alkaline/neutral invertase CINV2 [Source:UniProtKB/Swiss-Prot;Acc:Q67XD9],826535.0,Alkaline/neutral invertase CINV2 ,Q67XD9
+166,AT1G35580,AT1G35580,{},CINV1,1,13122082.0,13125328.0,Alkaline/neutral invertase CINV1 [Source:UniProtKB/Swiss-Prot;Acc:Q9LQF2],840454.0,Alkaline/neutral invertase CINV1 ,Q9LQF2
+167,AT1G50460,AT1G50460,{},HKL1,1,18693644.0,18697709.0,Hexokinase-3 [Source:UniProtKB/Swiss-Prot;Acc:Q9LPS1],841468.0,Hexokinase-3 ,Q9LPS1
+168,AT3G20040,AT3G20040,{},ATHXK4,3,6994770.0,6998185.0,Phosphotransferase [Source:UniProtKB/TrEMBL;Acc:A0A178VNP2],821543.0,Phosphotransferase ,A0A178VNP2
+169,AT4G37840,AT4G37840,{},HKL3,4,17790080.0,17792198.0,Probable hexokinase-like 2 protein [Source:UniProtKB/Swiss-Prot;Acc:Q9T071],829940.0,Probable hexokinase-like 2 protein ,Q9T071
+170,AT2G31390,AT2G31390,{},,2.0,13383423.0,13386392.0,Probable fructokinase-1 [Source:UniProtKB/Swiss-Prot;Acc:Q9SID0],817697.0,Probable fructokinase-1 ,Q9SID0
+171,AT3G54090,AT3G54090,{},FLN1,3,20028052.0,20030055.0,"Fructokinase-like 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9M394]",824576.0,"Fructokinase-like 1, chloroplastic ",Q9M394
+172,AT1G47840,AT1G47840,{},HXK3,1,17616051.0,17619011.0,Hexokinase-like 1 protein [Source:UniProtKB/Swiss-Prot;Acc:Q9FZG4],841200.0,Hexokinase-like 1 protein ,Q9FZG4
+173,AT3G59480,AT3G59480,{},,3.0,21982989.0,21984598.0,Probable fructokinase-4 [Source:UniProtKB/Swiss-Prot;Acc:Q9M1B9],825117.0,Probable fructokinase-4 ,Q9M1B9
+174,AT5G51830,AT5G51830,{},,5.0,21069110.0,21071739.0,Probable fructokinase-7 [Source:UniProtKB/Swiss-Prot;Acc:Q9FLH8],835258.0,Probable fructokinase-7 ,Q9FLH8
+175,AT4G27550,AT4G27550,{},TPS4,4,13755649.0,13759740.0,"Probable alpha,alpha-trehalose-phosphate synthase [UDP-forming] 4 [Source:UniProtKB/Swiss-Prot;Acc:Q9T079]",828864.0,"Probable alpha,alpha-trehalose-phosphate synthase ",Q9T079
+176,AT1G16980,AT1G16980,{},TPS2,1,5807200.0,5811610.0,"Probable alpha,alpha-trehalose-phosphate synthase [UDP-forming] 2 [Source:UniProtKB/Swiss-Prot;Acc:Q9FZ57]",838269.0,"Probable alpha,alpha-trehalose-phosphate synthase ",Q9FZ57
+177,AT1G23870,AT1G23870,{},TPS9,1,8432179.0,8435656.0,"Probable alpha,alpha-trehalose-phosphate synthase [UDP-forming] 9 [Source:UniProtKB/Swiss-Prot;Acc:Q9LRA7]",838998.0,"Probable alpha,alpha-trehalose-phosphate synthase ",Q9LRA7
+178,AT2G18700,AT2G18700,{},TPS11,2,8108898.0,8112010.0,"Probable alpha,alpha-trehalose-phosphate synthase [UDP-forming] 11 [Source:UniProtKB/Swiss-Prot;Acc:Q9ZV48]",816385.0,"Probable alpha,alpha-trehalose-phosphate synthase ",Q9ZV48
+179,AT1G78580,AT1G78580,{},TPS1,1,29552340.0,29560912.0,TPS1 [Source:UniProtKB/TrEMBL;Acc:A0A384L3B9],844194.0,TPS1 ,A0A384L3B9
+180,AT1G60140,AT1G60140,{},TPS10,1,22176934.0,22181740.0,"Probable alpha,alpha-trehalose-phosphate synthase [UDP-forming] 10 [Source:UniProtKB/Swiss-Prot;Acc:O80738]",842309.0,"Probable alpha,alpha-trehalose-phosphate synthase ",O80738
+181,AT1G17000,AT1G17000,{},ATTPS3,1,5812728.0,5816662.0,trehalose-phosphatase/synthase 3 [Source:TAIR;Acc:AT1G17000],,trehalose-phosphatase/synthase 3 ,AT1G17000
+182,AT1G70290,AT1G70290,{},TPS8,1,26470795.0,26474833.0,"Probable alpha,alpha-trehalose-phosphate synthase [UDP-forming] 8 [Source:UniProtKB/Swiss-Prot;Acc:Q0WUI9]",843365.0,"Probable alpha,alpha-trehalose-phosphate synthase ",Q0WUI9
+183,AT1G06410,AT1G06410,{},TPS7,1,1954674.0,1958866.0,TPS7 [Source:UniProtKB/TrEMBL;Acc:A0A178WH64],837152.0,TPS7 ,A0A178WH64
+184,AT1G68020,AT1G68020,{},TPS6,1,25496928.0,25500584.0,"Alpha,alpha-trehalose-phosphate synthase [UDP-forming] 6 [Source:UniProtKB/Swiss-Prot;Acc:Q94AH8]",843130.0,"Alpha,alpha-trehalose-phosphate synthase ",Q94AH8
+185,AT4G17770,AT4G17770,{},TPS5,4,9876172.0,9880386.0,"Alpha,alpha-trehalose-phosphate synthase [UDP-forming] 5 [Source:UniProtKB/Swiss-Prot;Acc:O23617]",827498.0,"Alpha,alpha-trehalose-phosphate synthase ",O23617
+186,AT5G51460,AT5G51460,{},TPPA,5,20900859.0,20904647.0,Trehalose 6-phosphate phosphatase [Source:UniProtKB/TrEMBL;Acc:A0A178UCG0],835220.0,Trehalose 6-phosphate phosphatase ,A0A178UCG0
+187,AT1G78090,AT1G78090,{},TPPB,1,29373803.0,29376639.0,Trehalose-phosphate phosphatase B [Source:UniProtKB/Swiss-Prot;Acc:Q9C9S4],844144.0,Trehalose-phosphate phosphatase B ,Q9C9S4
+188,AT4G12430,AT4G12430,{},TPPF,4,7365257.0,7368730.0,Probable trehalose-phosphate phosphatase F [Source:UniProtKB/Swiss-Prot;Acc:Q9SU39],826855.0,Probable trehalose-phosphate phosphatase F ,Q9SU39
+189,AT1G22210,AT1G22210,{},TPPC,1,7841432.0,7844056.0,Probable trehalose-phosphate phosphatase C [Source:UniProtKB/Swiss-Prot;Acc:F4I1A6],838826.0,Probable trehalose-phosphate phosphatase C ,F4I1A6
+190,AT4G22590,AT4G22590,{},TPPG,4,11893499.0,11896480.0,Trehalose 6-phosphate phosphatase [Source:UniProtKB/TrEMBL;Acc:A0A178UWC3],828355.0,Trehalose 6-phosphate phosphatase ,A0A178UWC3
+191,AT5G10100,AT5G10100,{},TPPI,5,3157694.0,3161708.0,Trehalose 6-phosphate phosphatase [Source:UniProtKB/TrEMBL;Acc:A0A178UDH6],830874.0,Trehalose 6-phosphate phosphatase ,A0A178UDH6
+192,AT5G65140,AT5G65140,{},TPPJ,5,26019457.0,26022380.0,Probable trehalose-phosphate phosphatase J [Source:UniProtKB/Swiss-Prot;Acc:Q5HZ05],836638.0,Probable trehalose-phosphate phosphatase J ,Q5HZ05
+193,AT4G39770,AT4G39770,{},TPPH,4,18448865.0,18451305.0,Probable trehalose-phosphate phosphatase H [Source:UniProtKB/Swiss-Prot;Acc:Q8GWG2],830135.0,Probable trehalose-phosphate phosphatase H ,Q8GWG2
+194,AT5G09870,AT5G09870,{},CESA5,5,3072870.0,3078416.0,Cellulose synthase A catalytic subunit 5 [UDP-forming] [Source:UniProtKB/Swiss-Prot;Acc:Q8L778],830847.0,Cellulose synthase A catalytic subunit 5 ,Q8L778
+195,AT1G02730,AT1G02730,{},CSLD5,1,594502.0,598657.0,Cellulose synthase-like protein D5 [Source:UniProtKB/Swiss-Prot;Acc:Q9SRW9],839467.0,Cellulose synthase-like protein D5 ,Q9SRW9
+196,AT3G07330,AT3G07330,{},CSLC6,3,2335612.0,2339168.0,Probable xyloglucan glycosyltransferase 6 [Source:UniProtKB/Swiss-Prot;Acc:Q9SRT3],819921.0,Probable xyloglucan glycosyltransferase 6 ,Q9SRT3
+197,AT5G44030,AT5G44030,{},CESA4,5,17714390.0,17719723.0,cellulose synthase A4 [Source:TAIR;Acc:AT5G44030],834426.0,cellulose synthase A4 ,AT5G44030
+198,AT4G15320,AT4G15320,{},ATCSLB06,4,8742639.0,8748025.0,cellulose synthase-like B6 [Source:TAIR;Acc:AT4G15320],827198.0,cellulose synthase-like B6 ,AT4G15320
+199,AT4G24010,AT4G24010,{},CSLG1,4,12466117.0,12469844.0,Glycosyltransferase (Fragment) [Source:UniProtKB/TrEMBL;Acc:W8QNF0],828501.0,Glycosyltransferase (Fragment) ,W8QNF0
+200,AT4G07960,AT4G07960,{},CSLC12,4,4802253.0,4805647.0,CSLC12 [Source:UniProtKB/TrEMBL;Acc:A0A384KRZ4],826301.0,CSLC12 ,A0A384KRZ4
+201,AT4G32410,AT4G32410,{},CESA1,4,15640490.0,15646844.0,Cellulose synthase A catalytic subunit 1 [UDP-forming] [Source:UniProtKB/Swiss-Prot;Acc:O48946],829376.0,Cellulose synthase A catalytic subunit 1 ,O48946
+202,AT2G21770,AT2G21770,{},CESA9,2,9284391.0,9289744.0,Probable cellulose synthase A catalytic subunit 9 [UDP-forming] [Source:UniProtKB/Swiss-Prot;Acc:Q9SJ22],816713.0,Probable cellulose synthase A catalytic subunit 9 ,Q9SJ22
+203,AT4G39350,AT4G39350,{},CESA2,4,18296388.0,18302192.0,CESA2 [Source:UniProtKB/TrEMBL;Acc:A0A384LAI4],830090.0,CESA2 ,A0A384LAI4
+204,AT4G23990,AT4G23990,{},CSLG3,4,12456342.0,12460753.0,Cellulose synthase-like protein G3 [Source:UniProtKB/Swiss-Prot;Acc:Q0WVN5],828499.0,Cellulose synthase-like protein G3 ,Q0WVN5
+205,AT5G05170,AT5G05170,{},CESA3,5,1530132.0,1535558.0,Cellulose synthase A catalytic subunit 3 [UDP-forming] [Source:UniProtKB/Swiss-Prot;Acc:Q941L0],830399.0,Cellulose synthase A catalytic subunit 3 ,Q941L0
+206,AT2G32620,AT2G32620,{},CSLB2,2,13840687.0,13844425.0,Cellulose synthase-like protein B2 [Source:UniProtKB/Swiss-Prot;Acc:O80899],817822.0,Cellulose synthase-like protein B2 ,O80899
+207,AT1G55850,AT1G55850,{},CSLE1,1,20876440.0,20879482.0,Cellulose synthase-like protein E1 [Source:UniProtKB/Swiss-Prot;Acc:Q8VZK9],842035.0,Cellulose synthase-like protein E1 ,Q8VZK9
+208,AT2G32540,AT2G32540,{},CSLB4,2,13814543.0,13818410.0,Glycosyltransferase (Fragment) [Source:UniProtKB/TrEMBL;Acc:W8Q3D1],817815.0,Glycosyltransferase (Fragment) ,W8Q3D1
+209,AT2G25540,AT2G25540,{},CESA10,2,10866822.0,10872243.0,Cellulose synthase (Fragment) [Source:UniProtKB/TrEMBL;Acc:W8QNX9],817092.0,Cellulose synthase (Fragment) ,W8QNX9
+210,AT4G31590,AT4G31590,{},CSLC5,4,15309506.0,15312987.0,Glycosyltransferase (Fragment) [Source:UniProtKB/TrEMBL;Acc:W8PV45],829286.0,Glycosyltransferase (Fragment) ,W8PV45
+211,AT2G24630,AT2G24630,{},CSLC8,2,10471196.0,10474610.0,Probable xyloglucan glycosyltransferase 8 [Source:UniProtKB/Swiss-Prot;Acc:Q9SJA2],816999.0,Probable xyloglucan glycosyltransferase 8 ,Q9SJA2
+212,AT4G24000,AT4G24000,{},CSLG2,4,12461907.0,12465675.0,Glycosyltransferase (Fragment) [Source:UniProtKB/TrEMBL;Acc:W8Q6J0],828500.0,Glycosyltransferase (Fragment) ,W8Q6J0
+213,AT5G64740,AT5G64740,{},CESA6,5,25881033.0,25886728.0,Cellulose synthase A catalytic subunit 6 [UDP-forming] [Source:UniProtKB/Swiss-Prot;Acc:Q94JQ6],836595.0,Cellulose synthase A catalytic subunit 6 ,Q94JQ6
+214,AT3G28180,AT3G28180,{},CSLC4,3,10505711.0,10509265.0,Glycosyltransferase (Fragment) [Source:UniProtKB/TrEMBL;Acc:W8Q6R3],822444.0,Glycosyltransferase (Fragment) ,W8Q6R3
+215,AT4G15290,AT4G15290,{},CSLB5,4,8721482.0,8726733.0,Glycosyltransferase (Fragment) [Source:UniProtKB/TrEMBL;Acc:W8Q2Z8],827195.0,Glycosyltransferase (Fragment) ,W8Q2Z8
+216,AT4G18780,AT4G18780,{},CESA8,4,10312624.0,10316886.0,Cellulose synthase (Fragment) [Source:UniProtKB/TrEMBL;Acc:A0A068FHR7],827612.0,Cellulose synthase (Fragment) ,A0A068FHR7
+217,AT2G32530,AT2G32530,{},CSLB3,2,13809019.0,13813572.0,Cellulose synthase-like protein B3 [Source:UniProtKB/Swiss-Prot;Acc:Q8RX83],817814.0,Cellulose synthase-like protein B3 ,Q8RX83
+218,AT5G17420,AT5G17420,{},CESA7,5,5736630.0,5741500.0,MUR10 [Source:UniProtKB/TrEMBL;Acc:A0A384LP57],831608.0,MUR10 ,A0A384LP57
+219,AT2G32610,AT2G32610,{},CSLB1,2,13836117.0,13839640.0,Cellulose synthase-like protein B1 [Source:UniProtKB/Swiss-Prot;Acc:O80898],817821.0,Cellulose synthase-like protein B1 ,O80898
+220,AT5G43330,AT5G43330,{},MDH2,5,17390381.0,17392741.0,"Malate dehydrogenase 2, cytoplasmic [Source:UniProtKB/Swiss-Prot;Acc:P57106]",834351.0,"Malate dehydrogenase 2, cytoplasmic ",P57106
+221,AT5G56720,AT5G56720,{},,5.0,22945419.0,22946807.0,Malate dehydrogenase [Source:UniProtKB/TrEMBL;Acc:A0A178UAN5],835773.0,Malate dehydrogenase ,A0A178UAN5
+222,AT1G53240,AT1G53240,{},mMDH1,1,19854615.0,19857146.0,"Malate dehydrogenase 1, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9ZP06]",841757.0,"Malate dehydrogenase 1, mitochondrial ",Q9ZP06
+223,AT3G15020,AT3G15020,{},mMDH2,3,5055741.0,5058249.0,"Malate dehydrogenase 2, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9LKA3]",820731.0,"Malate dehydrogenase 2, mitochondrial ",Q9LKA3
+224,AT5G09660,AT5G09660,{},PMDH2,5,2993411.0,2995784.0,Malate dehydrogenase [Source:UniProtKB/TrEMBL;Acc:B3H560],830825.0,Malate dehydrogenase ,B3H560
+225,AT1G04410,AT1G04410,{},MDH1,1,1188995.0,1191458.0,Malate dehydrogenase [Source:UniProtKB/TrEMBL;Acc:A0A178W4H0],839527.0,Malate dehydrogenase ,A0A178W4H0
+226,AT5G65690,AT5G65690,{},PCK2,5,26266180.0,26269763.0,phosphoenolpyruvate carboxykinase 2 [Source:TAIR;Acc:AT5G65690],836696.0,phosphoenolpyruvate carboxykinase 2 ,AT5G65690
+227,AT4G37870,AT4G37870,{},PCKA,4,17802690.0,17806705.0,Phosphoenolpyruvate carboxykinase (ATP)-like protein [Source:UniProtKB/TrEMBL;Acc:Q0WWL8],829943.0,Phosphoenolpyruvate carboxykinase (ATP)-like protein ,Q0WWL8
+228,AT1G53310,AT1G53310,{},PPC1,1,19883935.0,19888413.0,Phosphoenolpyruvate carboxylase 1 [Source:UniProtKB/Swiss-Prot;Acc:Q9MAH0],841765.0,Phosphoenolpyruvate carboxylase 1 ,Q9MAH0
+229,AT2G42600,AT2G42600,{},PPC2,2,17734302.0,17739167.0,PPC2 [Source:UniProtKB/TrEMBL;Acc:A0A178VV64],818860.0,PPC2 ,A0A178VV64
+230,AT1G68750,AT1G68750,{},PPC4,1,25822716.0,25828147.0,PPC4 [Source:UniProtKB/TrEMBL;Acc:A0A178W7Q9],843206.0,PPC4 ,A0A178W7Q9
+231,AT3G14940,AT3G14940,{},PPC3,3,5025184.0,5029886.0,Phosphoenolpyruvate carboxylase 3 [Source:UniProtKB/Swiss-Prot;Acc:Q84VW9],820723.0,Phosphoenolpyruvate carboxylase 3 ,Q84VW9
+232,AT2G29560,AT2G29560,{},ENO3,2,12646560.0,12650184.0,Cytosolic enolase 3 [Source:UniProtKB/Swiss-Prot;Acc:Q9ZW34],817505.0,Cytosolic enolase 3 ,Q9ZW34
+233,AT2G36530,AT2G36530,{},ENO2,2,15320756.0,15324129.0,LOS2 [Source:UniProtKB/TrEMBL;Acc:A0A178VT47],818226.0,LOS2 ,A0A178VT47
+234,AT1G09780,AT1G09780,{},PGM1,1,3165370.0,3167924.0,IPGAM1 [Source:UniProtKB/TrEMBL;Acc:A0A178W6V9],837507.0,IPGAM1 ,A0A178W6V9
+235,AT3G08590,AT3G08590,{},,3.0,2608308.0,2611555.0,IPGAM2 [Source:UniProtKB/TrEMBL;Acc:A0A384KAQ5],820006.0,IPGAM2 ,A0A384KAQ5
+236,AT1G13440,AT1G13440,{},GAPC2,1,4608077.0,4610878.0,"Glyceraldehyde-3-phosphate dehydrogenase GAPC2, cytosolic [Source:UniProtKB/Swiss-Prot;Acc:Q9FX54]",837904.0,"Glyceraldehyde-3-phosphate dehydrogenase GAPC2, cytosolic ",Q9FX54
+237,AT3G04120,AT3G04120,{},GAPC1,3,1080942.0,1083690.0,"Glyceraldehyde-3-phosphate dehydrogenase GAPC1, cytosolic [Source:UniProtKB/Swiss-Prot;Acc:P25858]",819567.0,"Glyceraldehyde-3-phosphate dehydrogenase GAPC1, cytosolic ",P25858
+238,AT2G24270,AT2G24270,{},ALDH11A3,2,10326918.0,10330048.0,aldehyde dehydrogenase 11A3 [Source:TAIR;Acc:AT2G24270],816962.0,aldehyde dehydrogenase 11A3 ,AT2G24270
+239,AT4G29220,AT4G29220,{},PFK1,4,14403347.0,14406592.0,ATP-dependent 6-phosphofructokinase 1 [Source:UniProtKB/Swiss-Prot;Acc:Q9M0F9],829043.0,ATP-dependent 6-phosphofructokinase 1 ,Q9M0F9
+240,AT5G56630,AT5G56630,{},PFK7,5,22923804.0,22926963.0,ATP-dependent 6-phosphofructokinase 7 [Source:UniProtKB/Swiss-Prot;Acc:Q9C5J7],835764.0,ATP-dependent 6-phosphofructokinase 7 ,Q9C5J7
+241,AT4G32840,AT4G32840,{},PFK6,4,15844576.0,15848552.0,ATP-dependent 6-phosphofructokinase [Source:UniProtKB/TrEMBL;Acc:A0A178V315],829420.0,ATP-dependent 6-phosphofructokinase ,A0A178V315
+242,AT4G26270,AT4G26270,{},PFK3,4,13300778.0,13304440.0,ATP-dependent 6-phosphofructokinase 3 [Source:UniProtKB/Swiss-Prot;Acc:Q94AA4],828733.0,ATP-dependent 6-phosphofructokinase 3 ,Q94AA4
+243,AT5G61580,AT5G61580,{},PFK4,5,24761041.0,24764168.0,ATP-dependent 6-phosphofructokinase [Source:UniProtKB/TrEMBL;Acc:A0A178UCI3],836279.0,ATP-dependent 6-phosphofructokinase ,A0A178UCI3
+244,AT5G47810,AT5G47810,{},PFK2,5,19356292.0,19358125.0,ATP-dependent 6-phosphofructokinase 2 [Source:UniProtKB/Swiss-Prot;Acc:Q9FIK0],834832.0,ATP-dependent 6-phosphofructokinase 2 ,Q9FIK0
+245,AT2G22480,AT2G22480,{},PFK5,2,9545283.0,9548640.0,"ATP-dependent 6-phosphofructokinase 5, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q8VYN6]",816781.0,"ATP-dependent 6-phosphofructokinase 5, chloroplastic ",Q8VYN6
+246,AT1G16300,AT1G16300,{},GAPCP2,1,5574257.0,5577622.0,"Glyceraldehyde-3-phosphate dehydrogenase GAPCP2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q5E924]",838199.0,"Glyceraldehyde-3-phosphate dehydrogenase GAPCP2, chloroplastic ",Q5E924
+247,AT1G79530,AT1G79530,{},GAPCP1,1,29915902.0,29919408.0,"Glyceraldehyde-3-phosphate dehydrogenase GAPCP1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9SAJ6]",844291.0,"Glyceraldehyde-3-phosphate dehydrogenase GAPCP1, chloroplastic ",Q9SAJ6
+248,AT1G78050,AT1G78050,{},PGM,1,29347581.0,29349755.0,Phosphoglycerate/bisphosphoglycerate mutase [Source:UniProtKB/TrEMBL;Acc:F4I8M8],844140.0,Phosphoglycerate/bisphosphoglycerate mutase ,F4I8M8
+249,AT1G22170,AT1G22170,{},,1.0,7826268.0,7828326.0,At1g22170 [Source:UniProtKB/TrEMBL;Acc:Q9LM13],838822.0,At1g22170 ,Q9LM13
+250,AT1G74030,AT1G74030,{},ENO1,1,27839159.0,27842132.0,"Enolase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9C9C4]",843741.0,"Enolase 1, chloroplastic ",Q9C9C4
+251,AT3G52990,AT3G52990,{},,3.0,19648711.0,19652515.0,Pyruvate kinase [Source:UniProtKB/TrEMBL;Acc:Q94KE3],824465.0,Pyruvate kinase ,Q94KE3
+252,AT3G04050,AT3G04050,{},,3.0,1049653.0,1051608.0,Pyruvate kinase [Source:UniProtKB/TrEMBL;Acc:Q9SQQ7],819560.0,Pyruvate kinase ,Q9SQQ7
+253,AT3G55810,AT3G55810,{},,3.0,20711705.0,20713236.0,Pyruvate kinase [Source:UniProtKB/TrEMBL;Acc:Q9M044],824747.0,Pyruvate kinase ,Q9M044
+254,AT2G36580,AT2G36580,{},,2.0,15339122.0,15343086.0,Pyruvate kinase [Source:UniProtKB/TrEMBL;Acc:A0A178VX82],818231.0,Pyruvate kinase ,A0A178VX82
+255,AT5G52920,AT5G52920,{},PKP2,5,21463467.0,21466880.0,Pyruvate kinase [Source:UniProtKB/TrEMBL;Acc:A0A178U9G2],835369.0,Pyruvate kinase ,A0A178U9G2
+256,AT5G63680,AT5G63680,{},,5.0,25490065.0,25492763.0,Pyruvate kinase [Source:UniProtKB/TrEMBL;Acc:Q9FFP6],836488.0,Pyruvate kinase ,Q9FFP6
+257,AT3G25960,AT3G25960,{},,3.0,9498439.0,9499932.0,Pyruvate kinase [Source:UniProtKB/TrEMBL;Acc:Q9LU95],822193.0,Pyruvate kinase ,Q9LU95
+258,AT3G55650,AT3G55650,{},,3.0,20647085.0,20648617.0,Pyruvate kinase [Source:UniProtKB/TrEMBL;Acc:Q9M057],824731.0,Pyruvate kinase ,Q9M057
+259,AT5G56350,AT5G56350,{},,5.0,22819936.0,22822904.0,Pyruvate kinase [Source:UniProtKB/TrEMBL;Acc:Q9FM97],835735.0,Pyruvate kinase ,Q9FM97
+260,AT5G08570,AT5G08570,{},,5.0,2778000.0,2780581.0,Pyruvate kinase [Source:UniProtKB/TrEMBL;Acc:Q9FNN1],830758.0,Pyruvate kinase ,Q9FNN1
+261,AT4G26390,AT4G26390,{},,4.0,13342116.0,13344617.0,Pyruvate kinase [Source:UniProtKB/TrEMBL;Acc:A0A178UXZ4],828745.0,Pyruvate kinase ,A0A178UXZ4
+262,AT3G49160,AT3G49160,{},PKP4,3,18221794.0,18224905.0,"Plastidial pyruvate kinase 4, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9M3B6]",824077.0,"Plastidial pyruvate kinase 4, chloroplastic ",Q9M3B6
+263,AT3G22960,AT3G22960,{},PKP1,3,8139185.0,8142052.0,"Plastidial pyruvate kinase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9LIK0]",821870.0,"Plastidial pyruvate kinase 1, chloroplastic ",Q9LIK0
+264,AT1G32440,AT1G32440,{},PKP3,1,11711944.0,11715162.0,"Plastidial pyruvate kinase 3, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q93Z53]",840138.0,"Plastidial pyruvate kinase 3, chloroplastic ",Q93Z53
+265,AT5G50850,AT5G50850,{},PDH2,5,20689243.0,20693470.0,Pyruvate dehydrogenase E1 component subunit beta [Source:UniProtKB/TrEMBL;Acc:A0A178UM82],835157.0,Pyruvate dehydrogenase E1 component subunit beta ,A0A178UM82
+266,AT1G59900,AT1G59900,{},E1 ALPHA,1,22051133.0,22053885.0,"Pyruvate dehydrogenase E1 component subunit alpha-1, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:P52901]",842284.0,"Pyruvate dehydrogenase E1 component subunit alpha-1, mitochondrial ",P52901
+267,AT1G54220,AT1G54220,{},,1.0,20246026.0,20250345.0,Acetyltransferase component of pyruvate dehydrogenase complex [Source:UniProtKB/TrEMBL;Acc:A0A178W5Y1],841863.0,Acetyltransferase component of pyruvate dehydrogenase complex ,A0A178W5Y1
+268,AT3G13930,AT3G13930,{},,3.0,4595767.0,4600469.0,"Dihydrolipoyllysine-residue acetyltransferase component 2 of pyruvate dehydrogenase complex, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q8RWN9]",820606.0,"Dihydrolipoyllysine-residue acetyltransferase component 2 of pyruvate dehydrogenase complex, mitochondrial ",Q8RWN9
+269,AT3G52200,AT3G52200,{},LTA3,3,19360129.0,19366417.0,Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex [Source:UniProtKB/TrEMBL;Acc:F4J5T2],824385.0,Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex ,F4J5T2
+270,AT3G17240,AT3G17240,{},LPD2,3,5889663.0,5892332.0,"Dihydrolipoyl dehydrogenase 2, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9M5K2]",820984.0,"Dihydrolipoyl dehydrogenase 2, mitochondrial ",Q9M5K2
+271,AT1G48030,AT1G48030,{},LPD1,1,17716893.0,17719500.0,"Dihydrolipoyl dehydrogenase 1, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9M5K3]",841221.0,"Dihydrolipoyl dehydrogenase 1, mitochondrial ",Q9M5K3
+272,AT3G60100,AT3G60100,{},CSY5,3,22192730.0,22196447.0,Citrate synthase [Source:UniProtKB/TrEMBL;Acc:A0A1I9LSJ6],825180.0,Citrate synthase ,A0A1I9LSJ6
+273,AT2G44350,AT2G44350,{},CSY4,2,18316278.0,18320789.0,"Citrate synthase 4, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:P20115]",819042.0,"Citrate synthase 4, mitochondrial ",P20115
+274,AT4G35830,AT4G35830,{},ACO1,4,16972569.0,16978161.0,Aconitate hydratase [Source:UniProtKB/TrEMBL;Acc:A0A178V2T4],829737.0,Aconitate hydratase ,A0A178V2T4
+275,AT4G26970,AT4G26970,{},ACO2,4,13542918.0,13548629.0,Aconitate hydratase [Source:UniProtKB/TrEMBL;Acc:A0A178UVE5],828805.0,Aconitate hydratase ,A0A178UVE5
+276,AT2G05710,AT2G05710,{},ACO3,2,2141329.0,2146678.0,"Aconitate hydratase 3, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9SIB9]",815120.0,"Aconitate hydratase 3, mitochondrial ",Q9SIB9
+277,AT5G03290,AT5G03290,{},IDH5,5,793974.0,796218.0,"Isocitrate dehydrogenase [NAD] catalytic subunit 5, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q945K7]",831884.0,Isocitrate dehydrogenase ,Q945K7
+278,AT4G35260,AT4G35260,{},IDH1,4,16774142.0,16776371.0,"Isocitrate dehydrogenase [NAD] regulatory subunit 1, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q8LFC0]",829679.0,Isocitrate dehydrogenase ,Q8LFC0
+279,AT2G17130,AT2G17130,{},IDH2,2,7460814.0,7462607.0,"Isocitrate dehydrogenase [NAD] regulatory subunit 2, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:P93032]",816218.0,Isocitrate dehydrogenase ,P93032
+280,AT4G35650,AT4G35650,{},IDH3,4,16908497.0,16910208.0,"Isocitrate dehydrogenase [NAD] regulatory subunit 3, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:O81796]",829717.0,Isocitrate dehydrogenase ,O81796
+281,AT3G09810,AT3G09810,{},IDH6,3,3008499.0,3011465.0,"Isocitrate dehydrogenase [NAD] subunit, mitochondrial [Source:UniProtKB/TrEMBL;Acc:A0A178V9M1]",820139.0,Isocitrate dehydrogenase ,A0A178V9M1
+282,AT3G55410,AT3G55410,{},,3.0,20541269.0,20546053.0,"2-oxoglutarate dehydrogenase, E1 component [Source:UniProtKB/TrEMBL;Acc:F4IWV2]",824707.0,"2-oxoglutarate dehydrogenase, E1 component ",F4IWV2
+283,AT5G65750,AT5G65750,{},,5.0,26303673.0,26308237.0,"2-oxoglutarate dehydrogenase, E1 component [Source:UniProtKB/TrEMBL;Acc:Q9FLH2]",836704.0,"2-oxoglutarate dehydrogenase, E1 component ",Q9FLH2
+284,AT4G26910,AT4G26910,{},,4.0,13519811.0,13523405.0,"Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex 2, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q8H107]",828798.0,"Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex 2, mitochondrial ",Q8H107
+285,AT5G55070,AT5G55070,{},,5.0,22347211.0,22351168.0,"Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex 1, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9FLQ4]",835598.0,"Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex 1, mitochondrial ",Q9FLQ4
+286,AT2G20420,AT2G20420,{},,2.0,8805342.0,8808171.0,"Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:O82662]",816561.0,Succinate--CoA ligase ,O82662
+287,AT5G23250,AT5G23250,{},,5.0,7830318.0,7832843.0,"Succinate--CoA ligase [ADP-forming] subunit alpha-2, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q8LAD2]",832389.0,Succinate--CoA ligase ,Q8LAD2
+288,AT5G08300,AT5G08300,{},,5.0,2667361.0,2669923.0,"Succinate--CoA ligase [ADP-forming] subunit alpha, mitochondrial [Source:UniProtKB/TrEMBL;Acc:A0A178U834]",830726.0,Succinate--CoA ligase ,A0A178U834
+289,AT5G40650,AT5G40650,{},SDH2-2,5,16281394.0,16283527.0,"Succinate dehydrogenase [ubiquinone] iron-sulfur subunit 2, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q8LB02]",834065.0,Succinate dehydrogenase ,Q8LB02
+290,AT4G32210,AT4G32210,{},SDH3-1,4,15556397.0,15558167.0,"Succinate dehydrogenase subunit 3-2, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:P0DKI1]","dbname
+EntrezGene     830819
+EntrezGene    3770570
+Name: primary_id, dtype: object","Succinate dehydrogenase subunit 3-2, mitochondrial ",P0DKI1
+291,AT5G62575,AT5G62575,{},SDH7B,5,25117414.0,25118892.0,SDH7B [Source:UniProtKB/TrEMBL;Acc:A0A178UBI4],836378.0,SDH7B ,A0A178UBI4
+292,AT5G65165,AT5G65165,{},SDH2-3,5,26034422.0,26036057.0,"Succinate dehydrogenase [ubiquinone] iron-sulfur subunit 3, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9FJP9]",836640.0,Succinate dehydrogenase ,Q9FJP9
+293,AT1G47420,AT1G47420,{},SDH5,1,17395518.0,17397263.0,"Succinate dehydrogenase subunit 5, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9SX77]",841147.0,"Succinate dehydrogenase subunit 5, mitochondrial ",Q9SX77
+294,AT5G09600,AT5G09600,{},SDH3-1,5,2978825.0,2981096.0,"Succinate dehydrogenase subunit 3-2, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:P0DKI1]","dbname
+EntrezGene    3770570
+EntrezGene     830819
+Name: primary_id, dtype: object","Succinate dehydrogenase subunit 3-2, mitochondrial ",P0DKI1
+295,AT2G18450,AT2G18450,{},SDH1-2,2,7997344.0,8000825.0,"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [Source:UniProtKB/TrEMBL;Acc:A0A178VRF6]",816359.0,Succinate dehydrogenase ,A0A178VRF6
+296,AT5G66760,AT5G66760,{},SDH1-1,5,26653607.0,26657696.0,"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial [Source:UniProtKB/TrEMBL;Acc:A0A178UAN3]",836809.0,Succinate dehydrogenase ,A0A178UAN3
+297,AT2G46390,AT2G46390,{},SDH8,2,19042301.0,19043234.0,"Succinate dehydrogenase subunit 8, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9SKE0]",819247.0,"Succinate dehydrogenase subunit 8, mitochondrial ",Q9SKE0
+298,AT2G46505,AT2G46505,{},SDH4,2,19089486.0,19090776.0,SDH4 [Source:UniProtKB/TrEMBL;Acc:A0A178VQB2],819261.0,SDH4 ,A0A178VQB2
+299,AT3G27380,AT3G27380,{},SDH2-1,3,10129610.0,10132882.0,"Succinate dehydrogenase [ubiquinone] iron-sulfur subunit 1, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q8LBZ7]",822359.0,Succinate dehydrogenase ,Q8LBZ7
+300,AT1G08480,AT1G08480,{},SDH6,1,2684176.0,2685702.0,"Succinate dehydrogenase subunit 6, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q941A6]",837369.0,"Succinate dehydrogenase subunit 6, mitochondrial ",Q941A6
+301,AT3G47833,AT3G47833,{},SDH7A,3,17648495.0,17650173.0,"Succinate dehydrogenase subunit 7A, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9C5E8]",823938.0,"Succinate dehydrogenase subunit 7A, mitochondrial ",Q9C5E8
+302,AT2G47510,AT2G47510,{},FUM1,2,19498229.0,19502488.0,FUM1 [Source:UniProtKB/TrEMBL;Acc:A0A178VMD4],819364.0,FUM1 ,A0A178VMD4
+303,AT5G50950,AT5G50950,{},FUM2,5,20729431.0,20733941.0,AT5G50950 protein [Source:UniProtKB/TrEMBL;Acc:B9DFR5],835168.0,AT5G50950 protein ,B9DFR5
+304,AT3G47520,AT3G47520,{},MDH,3,17512816.0,17515155.0,"Malate dehydrogenase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9SN86]",823906.0,"Malate dehydrogenase, chloroplastic ",Q9SN86
+305,AT2G13560,AT2G13560,{},NAD-ME1,2,5649928.0,5655320.0,"NAD-dependent malic enzyme 1, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9SIU0]",815842.0,"NAD-dependent malic enzyme 1, mitochondrial ",Q9SIU0
+306,ATMG00510,ATMG00510,{},NAD7,Mt,132071.0,138153.0,NADH dehydrogenase subunit 7 [Source:UniProtKB/TrEMBL;Acc:G1C2X4],,NADH dehydrogenase subunit 7 ,G1C2X4
+307,ATMG00580,ATMG00580,{},NAD4,Mt,161693.0,169674.0,NADH-ubiquinone oxidoreductase chain 4 [Source:UniProtKB/TrEMBL;Acc:G1C2U9],,NADH-ubiquinone oxidoreductase chain 4 ,G1C2U9
+308,ATMG00060,ATMG00060,{},NAD5C,Mt,20571.0,22086.0,NADH dehydrogenase subunit 5C [Source:TAIR;Acc:ATMG00060],,NADH dehydrogenase subunit 5C ,ATMG00060
+309,ATMG00070,ATMG00070,{},NAD9,Mt,23663.0,24235.0,NADH dehydrogenase subunit 9 [Source:TAIR;Acc:ATMG00070],,NADH dehydrogenase subunit 9 ,ATMG00070
+310,ATMG01275,ATMG01275,{},NAD1A,Mt,318004.0,318390.0,NADH dehydrogenase 1A [Source:TAIR;Acc:ATMG01275],,NADH dehydrogenase 1A ,ATMG01275
+311,ATMG00285,ATMG00285,{},NAD2A,Mt,79740.0,81297.0,NADH dehydrogenase 2A [Source:TAIR;Acc:ATMG00285],,NADH dehydrogenase 2A ,ATMG00285
+312,AT5G11770,AT5G11770,{},,5.0,3790708.0,3793026.0,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 7, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q42577]",831049.0,NADH dehydrogenase ,Q42577
+313,AT4G02580,AT4G02580,{},,4.0,1134429.0,1137204.0,"NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:O22769]",828130.0,NADH dehydrogenase ,O22769
+314,ATMG00270,ATMG00270,{},NAD6,Mt,76642.0,77259.0,NADH-ubiquinone oxidoreductase chain 6 [Source:UniProtKB/TrEMBL;Acc:G1C2Y0],,NADH-ubiquinone oxidoreductase chain 6 ,G1C2Y0
+315,ATMG00665,ATMG00665,{},NAD5B,Mt,190740.0,190761.0,NADH dehydrogenase 5B [Source:TAIR;Acc:ATMG00665],,NADH dehydrogenase 5B ,ATMG00665
+316,AT5G37510,AT5G37510,{},EMB1467,5,14897329.0,14900693.0,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 1, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9FGI6]",833729.0,NADH dehydrogenase ,Q9FGI6
+317,AT1G16700,AT1G16700,{},,1.0,5709624.0,5712043.0,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 8-B, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9FX83]",838239.0,NADH dehydrogenase ,Q9FX83
+318,ATMG01120,ATMG01120,{},NAD1B,Mt,287917.0,289083.0,NADH dehydrogenase 1B [Source:TAIR;Acc:ATMG01120],,NADH dehydrogenase 1B ,ATMG01120
+319,ATMG00513,ATMG00513,{},NAD5A,Mt,140724.0,142998.0,NADH dehydrogenase 5A [Source:TAIR;Acc:ATMG00513],,NADH dehydrogenase 5A ,ATMG00513
+320,ATMG01320,ATMG01320,{},NAD2B,Mt,327890.0,333105.0,NADH dehydrogenase 2B [Source:TAIR;Acc:ATMG01320],,NADH dehydrogenase 2B ,ATMG01320
+321,AT5G08530,AT5G08530,{},CI51,5,2759317.0,2762019.0,"NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial [Source:UniProtKB/TrEMBL;Acc:A0A178UJ45]",830752.0,NADH dehydrogenase ,A0A178UJ45
+322,ATMG00516,ATMG00516,{},NAD1C,Mt,143219.0,147048.0,NADH dehydrogenase 1C [Source:TAIR;Acc:ATMG00516],,NADH dehydrogenase 1C ,ATMG00516
+323,ATMG00650,ATMG00650,{},NAD4L,Mt,188929.0,189231.0,NADH dehydrogenase subunit 4L [Source:UniProtKB/TrEMBL;Acc:G1C2W6],,NADH dehydrogenase subunit 4L ,G1C2W6
+324,ATMG00990,ATMG00990,{},NAD3,Mt,260647.0,261006.0,NADH-ubiquinone oxidoreductase chain 3 [Source:UniProtKB/TrEMBL;Acc:G1C2Y6],,NADH-ubiquinone oxidoreductase chain 3 ,G1C2Y6
+325,AT1G79010,AT1G79010,{},,1.0,29724796.0,29727028.0,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 8-A, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q42599]",844242.0,NADH dehydrogenase ,Q42599
+326,AT2G07727,AT2G07727,{},,2.0,3449534.0,3452776.0,"Di-haem cytochrome, transmembrane;Cytochrome b/b6, C-terminal [Source:TAIR;Acc:AT2G07727]",815400.0,"Di-haem cytochrome, transmembrane;Cytochrome b/b6, C-terminal ",AT2G07727
+327,AT3G16480,AT3G16480,{},MPPA2,3,5599710.0,5603027.0,"Probable mitochondrial-processing peptidase subunit alpha-2, chloroplastic/mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:O04308]",820896.0,"Probable mitochondrial-processing peptidase subunit alpha-2, chloroplastic/mitochondrial ",O04308
+328,AT5G13440,AT5G13440,{},UCR1-2,5,4307973.0,4310273.0,"Cytochrome b-c1 complex subunit Rieske-2, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9LYR2]",831185.0,"Cytochrome b-c1 complex subunit Rieske-2, mitochondrial ",Q9LYR2
+329,AT1G15120,AT1G15120,{},,1.0,5202593.0,5204494.0,Ubiquinol-cytochrome C reductase hinge protein [Source:UniProtKB/TrEMBL;Acc:F4HXY8],838075.0,Ubiquinol-cytochrome C reductase hinge protein ,F4HXY8
+330,AT5G05370,AT5G05370,{},,5.0,1590797.0,1591939.0,At5g05370 [Source:UniProtKB/TrEMBL;Acc:Q9FLB7],830419.0,At5g05370 ,Q9FLB7
+331,AT1G51980,AT1G51980,{},,1.0,19323055.0,19326918.0,"Probable mitochondrial-processing peptidase subunit alpha-1, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9ZU25]",841627.0,"Probable mitochondrial-processing peptidase subunit alpha-1, mitochondrial ",Q9ZU25
+332,AT5G13430,AT5G13430,{},UCR1-1,5,4305106.0,4307570.0,"Cytochrome b-c1 complex subunit Rieske-1, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q94JS0]",831184.0,"Cytochrome b-c1 complex subunit Rieske-1, mitochondrial ",Q94JS0
+333,AT5G25450,AT5G25450,{},QCR7-2,5,8856917.0,8858476.0,Cytochrome b-c1 complex subunit 7 [Source:UniProtKB/TrEMBL;Acc:A0A178UDJ6],832619.0,Cytochrome b-c1 complex subunit 7 ,A0A178UDJ6
+334,AT3G02090,AT3G02090,{},MPPBETA,3,365537.0,368911.0,Insulinase (Peptidase family M16) protein [Source:TAIR;Acc:AT3G02090],821084.0,Insulinase (Peptidase family M16) protein ,AT3G02090
+335,AT3G10860,AT3G10860,{},,3.0,3399550.0,3400926.0,At3g10860 [Source:UniProtKB/TrEMBL;Acc:Q9SG91],820256.0,At3g10860 ,Q9SG91
+336,AT3G52730,AT3G52730,{},,3.0,19542819.0,19544365.0,Ubiquinol-cytochrome C reductase UQCRX/QCR9-like family protein [Source:UniProtKB/TrEMBL;Acc:A0A1I9LS87],824439.0,Ubiquinol-cytochrome C reductase UQCRX/QCR9-like family protein ,A0A1I9LS87
+337,AT2G01090,AT2G01090,{},,2.0,79779.0,81710.0,Cytochrome b-c1 complex subunit 6 [Source:UniProtKB/TrEMBL;Acc:Q9SJV7],814638.0,Cytochrome b-c1 complex subunit 6 ,Q9SJV7
+338,AT5G40810,AT5G40810,{},CYC12,5,16339863.0,16342927.0,"Cytochrome c1 2, heme protein, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9FKS5]",834081.0,"Cytochrome c1 2, heme protein, mitochondrial ",Q9FKS5
+339,ATMG00220,ATMG00220,{},COB,Mt,60235.0,61416.0,apocytochrome b [Source:TAIR;Acc:ATMG00220],815400.0,apocytochrome b ,ATMG00220
+340,AT4G32470,AT4G32470,{},QCR7-1,4,15669219.0,15671249.0,Cytochrome b-c1 complex subunit 7-1 [Source:UniProtKB/Swiss-Prot;Acc:Q9SUU5],829382.0,Cytochrome b-c1 complex subunit 7-1 ,Q9SUU5
+341,AT3G27240,AT3G27240,{},CYC11,3,10055730.0,10058773.0,"Cytochrome c1 1, heme protein, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9LK29]",822343.0,"Cytochrome c1 1, heme protein, mitochondrial ",Q9LK29
+342,AT2G47380,AT2G47380,{},,2.0,19440923.0,19442053.0,Probable cytochrome c oxidase subunit 5C-1 [Source:UniProtKB/Swiss-Prot;Acc:O22912],819351.0,Probable cytochrome c oxidase subunit 5C-1 ,O22912
+343,ATMG00730,ATMG00730,{},COX3,Mt,217631.0,219077.0,cytochrome c oxidase subunit 3 [Source:TAIR;Acc:ATMG00730],,cytochrome c oxidase subunit 3 ,ATMG00730
+344,AT1G80230,AT1G80230,{},COX5B-2,1,30169456.0,30171334.0,"Cytochrome c oxidase subunit 5b-2, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9SSB8]",844363.0,"Cytochrome c oxidase subunit 5b-2, mitochondrial ",Q9SSB8
+345,AT5G61310,AT5G61310,{},,5.0,24653261.0,24654940.0,Cytochrome c oxidase subunit 5C [Source:UniProtKB/TrEMBL;Acc:A0A178UCG7],836252.0,Cytochrome c oxidase subunit 5C ,A0A178UCG7
+346,ATMG00160,ATMG00160,{},COX2,Mt,40502.0,42628.0,Cytochrome c oxidase subunit 2 [Source:UniProtKB/TrEMBL;Acc:G1C2Q7],,Cytochrome c oxidase subunit 2 ,G1C2Q7
+347,ATMG01360,ATMG01360,{},COX1,Mt,349830.0,351413.0,Cytochrome c oxidase subunit 1 [Source:UniProtKB/Swiss-Prot;Acc:P60620],,Cytochrome c oxidase subunit 1 ,P60620
+348,AT4G37380,AT4G37380,{},ELI1,4,17571816.0,17573938.0,"Pentatricopeptide repeat-containing protein ELI1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9SZT8]",829892.0,"Pentatricopeptide repeat-containing protein ELI1, chloroplastic ",Q9SZT8
+349,AT5G57815,AT5G57815,{},COX6B-2,5,23426647.0,23427911.0,Cytochrome c oxidase subunit [Source:UniProtKB/TrEMBL;Acc:A0A178UHL9],835891.0,Cytochrome c oxidase subunit ,A0A178UHL9
+350,AT3G15640,AT3G15640,{},COX5B-1,3,5298991.0,5301745.0,"Cytochrome c oxidase subunit 5b-1, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9LW15]",820806.0,"Cytochrome c oxidase subunit 5b-1, mitochondrial ",Q9LW15
+351,AT1G22450,AT1G22450,{},COX6B-1,1,7925121.0,7927345.0,COX6B [Source:UniProtKB/TrEMBL;Acc:A0A178WPQ4],838851.0,COX6B ,A0A178WPQ4
+352,AT3G62400,AT3G62400,{},,3.0,23089596.0,23090821.0,unknown protein; Ha. [Source:TAIR;Acc:AT3G62400],825413.0,unknown protein; Ha. ,AT3G62400
+353,AT4G28060,AT4G28060,{},COX6B-3,4,13943781.0,13945773.0,Cytochrome c oxidase subunit [Source:UniProtKB/TrEMBL;Acc:A0A178V4L0],828921.0,Cytochrome c oxidase subunit ,A0A178V4L0
+354,AT2G33040,AT2G33040,{},ATPC,2,14018610.0,14021185.0,"ATP synthase subunit gamma, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q96250]",817866.0,"ATP synthase subunit gamma, mitochondrial ",Q96250
+355,AT5G08670,AT5G08670,{},,5.0,2818091.0,2821251.0,ATP synthase alpha/beta family protein [Source:TAIR;Acc:AT5G08670],,ATP synthase alpha/beta family protein ,AT5G08670
+356,ATMG01170,ATMG01170,{},ATP6-2,Mt,296820.0,298204.0,ATP synthase subunit a [Source:UniProtKB/TrEMBL;Acc:G1C2S8],,ATP synthase subunit a ,G1C2S8
+357,AT5G08690,AT5G08690,{},,5.0,2825661.0,2828806.0,"ATP synthase subunit beta-2, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:P83484]",830770.0,"ATP synthase subunit beta-2, mitochondrial ",P83484
+358,AT5G08680,AT5G08680,{},,5.0,2821739.0,2825039.0,"ATP synthase subunit beta-3, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9C5A9]",830769.0,"ATP synthase subunit beta-3, mitochondrial ",Q9C5A9
+359,AT5G47030,AT5G47030,{},,5.0,19090150.0,19092416.0,"ATP synthase subunit delta', mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q96252]",834749.0,"ATP synthase subunit delta', mitochondrial ",Q96252
+360,ATMG01080,ATMG01080,{},ATP9,Mt,278649.0,279152.0,"ATP synthase subunit 9, mitochondrial [Source:UniProtKB/TrEMBL;Acc:Q304C3]",815343.0,"ATP synthase subunit 9, mitochondrial ",Q304C3
+361,AT5G13450,AT5G13450,{},ATP5,5,4310254.0,4312066.0,"ATP synthase subunit O, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q96251]",831186.0,"ATP synthase subunit O, mitochondrial ",Q96251
+362,AT3G52300,AT3G52300,{},ATPQ,3,19396424.0,19398444.0,"ATP synthase subunit d, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9FT52]",824395.0,"ATP synthase subunit d, mitochondrial ",Q9FT52
+363,ATMG00480,ATMG00480,{},YMF19,Mt,129909.0,130385.0,ATPase subunit 8 [Source:UniProtKB/TrEMBL;Acc:G1C2R4],815382.0,ATPase subunit 8 ,G1C2R4
+364,ATMG01190,ATMG01190,{},ATP1,Mt,302166.0,303689.0,ATP synthase subunit alpha [Source:UniProtKB/TrEMBL;Acc:G1C2Z0],,ATP synthase subunit alpha ,G1C2Z0
+365,AT1G51650,AT1G51650,{},,1.0,19152508.0,19154051.0,"ATP synthase subunit epsilon, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q96253]",841590.0,"ATP synthase subunit epsilon, mitochondrial ",Q96253
+366,AT2G07671,AT2G07671,{},,2.0,3251566.0,3252341.0,"ATP synthase subunit 9, mitochondrial [Source:UniProtKB/TrEMBL;Acc:Q304C3]",815343.0,"ATP synthase subunit 9, mitochondrial ",Q304C3
+367,ATMG00640,ATMG00640,{},ORF25,Mt,188084.0,188662.0,"hydrogen ion transporting ATP synthases, rotational mechanism;zinc ion binding [Source:TAIR;Acc:ATMG00640]",,"hydrogen ion transporting ATP synthases, rotational mechanism;zinc ion binding ",ATMG00640
+368,ATMG00410,ATMG00410,{},ATP6-1,Mt,111587.0,112907.0,ATP synthase subunit a [Source:UniProtKB/TrEMBL;Acc:A0A178U7J2],815413.0,ATP synthase subunit a ,A0A178U7J2
+369,AT2G07732,AT2G07732,{},,2.0,3468160.0,3468899.0,"Ribulose bisphosphate carboxylase large chain, catalytic domain-containing protein [Source:UniProtKB/TrEMBL;Acc:F4INE2]",3768663.0,"Ribulose bisphosphate carboxylase large chain, catalytic domain-containing protein ",F4INE2
+370,AT5G36790,AT5G36790,{},PGLP1A,5,14480482.0,14483927.0,"Phosphoglycolate phosphatase 1B, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P0DKC4]","dbname
+EntrezGene    833635
+EntrezGene    833646
+Name: primary_id, dtype: object","Phosphoglycolate phosphatase 1B, chloroplastic ",P0DKC4
+371,AT5G36700,AT5G36700,{},PGLP1A,5,14421182.0,14424610.0,"Phosphoglycolate phosphatase 1B, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P0DKC4]","dbname
+EntrezGene    833635
+EntrezGene    833646
+Name: primary_id, dtype: object","Phosphoglycolate phosphatase 1B, chloroplastic ",P0DKC4
+372,AT5G47760,AT5G47760,{},PGLP2,5,19342405.0,19345127.0,Phosphoglycolate phosphatase 2 [Source:UniProtKB/Swiss-Prot;Acc:Q8GWU0],834827.0,Phosphoglycolate phosphatase 2 ,Q8GWU0
+373,AT2G33255,AT2G33255,{},,2.0,14098778.0,14100623.0,Haloacid dehalogenase-like hydrolase domain-containing protein At2g33255 [Source:UniProtKB/Swiss-Prot;Acc:Q8RYE9],817888.0,Haloacid dehalogenase-like hydrolase domain-containing protein At2g33255 ,Q8RYE9
+374,AT4G18360,AT4G18360,{},GLO5,4,10145895.0,10148764.0,Peroxisomal (S)-2-hydroxy-acid oxidase GLO5 [Source:UniProtKB/Swiss-Prot;Acc:O49506],827563.0,Peroxisomal (S)-2-hydroxy-acid oxidase GLO5 ,O49506
+375,AT3G14420,AT3G14420,{},GLO1,3,4821391.0,4824178.0,(S)-2-hydroxy-acid oxidase GLO1 [Source:UniProtKB/Swiss-Prot;Acc:Q9LRR9],820665.0,(S)-2-hydroxy-acid oxidase GLO1 ,Q9LRR9
+376,AT3G14130,AT3G14130,{},GLO4,3,4685646.0,4688309.0,Peroxisomal (S)-2-hydroxy-acid oxidase GLO4 [Source:UniProtKB/Swiss-Prot;Acc:Q9LJH5],820630.0,Peroxisomal (S)-2-hydroxy-acid oxidase GLO4 ,Q9LJH5
+377,AT3G14415,AT3G14415,{},,3.0,4818251.0,4821013.0,GOX2 [Source:UniProtKB/TrEMBL;Acc:A0A384L6X3],820664.0,GOX2 ,A0A384L6X3
+378,AT3G14150,AT3G14150,{},GLO3,3,4690415.0,4693133.0,HAOX2 [Source:UniProtKB/TrEMBL;Acc:A0A178VKC7],820632.0,HAOX2 ,A0A178VKC7
+379,AT4G35090,AT4G35090,{},CAT2,4,16700312.0,16703504.0,catalase 2 [Source:TAIR;Acc:AT4G35090],829661.0,catalase 2 ,AT4G35090
+380,AT1G20630,AT1G20630,{},CAT1,1,7146636.0,7150180.0,CAT1 [Source:UniProtKB/TrEMBL;Acc:A0A384KXY6],838652.0,CAT1 ,A0A384KXY6
+381,AT1G20620,AT1G20620,{},CAT3,1,7142972.0,7146540.0,catalase 3 [Source:TAIR;Acc:AT1G20620],838651.0,catalase 3 ,AT1G20620
+382,AT1G70580,AT1G70580,{},GGAT2,1,26612359.0,26616071.0,Glutamate--glyoxylate aminotransferase 2 [Source:UniProtKB/Swiss-Prot;Acc:Q9S7E9],843395.0,Glutamate--glyoxylate aminotransferase 2 ,Q9S7E9
+383,AT1G23310,AT1G23310,{},GGAT1,1,8268385.0,8272021.0,Glutamate--glyoxylate aminotransferase 1 [Source:UniProtKB/Swiss-Prot;Acc:Q9LR30],838940.0,Glutamate--glyoxylate aminotransferase 1 ,Q9LR30
+384,AT2G13360,AT2G13360,{},AGT1,2,5538740.0,5541479.0,Serine--glyoxylate aminotransferase [Source:UniProtKB/Swiss-Prot;Acc:Q56YA5],815822.0,Serine--glyoxylate aminotransferase ,Q56YA5
+385,AT4G33010,AT4G33010,{},GLDP1,4,15926652.0,15931422.0,Glycine cleavage system P protein [Source:UniProtKB/TrEMBL;Acc:A0A178UTF1],829438.0,Glycine cleavage system P protein ,A0A178UTF1
+386,AT2G26080,AT2G26080,{},GLDP2,2,11109003.0,11114291.0,"Glycine dehydrogenase (decarboxylating) 2, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:O80988]",817149.0,"Glycine dehydrogenase (decarboxylating) 2, mitochondrial ",O80988
+387,AT1G11860,AT1G11860,{},,1.0,4001113.0,4003748.0,Glycine cleavage T-protein family [Source:TAIR;Acc:AT1G11860],837733.0,Glycine cleavage T-protein family ,AT1G11860
+388,AT4G37930,AT4G37930,{},SHM1,4,17831731.0,17835017.0,"Serine hydroxymethyltransferase 1, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9SZJ5]",829949.0,"Serine hydroxymethyltransferase 1, mitochondrial ",Q9SZJ5
+389,AT5G26780,AT5G26780,{},SHM2,5,9418137.0,9422228.0,serine hydroxymethyltransferase 2 [Source:TAIR;Acc:AT5G26780],832736.0,serine hydroxymethyltransferase 2 ,AT5G26780
+390,AT1G68010,AT1G68010,{},HPR,1,25493193.0,25496053.0,hydroxypyruvate reductase [Source:TAIR;Acc:AT1G68010],843129.0,hydroxypyruvate reductase ,AT1G68010
+391,AT2G22780,AT2G22780,{},PMDH1,2,9689295.0,9692154.0,PMDH1 [Source:UniProtKB/TrEMBL;Acc:A0A384LAR8],816808.0,PMDH1 ,A0A384LAR8
+392,AT1G80380,AT1G80380,{},GLYK,1,30217116.0,30220595.0,"D-glycerate 3-kinase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q944I4]",844378.0,"D-glycerate 3-kinase, chloroplastic ",Q944I4
+393,AT5G35790,AT5G35790,{},G6PD1,5,13956672.0,13959830.0,"Glucose-6-phosphate 1-dehydrogenase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q43727]",833559.0,"Glucose-6-phosphate 1-dehydrogenase 1, chloroplastic ",Q43727
+394,AT3G27300,AT3G27300,{},G6PD5,3,10083009.0,10086798.0,Glucose-6-phosphate 1-dehydrogenase [Source:UniProtKB/TrEMBL;Acc:A0A1I9LLZ6],822349.0,Glucose-6-phosphate 1-dehydrogenase ,A0A1I9LLZ6
+395,AT1G24280,AT1G24280,{},G6PD3,1,8609338.0,8612580.0,Glucose-6-phosphate 1-dehydrogenase [Source:UniProtKB/TrEMBL;Acc:A0A178WP00],839044.0,Glucose-6-phosphate 1-dehydrogenase ,A0A178WP00
+396,AT1G09420,AT1G09420,{},G6PD4,1,3038462.0,3041873.0,Glucose-6-phosphate 1-dehydrogenase [Source:UniProtKB/TrEMBL;Acc:F4I0Y8],837465.0,Glucose-6-phosphate 1-dehydrogenase ,F4I0Y8
+397,AT5G13110,AT5G13110,{},G6PD2,5,4158639.0,4161845.0,"Glucose-6-phosphate 1-dehydrogenase 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9FY99]",831150.0,"Glucose-6-phosphate 1-dehydrogenase 2, chloroplastic ",Q9FY99
+398,AT5G24420,AT5G24420,{},PGL5,5,8336534.0,8338032.0,Probable 6-phosphogluconolactonase 3 [Source:UniProtKB/Swiss-Prot;Acc:Q8LEV7],832513.0,Probable 6-phosphogluconolactonase 3 ,Q8LEV7
+399,AT3G49360,AT3G49360,{},PGL2,3,18303007.0,18304466.0,Probable 6-phosphogluconolactonase 2 [Source:UniProtKB/Swiss-Prot;Acc:Q8LG70],824098.0,Probable 6-phosphogluconolactonase 2 ,Q8LG70
+400,AT5G24410,AT5G24410,{},PGL4,5,8332420.0,8334129.0,Probable 6-phosphogluconolactonase 4 [Source:UniProtKB/Swiss-Prot;Acc:Q9FIN1],832512.0,Probable 6-phosphogluconolactonase 4 ,Q9FIN1
+401,AT5G24400,AT5G24400,{},PGL3,5,8330243.0,8331963.0,"Probable 6-phosphogluconolactonase 5, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q84WW2]",832511.0,"Probable 6-phosphogluconolactonase 5, chloroplastic ",Q84WW2
+402,AT1G13700,AT1G13700,{},PGL1,1,4694372.0,4696023.0,Probable 6-phosphogluconolactonase 1 [Source:UniProtKB/Swiss-Prot;Acc:Q9LMX8],837931.0,Probable 6-phosphogluconolactonase 1 ,Q9LMX8
+403,AT5G41670,AT5G41670,{},PGD3,5,16664674.0,16667390.0,"6-phosphogluconate dehydrogenase, decarboxylating [Source:UniProtKB/TrEMBL;Acc:A0A178UQL8]",834169.0,"6-phosphogluconate dehydrogenase, decarboxylating ",A0A178UQL8
+404,AT1G64190,AT1G64190,{},PGD1,1,23825328.0,23827136.0,"6-phosphogluconate dehydrogenase, decarboxylating 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9SH69]",842724.0,"6-phosphogluconate dehydrogenase, decarboxylating 1, chloroplastic ",Q9SH69
+405,AT3G02360,AT3G02360,{},PGD2,3,481776.0,484152.0,"6-phosphogluconate dehydrogenase, decarboxylating [Source:UniProtKB/TrEMBL;Acc:A0A178VK18]",821163.0,"6-phosphogluconate dehydrogenase, decarboxylating ",A0A178VK18
+406,AT5G13420,AT5G13420,{},,5.0,4301792.0,4304315.0,Aldolase-type TIM barrel family protein [Source:UniProtKB/TrEMBL;Acc:Q9LYR4],831183.0,Aldolase-type TIM barrel family protein ,Q9LYR4
+407,AT1G22410,AT1G22410,{},,1.0,7911843.0,7915004.0,Phospho-2-dehydro-3-deoxyheptonate aldolase [Source:UniProtKB/TrEMBL;Acc:Q9SK84],838847.0,Phospho-2-dehydro-3-deoxyheptonate aldolase ,Q9SK84
+408,AT4G39980,AT4G39980,{},DHS1,4,18539511.0,18542122.0,"Phospho-2-dehydro-3-deoxyheptonate aldolase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P29976]",830159.0,"Phospho-2-dehydro-3-deoxyheptonate aldolase 1, chloroplastic ",P29976
+409,AT4G33510,AT4G33510,{},DHS2,4,16116371.0,16118825.0,Phospho-2-dehydro-3-deoxyheptonate aldolase [Source:UniProtKB/TrEMBL;Acc:A0A178US70],829489.0,Phospho-2-dehydro-3-deoxyheptonate aldolase ,A0A178US70
+410,AT5G66120,AT5G66120,{},DHQS,5,26431376.0,26433900.0,"3-dehydroquinate synthase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q8VYV7]",836744.0,"3-dehydroquinate synthase, chloroplastic ",Q8VYV7
+411,AT3G06350,AT3G06350,{},EMB3004,3,1924270.0,1927850.0,"Bifunctional 3-dehydroquinate dehydratase/shikimate dehydrogenase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9SQT8]",819809.0,"Bifunctional 3-dehydroquinate dehydratase/shikimate dehydrogenase, chloroplastic ",Q9SQT8
+412,AT2G21940,AT2G21940,{},SK1,2,9350543.0,9353231.0,Shikimate kinase 1 [Source:UniProtKB/TrEMBL;Acc:F4IIJ2],816730.0,Shikimate kinase 1 ,F4IIJ2
+413,AT4G39540,AT4G39540,{},SK2,4,18378225.0,18380417.0,Shikimate kinase 2 [Source:UniProtKB/TrEMBL;Acc:F4JW33],830108.0,Shikimate kinase 2 ,F4JW33
+414,AT1G48860,AT1G48860,{},,1.0,18068698.0,18071667.0,3-phosphoshikimate 1-carboxyvinyltransferase [Source:UniProtKB/TrEMBL;Acc:Q9FVP6],841308.0,3-phosphoshikimate 1-carboxyvinyltransferase ,Q9FVP6
+415,AT2G45300,AT2G45300,{},,2.0,18677311.0,18681889.0,"3-phosphoshikimate 1-carboxyvinyltransferase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P05466]",819138.0,"3-phosphoshikimate 1-carboxyvinyltransferase, chloroplastic ",P05466
+416,AT1G48850,AT1G48850,{},EMB1144,1,18064905.0,18068154.0,"Chorismate synthase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P57720]",841307.0,"Chorismate synthase, chloroplastic ",P57720
+417,AT2G35390,AT2G35390,{},PRS1,2,14895248.0,14897882.0,"Ribose-phosphate pyrophosphokinase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q42581]",818106.0,"Ribose-phosphate pyrophosphokinase 1, chloroplastic ",Q42581
+418,AT1G10700,AT1G10700,{},PRS3,1,3554104.0,3556544.0,"Ribose-phosphate pyrophosphokinase 3, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q93Z66]",837613.0,"Ribose-phosphate pyrophosphokinase 3, chloroplastic ",Q93Z66
+419,AT1G32380,AT1G32380,{},PRS2,1,11681734.0,11684520.0,"Ribose-phosphate pyrophosphokinase 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q42583]",840131.0,"Ribose-phosphate pyrophosphokinase 2, chloroplastic ",Q42583
+420,AT2G44530,AT2G44530,{},PRS5,2,18383515.0,18386208.0,"Ribose-phosphate pyrophosphokinase 5, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:O64888]",819061.0,"Ribose-phosphate pyrophosphokinase 5, chloroplastic ",O64888
+421,AT4G15530,AT4G15530,{},PPDK,4,8864615.0,8870979.0,"Pyruvate, phosphate dikinase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:O23404]",827226.0,"Pyruvate, phosphate dikinase 1, chloroplastic ",O23404
+422,AT5G58330,AT5G58330,{},,5.0,23579722.0,23582395.0,"Malate dehydrogenase [NADP], chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q8H1E2]",835945.0,Malate dehydrogenase ,Q8H1E2
+423,AT1G79750,AT1G79750,{},NADP-ME4,1,30007288.0,30011690.0,Malic enzyme [Source:UniProtKB/TrEMBL;Acc:A0A178W4H6],844314.0,Malic enzyme ,A0A178W4H6
+424,AT3G58740,AT3G58740,{},CSY1,3,21720773.0,21723790.0,"Citrate synthase 1, peroxisomal [Source:UniProtKB/Swiss-Prot;Acc:Q9LXS7]",825043.0,"Citrate synthase 1, peroxisomal ",Q9LXS7
+425,AT2G42790,AT2G42790,{},CSY3,2,17802841.0,17806073.0,Citrate synthase [Source:UniProtKB/TrEMBL;Acc:Q0WUX6],818879.0,Citrate synthase ,Q0WUX6
+426,AT1G32480,AT1G32480,{},IDH-IV,1,11741083.0,11741990.0,isocitrate dehydrogenase IV [Source:TAIR;Acc:AT1G32480],,isocitrate dehydrogenase IV ,AT1G32480
+427,AT1G65930,AT1G65930,{},CICDH,1,24538886.0,24542712.0,Isocitrate dehydrogenase [NADP] [Source:UniProtKB/TrEMBL;Acc:A0A178W7K0],842905.0,Isocitrate dehydrogenase ,A0A178W7K0
+428,AT5G14590,AT5G14590,{},,5.0,4703298.0,4706826.0,"Isocitrate dehydrogenase [NADP], chloroplastic/mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q8LPJ5]",831311.0,Isocitrate dehydrogenase ,Q8LPJ5
+429,AT3G21720,AT3G21720,{},ICL,3,7652487.0,7656053.0,Isocitrate lyase [Source:UniProtKB/Swiss-Prot;Acc:P28297],821726.0,Isocitrate lyase ,P28297
+430,AT1G09430,AT1G09430,{},ACLA-3,1,3041996.0,3045541.0,ATP-citrate synthase alpha chain protein 3 [Source:UniProtKB/Swiss-Prot;Acc:O80526],837466.0,ATP-citrate synthase alpha chain protein 3 ,O80526
+431,AT5G49460,AT5G49460,{},ACLB-2,5,20054501.0,20058555.0,ATP-citrate synthase beta chain protein 2 [Source:UniProtKB/Swiss-Prot;Acc:Q9FGX1],835006.0,ATP-citrate synthase beta chain protein 2 ,Q9FGX1
+432,AT1G60810,AT1G60810,{},ACLA-2,1,22388527.0,22391237.0,ATP-citrate synthase alpha chain protein 2 [Source:UniProtKB/Swiss-Prot;Acc:O22718],842375.0,ATP-citrate synthase alpha chain protein 2 ,O22718
+433,AT1G10670,AT1G10670,{},ACLA-1,1,3535288.0,3538439.0,ATP-citrate lyase A-1 [Source:UniProtKB/TrEMBL;Acc:F4I5V8],837610.0,ATP-citrate lyase A-1 ,F4I5V8
+434,AT3G06650,AT3G06650,{},ACLB-1,3,2079033.0,2083472.0,ACLB-1 [Source:UniProtKB/TrEMBL;Acc:A0A178V742],819845.0,ACLB-1 ,A0A178V742
+435,AT5G23050,AT5G23050,{},AAE17,5,7731221.0,7735566.0,"Probable acyl-activating enzyme 17, peroxisomal [Source:UniProtKB/Swiss-Prot;Acc:F4KBF3]",832369.0,"Probable acyl-activating enzyme 17, peroxisomal ",F4KBF3
+436,AT5G36880,AT5G36880,{},ACS,5,14534585.0,14540441.0,"Acetyl-coenzyme A synthetase, chloroplastic/glyoxysomal [Source:UniProtKB/Swiss-Prot;Acc:B9DGD6]",833655.0,"Acetyl-coenzyme A synthetase, chloroplastic/glyoxysomal ",B9DGD6
+437,AT2G38040,AT2G38040,{},CAC3,2,15917032.0,15921170.0,"Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9LD43]",818382.0,"Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha, chloroplastic ",Q9LD43
+438,AT5G15530,AT5G15530,{},BCCP2,5,5038563.0,5040840.0,Biotin carboxyl carrier protein of acetyl-CoA carboxylase [Source:UniProtKB/TrEMBL;Acc:A0A178U9S1],831406.0,Biotin carboxyl carrier protein of acetyl-CoA carboxylase ,A0A178U9S1
+439,AT5G16390,AT5G16390,{},BCCP1,5,5360789.0,5363297.0,"Biotin carboxyl carrier protein of acetyl-CoA carboxylase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q42533]",831500.0,"Biotin carboxyl carrier protein of acetyl-CoA carboxylase 1, chloroplastic ",Q42533
+440,AT5G35360,AT5G35360,{},CAC2,5,13584104.0,13588496.0,Acetyl Co-enzyme a carboxylase biotin carboxylase subunit [Source:UniProtKB/TrEMBL;Acc:F4JYE0],833497.0,Acetyl Co-enzyme a carboxylase biotin carboxylase subunit ,F4JYE0
+441,ATCG00500,ATCG00500,{},ACCD,Pt,57075.0,58541.0,"Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta, chloroplastic [Source:UniProtKB/TrEMBL;Acc:A0A1B1W4V3]",844755.0,"Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta, chloroplastic ",A0A1B1W4V3
+442,AT2G30200,AT2G30200,{},,2.0,12882948.0,12885776.0,EMBRYO DEFECTIVE 3147 [Source:UniProtKB/TrEMBL;Acc:Q8RU07],817570.0,EMBRYO DEFECTIVE 3147 ,Q8RU07
+443,AT5G09650,AT5G09650,{},PPA6,5,2991149.0,2993213.0,"Soluble inorganic pyrophosphatase 6, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9LXC9]",830824.0,"Soluble inorganic pyrophosphatase 6, chloroplastic ",Q9LXC9
+444,AT2G46860,AT2G46860,{},PPA3,2,19253670.0,19255328.0,PPa3 [Source:UniProtKB/TrEMBL;Acc:A0A178VZ15],819299.0,PPa3 ,A0A178VZ15
+445,AT3G53620,AT3G53620,{},PPA4,3,19880504.0,19883743.0,PPa4 [Source:UniProtKB/TrEMBL;Acc:A0A178VKC0],824530.0,PPa4 ,A0A178VKC0
+446,AT1G01050,AT1G01050,{},PPA1,1,31170.0,33171.0,Soluble inorganic pyrophosphatase 1 [Source:UniProtKB/Swiss-Prot;Acc:Q93V56],839579.0,Soluble inorganic pyrophosphatase 1 ,Q93V56
+447,AT2G18230,AT2G18230,{},PPA2,2,7931923.0,7934353.0,PPa2 [Source:UniProtKB/TrEMBL;Acc:A0A178VY12],816338.0,PPa2 ,A0A178VY12
+448,AT4G01480,AT4G01480,{},PPA5,4,626069.0,628070.0,PPa5 [Source:UniProtKB/TrEMBL;Acc:A0A178V127],827962.0,PPa5 ,A0A178V127
+449,AT1G15690,AT1G15690,{},AVP1,1,5398926.0,5402733.0,VHP1 [Source:UniProtKB/TrEMBL;Acc:A0A178WA14],838138.0,VHP1 ,A0A178WA14
+450,AT1G20950,AT1G20950,{},PFP-ALPHA1,1,7297239.0,7301633.0,Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha [Source:UniProtKB/TrEMBL;Acc:A0A178WMV9],838689.0,Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha ,A0A178WMV9
+451,AT1G76550,AT1G76550,{},PFP-ALPHA2,1,28722657.0,28727111.0,Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha 2 [Source:UniProtKB/Swiss-Prot;Acc:Q9C9K3],843988.0,Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha 2 ,Q9C9K3
+452,AT4G04040,AT4G04040,{},PFP-BETA2,4,1939113.0,1943024.0,Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit beta 2 [Source:UniProtKB/Swiss-Prot;Acc:F4JGR5],825716.0,Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit beta 2 ,F4JGR5
+453,AT1G12000,AT1G12000,{},PFP-BETA1,1,4049896.0,4053871.0,Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit beta 1 [Source:UniProtKB/Swiss-Prot;Acc:Q8W4M5],837752.0,Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit beta 1 ,Q8W4M5
+454,AT5G14780,AT5G14780,{},FDH1,5,4776733.0,4779526.0,"Formate dehydrogenase, mitochondrial [Source:UniProtKB/TrEMBL;Acc:A0A178UHK7]",831330.0,"Formate dehydrogenase, mitochondrial ",A0A178UHK7
+455,AT1G50480,AT1G50480,{},THFS,1,18701882.0,18704938.0,Formate--tetrahydrofolate ligase [Source:UniProtKB/Swiss-Prot;Acc:Q9SPK5],841470.0,Formate--tetrahydrofolate ligase ,Q9SPK5
+456,AT2G21550,AT2G21550,{},,2.0,9226917.0,9230205.0,Bifunctional dihydrofolate reductase-thymidylate synthase [Source:UniProtKB/TrEMBL;Acc:Q9SIK4],816694.0,Bifunctional dihydrofolate reductase-thymidylate synthase ,Q9SIK4
+457,AT2G16370,AT2G16370,{},THY-1,2,7081763.0,7084865.0,Bifunctional dihydrofolate reductase-thymidylate synthase 1 [Source:UniProtKB/Swiss-Prot;Acc:Q05762],816134.0,Bifunctional dihydrofolate reductase-thymidylate synthase 1 ,Q05762
+458,AT4G15700,AT4G15700,{},GRXS3,4,8937358.0,8938124.0,Monothiol glutaredoxin-S3 [Source:UniProtKB/Swiss-Prot;Acc:O23421],827247.0,Monothiol glutaredoxin-S3 ,O23421
+459,AT2G47880,AT2G47880,{},GRXC13,2,19605030.0,19605704.0,Glutaredoxin-C13 [Source:UniProtKB/Swiss-Prot;Acc:O82255],819400.0,Glutaredoxin-C13 ,O82255
+460,AT5G18600,AT5G18600,{},GRXS2,5,6183166.0,6184038.0,Monothiol glutaredoxin-S2 [Source:UniProtKB/Swiss-Prot;Acc:Q8L8Z8],831978.0,Monothiol glutaredoxin-S2 ,Q8L8Z8
+461,AT2G17420,AT2G17420,{},NTR2,2,7564240.0,7566601.0,Thioredoxin reductase 2 [Source:UniProtKB/Swiss-Prot;Acc:Q39242],816248.0,Thioredoxin reductase 2 ,Q39242
+462,AT2G41680,AT2G41680,{},NTRC,2,17376155.0,17379059.0,Thioredoxin reductase [Source:UniProtKB/TrEMBL;Acc:A0A178VZE7],818766.0,Thioredoxin reductase ,A0A178VZE7
+463,AT2G47870,AT2G47870,{},GRXC12,2,19603163.0,19603895.0,Putative glutaredoxin-C12 [Source:UniProtKB/Swiss-Prot;Acc:O82254],28718362.0,Putative glutaredoxin-C12 ,O82254
+464,AT3G02000,AT3G02000,{},GRXC7,3,332275.0,333072.0,ROXY1 [Source:UniProtKB/TrEMBL;Acc:A0A178VBU2],820200.0,ROXY1 ,A0A178VBU2
+465,AT5G40370,AT5G40370,{},,5.0,16147347.0,16149256.0,Glutaredoxin family protein [Source:UniProtKB/TrEMBL;Acc:B3H604],834035.0,Glutaredoxin family protein ,B3H604
+466,AT1G03020,AT1G03020,{},GRXS1,1,697919.0,698591.0,Monothiol glutaredoxin-S1 [Source:UniProtKB/Swiss-Prot;Acc:Q9SA68],839505.0,Monothiol glutaredoxin-S1 ,Q9SA68
+467,AT4G15680,AT4G15680,{},GRXS4,4,8931617.0,8932317.0,Monothiol glutaredoxin-S4 [Source:UniProtKB/Swiss-Prot;Acc:O23419],827245.0,Monothiol glutaredoxin-S4 ,O23419
+468,AT5G63030,AT5G63030,{},GRXC1,5,25286177.0,25287694.0,Glutaredoxin-C1 [Source:UniProtKB/Swiss-Prot;Acc:Q8L8T2],836423.0,Glutaredoxin-C1 ,Q8L8T2
+469,AT5G14070,AT5G14070,{},GRXC8,5,4541780.0,4542585.0,Glutaredoxin-C8 [Source:UniProtKB/Swiss-Prot;Acc:Q8LF89],831256.0,Glutaredoxin-C8 ,Q8LF89
+470,AT3G21460,AT3G21460,{},GRXS10,3,7557297.0,7557969.0,Monothiol glutaredoxin-S10 [Source:UniProtKB/Swiss-Prot;Acc:Q9LIF1],5008019.0,Monothiol glutaredoxin-S10 ,Q9LIF1
+471,AT2G30540,AT2G30540,{},GRXS9,2,13011105.0,13012043.0,Monothiol glutaredoxin-S9 [Source:UniProtKB/Swiss-Prot;Acc:O04341],817603.0,Monothiol glutaredoxin-S9 ,O04341
+472,AT3G62960,AT3G62960,{},GRXC14,3,23268641.0,23269324.0,Glutaredoxin-C14 [Source:UniProtKB/Swiss-Prot;Acc:Q9LYC5],825471.0,Glutaredoxin-C14 ,Q9LYC5
+473,AT4G15660,AT4G15660,{},GRXS8,4,8925571.0,8926510.0,Monothiol glutaredoxin-S8 [Source:UniProtKB/Swiss-Prot;Acc:O23417],827243.0,Monothiol glutaredoxin-S8 ,O23417
+474,AT4G15670,AT4G15670,{},GRXS7,4,8929031.0,8929813.0,Monothiol glutaredoxin-S7 [Source:UniProtKB/Swiss-Prot;Acc:Q6NLU2],827244.0,Monothiol glutaredoxin-S7 ,Q6NLU2
+475,AT4G35460,AT4G35460,{},NTR1,4,16842174.0,16844359.0,"Thioredoxin reductase 1, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q39243]",829698.0,"Thioredoxin reductase 1, mitochondrial ",Q39243
+476,AT3G09820,AT3G09820,{},ADK1,3,3011780.0,3014944.0,Adenosine kinase 1 [Source:UniProtKB/Swiss-Prot;Acc:Q9SF85],820140.0,Adenosine kinase 1 ,Q9SF85
+477,AT5G03300,AT5G03300,{},ADK2,5,796361.0,799810.0,Adenosine kinase 2 [Source:UniProtKB/Swiss-Prot;Acc:Q9LZG0],831882.0,Adenosine kinase 2 ,Q9LZG0
+478,AT2G36310,AT2G36310,{},URH1,2,15224497.0,15227276.0,Uridine nucleosidase 1 [Source:UniProtKB/Swiss-Prot;Acc:Q9SJM7],818204.0,Uridine nucleosidase 1 ,Q9SJM7
+479,AT4G22570,AT4G22570,{},APT3,4,11882066.0,11885533.0,Adenine phosphoribosyltransferase 3 [Source:UniProtKB/Swiss-Prot;Acc:Q9SUW2],828353.0,Adenine phosphoribosyltransferase 3 ,Q9SUW2
+480,AT1G80050,AT1G80050,{},APT2,1,30111497.0,30114010.0,PHT1.1 [Source:UniProtKB/TrEMBL;Acc:A0A178W1K2],844345.0,PHT1.1 ,A0A178W1K2
+481,AT1G27450,AT1G27450,{},APT1,1,9531809.0,9534141.0,Adenine phosphoribosyl transferase 1 [Source:UniProtKB/TrEMBL;Acc:F4HSX1],839636.0,Adenine phosphoribosyl transferase 1 ,F4HSX1
+482,AT5G11160,AT5G11160,{},APT5,5,3550300.0,3552255.0,Adenine phosphoribosyltransferase 5 [Source:UniProtKB/Swiss-Prot;Acc:Q9LFP0],830985.0,Adenine phosphoribosyltransferase 5 ,Q9LFP0
+483,AT4G12440,AT4G12440,{},APT4,4,7375855.0,7380372.0,APT4 [Source:UniProtKB/TrEMBL;Acc:A0A178URQ7],826856.0,APT4 ,A0A178URQ7
+484,AT1G17160,AT1G17160,{},,1.0,5867535.0,5869436.0,Ribokinase [Source:UniProtKB/TrEMBL;Acc:A1A6H3],838287.0,Ribokinase ,A1A6H3
+485,AT1G77760,AT1G77760,{},NIA1,1,29235721.0,29239484.0,Nitrate reductase [Source:UniProtKB/TrEMBL;Acc:A0A178WBR8],844112.0,Nitrate reductase ,A0A178WBR8
+486,AT1G37130,AT1G37130,{},NIA2,1,14158452.0,14161938.0,Nitrate reductase [NADH] 2 [Source:UniProtKB/Swiss-Prot;Acc:P11035],840630.0,Nitrate reductase ,P11035
+487,AT2G15620,AT2G15620,{},NIR1,2,6810395.0,6812941.0,"Ferredoxin--nitrite reductase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q39161]",816055.0,"Ferredoxin--nitrite reductase, chloroplastic ",Q39161
+488,AT5G43780,AT5G43780,{},APS4,5,17589394.0,17591737.0,"ATP sulfurylase 4, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9S7D8]",834400.0,"ATP sulfurylase 4, chloroplastic ",Q9S7D8
+489,AT3G22890,AT3G22890,{},APS1,3,8112614.0,8115024.0,"ATP sulfurylase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9LIK9]",821861.0,"ATP sulfurylase 1, chloroplastic ",Q9LIK9
+490,AT4G14680,AT4G14680,{},APS3,4,8413263.0,8415650.0,Pseudouridine synthase/archaeosine transglycosylase-like family protein [Source:TAIR;Acc:AT4G14680],827118.0,Pseudouridine synthase/archaeosine transglycosylase-like family protein ,AT4G14680
+491,AT1G19920,AT1G19920,{},APS2,1,6914518.0,6916823.0,ATP sulfurylase 2 [Source:UniProtKB/Swiss-Prot;Acc:Q43870],838580.0,ATP sulfurylase 2 ,Q43870
+492,AT4G04610,AT4G04610,{},APR1,4,2324878.0,2327064.0,"5'-adenylylsulfate reductase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P92979]",825793.0,"5'-adenylylsulfate reductase 1, chloroplastic ",P92979
+493,AT4G21990,AT4G21990,{},APR3,4,11657008.0,11659167.0,"5'-adenylylsulfate reductase 3, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P92980]",828288.0,"5'-adenylylsulfate reductase 3, chloroplastic ",P92980
+494,AT1G62180,AT1G62180,{},APR2,1,22975530.0,22977885.0,"5'-adenylylsulfate reductase 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P92981]",842514.0,"5'-adenylylsulfate reductase 2, chloroplastic ",P92981
+495,AT3G54660,AT3G54660,{},EMB2360,3,20229637.0,20233211.0,At3g54660 [Source:UniProtKB/TrEMBL;Acc:Q5FV38],824631.0,At3g54660 ,Q5FV38
+496,AT5G04590,AT5G04590,{},SIR,5,1319074.0,1323364.0,SIR [Source:UniProtKB/TrEMBL;Acc:A0A178UPZ1],830336.0,SIR ,A0A178UPZ1
+497,AT4G21000,AT4G21000,{},ACA6,4,11222529.0,11223756.0,Alpha carbonic anhydrase 6 [Source:UniProtKB/Swiss-Prot;Acc:Q9SUB4],827847.0,Alpha carbonic anhydrase 6 ,Q9SUB4
+498,AT5G04180,AT5G04180,{},ACA3,5,1147648.0,1149284.0,Alpha carbonic anhydrase 3 [Source:UniProtKB/Swiss-Prot;Acc:Q9FYE3],830296.0,Alpha carbonic anhydrase 3 ,Q9FYE3
+499,AT1G08065,AT1G08065,{},ACA5,1,2511647.0,2513454.0,Alpha carbonic anhydrase 5 [Source:UniProtKB/Swiss-Prot;Acc:F4HUC4],837324.0,Alpha carbonic anhydrase 5 ,F4HUC4
+500,AT3G52720,AT3G52720,{},ACA1,3,19538540.0,19542286.0,"Alpha carbonic anhydrase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:O04846]",824438.0,"Alpha carbonic anhydrase 1, chloroplastic ",O04846
+501,AT4G20990,AT4G20990,{},ACA4,4,11219772.0,11221148.0,Alpha carbonic anhydrase 4 [Source:UniProtKB/Swiss-Prot;Acc:F4JIK2],827846.0,Alpha carbonic anhydrase 4 ,F4JIK2
+502,AT1G23730,AT1G23730,{},BCA3,1,8395466.0,8398387.0,Beta carbonic anhydrase 3 [Source:UniProtKB/Swiss-Prot;Acc:Q9ZUC2],838983.0,Beta carbonic anhydrase 3 ,Q9ZUC2
+503,AT5G14740,AT5G14740,{},BCA2,5,4757856.0,4762666.0,"Beta carbonic anhydrase 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P42737]",831326.0,"Beta carbonic anhydrase 2, chloroplastic ",P42737
+504,AT2G28210,AT2G28210,{},ATACA2,2,12029666.0,12033096.0,ATACA2 [Source:UniProtKB/TrEMBL;Acc:A0A178VW72],817367.0,ATACA2 ,A0A178VW72
+505,AT1G70410,AT1G70410,{},BCA4,1,26533824.0,26538437.0,Beta carbonic anhydrase 4 [Source:UniProtKB/Swiss-Prot;Acc:Q94CE4],843377.0,Beta carbonic anhydrase 4 ,Q94CE4
+506,AT1G17290,AT1G17290,{},ALAAT1,1,5922332.0,5926400.0,"Alanine aminotransferase 1, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:F4I7I0]",838301.0,"Alanine aminotransferase 1, mitochondrial ",F4I7I0
+507,AT1G72330,AT1G72330,{},ALAAT2,1,27233418.0,27236822.0,alanine aminotransferase 2 [Source:TAIR;Acc:AT1G72330],843565.0,alanine aminotransferase 2 ,AT1G72330
+508,AT3G57560,AT3G57560,{},NAGK,3,21310825.0,21312378.0,NAGK [Source:UniProtKB/TrEMBL;Acc:A0A178V7F4],824923.0,NAGK ,A0A178V7F4
+509,AT2G19940,AT2G19940,{},,2.0,8612926.0,8616117.0,"oxidoreductases, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor;copper ion binding [Source:TAIR;Acc:AT2G19940]",816513.0,"oxidoreductases, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor;copper ion binding ",AT2G19940
+510,AT1G80600,AT1G80600,{},WIN1,1,30298462.0,30300658.0,"Acetylornithine aminotransferase, chloroplastic/mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9M8M7]",844399.0,"Acetylornithine aminotransferase, chloroplastic/mitochondrial ",Q9M8M7
+511,AT2G37500,AT2G37500,{},,2.0,15739783.0,15742838.0,"Arginine biosynthesis bifunctional protein ArgJ, chloroplastic [Source:UniProtKB/TrEMBL;Acc:A0A178VUS6]",818326.0,"Arginine biosynthesis bifunctional protein ArgJ, chloroplastic ",A0A178VUS6
+512,AT1G29900,AT1G29900,{},CARB,1,10467956.0,10472211.0,"Carbamoyl-phosphate synthase large chain, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q42601]",839868.0,"Carbamoyl-phosphate synthase large chain, chloroplastic ",Q42601
+513,AT3G27740,AT3G27740,{},CARA,3,10281230.0,10283935.0,"Carbamoyl-phosphate synthase small chain, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9LVW7]",822396.0,"Carbamoyl-phosphate synthase small chain, chloroplastic ",Q9LVW7
+514,AT1G75330,AT1G75330,{},OTC,1,28266259.0,28268416.0,OTC [Source:UniProtKB/TrEMBL;Acc:A0A178W4A4],843869.0,OTC ,A0A178W4A4
+515,AT4G24830,AT4G24830,{},,4.0,12792827.0,12796031.0,"Argininosuccinate synthase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9SZX3]",828586.0,"Argininosuccinate synthase, chloroplastic ",Q9SZX3
+516,AT5G10920,AT5G10920,{},,5.0,3441751.0,3444267.0,"Argininosuccinate lyase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9LEU8]",830959.0,"Argininosuccinate lyase, chloroplastic ",Q9LEU8
+517,AT5G10240,AT5G10240,{},ASN3,5,3212651.0,3216551.0,Asparagine synthetase [glutamine-hydrolyzing] 3 [Source:UniProtKB/Swiss-Prot;Acc:Q9LFU1],830888.0,Asparagine synthetase ,Q9LFU1
+518,AT3G47340,AT3G47340,{},ASN1,3,17437840.0,17441431.0,DIN6 [Source:UniProtKB/TrEMBL;Acc:A0A178VBT4],823888.0,DIN6 ,A0A178VBT4
+519,AT2G03667,AT2G03667,{},,2.0,1114127.0,1117477.0,Asparagine synthase family protein [Source:UniProtKB/TrEMBL;Acc:A8MRC1],5007865.0,Asparagine synthase family protein ,A8MRC1
+520,AT5G65010,AT5G65010,{},ASN2,5,25969035.0,25972575.0,asparagine synthetase 2 [Source:TAIR;Acc:AT5G65010],836625.0,asparagine synthetase 2 ,AT5G65010
+521,AT5G19550,AT5G19550,{},ASP2,5,6597971.0,6601971.0,Aspartate aminotransferase [Source:UniProtKB/TrEMBL;Acc:Q1EBW2],832075.0,Aspartate aminotransferase ,Q1EBW2
+522,AT5G51690,AT5G51690,{},ACS12,5,20997413.0,21001054.0,Probable aminotransferase ACS12 [Source:UniProtKB/Swiss-Prot;Acc:Q8GYY0],835243.0,Probable aminotransferase ACS12 ,Q8GYY0
+523,AT2G22250,AT2G22250,{},PAT,2,9457786.0,9460919.0,Bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase [Source:UniProtKB/Swiss-Prot;Acc:Q9SIE1],816758.0,Bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase ,Q9SIE1
+524,AT1G62960,AT1G62960,{},ACS10,1,23318187.0,23320427.0,Probable aminotransferase ACS10 [Source:UniProtKB/Swiss-Prot;Acc:Q9LQ10],842598.0,Probable aminotransferase ACS10 ,Q9LQ10
+525,AT5G11520,AT5G11520,{},ASP3,5,3684946.0,3687854.0,"Aspartate aminotransferase 3, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P46644]",831024.0,"Aspartate aminotransferase 3, chloroplastic ",P46644
+526,AT1G62800,AT1G62800,{},ASP4,1,23253703.0,23257546.0,Aspartate aminotransferase [Source:UniProtKB/TrEMBL;Acc:F4I0D4],842579.0,Aspartate aminotransferase ,F4I0D4
+527,AT4G31990,AT4G31990,{},ASP5,4,15470744.0,15473885.0,Aspartate aminotransferase [Source:UniProtKB/TrEMBL;Acc:B9DG21],829330.0,Aspartate aminotransferase ,B9DG21
+528,AT2G30970,AT2G30970,{},ASP1,2,13178829.0,13182050.0,"Aspartate aminotransferase, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:P46643]",817648.0,"Aspartate aminotransferase, mitochondrial ",P46643
+529,AT5G08100,AT5G08100,{},,5.0,2592976.0,2594701.0,Isoaspartyl peptidase/L-asparaginase 1 [Source:UniProtKB/Swiss-Prot;Acc:P50287],830704.0,Isoaspartyl peptidase/L-asparaginase 1 ,P50287
+530,AT3G16150,AT3G16150,{},,3.0,5471735.0,5473360.0,ASPGB1 [Source:UniProtKB/TrEMBL;Acc:A0A384KV24],820860.0,ASPGB1 ,A0A384KV24
+531,AT5G56760,AT5G56760,{},SAT5,5,22961229.0,22962713.0,Serine acetyltransferase 5 [Source:UniProtKB/Swiss-Prot;Acc:Q42538],835778.0,Serine acetyltransferase 5 ,Q42538
+532,AT4G35640,AT4G35640,{},SAT4,4,16905579.0,16908357.0,SERAT3 [Source:UniProtKB/TrEMBL;Acc:A0A178USX0],829716.0,SERAT3 ,A0A178USX0
+533,AT3G13110,AT3G13110,{},SAT3,3,4214399.0,4216302.0,"Serine acetyltransferase 3, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q39218]",820499.0,"Serine acetyltransferase 3, mitochondrial ",Q39218
+534,AT1G55920,AT1G55920,{},SAT1,1,20912116.0,20913565.0,"Serine acetyltransferase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q42588]",842043.0,"Serine acetyltransferase 1, chloroplastic ",Q42588
+535,AT2G17640,AT2G17640,{},SAT2,2,7668078.0,7670495.0,Serine acetyltransferase 2 [Source:UniProtKB/Swiss-Prot;Acc:Q8S895],816271.0,Serine acetyltransferase 2 ,Q8S895
+536,AT4G14880,AT4G14880,{},OASA1,4,8517960.0,8520596.0,Cysteine synthase 1 [Source:UniProtKB/Swiss-Prot;Acc:P47998],827145.0,Cysteine synthase 1 ,P47998
+537,AT5G28020,AT5G28020,{},CYSD2,5,10026152.0,10028722.0,Bifunctional L-3-cyanoalanine synthase/cysteine synthase D2 [Source:UniProtKB/Swiss-Prot;Acc:Q9SXS7],832872.0,Bifunctional L-3-cyanoalanine synthase/cysteine synthase D2 ,Q9SXS7
+538,AT5G28030,AT5G28030,{},DES1,5,10029632.0,10032962.0,Bifunctional cystathionine gamma-lyase/cysteine synthase [Source:UniProtKB/Swiss-Prot;Acc:F4K5T2],832873.0,Bifunctional cystathionine gamma-lyase/cysteine synthase ,F4K5T2
+539,AT3G22460,AT3G22460,{},OASA2,3,7963855.0,7965907.0,O-acetylserine (thiol) lyase (OAS-TL) isoform A2 [Source:TAIR;Acc:AT3G22460],821817.0,O-acetylserine (thiol) lyase (OAS-TL) isoform A2 ,AT3G22460
+540,AT3G04940,AT3G04940,{},CYSD1,3,1365090.0,1367844.0,Bifunctional L-3-cyanoalanine synthase/cysteine synthase D1 [Source:UniProtKB/Swiss-Prot;Acc:Q9S6Z7],819654.0,Bifunctional L-3-cyanoalanine synthase/cysteine synthase D1 ,Q9S6Z7
+541,AT3G03630,AT3G03630,{},CS26,3,877844.0,880461.0,"Probable S-sulfocysteine synthase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:O22682]",821203.0,"Probable S-sulfocysteine synthase, chloroplastic ",O22682
+542,AT2G43750,AT2G43750,{},OASB,2,18129435.0,18132638.0,Cysteine synthase [Source:UniProtKB/TrEMBL;Acc:Q0WW95],818978.0,Cysteine synthase ,Q0WW95
+543,AT3G61440,AT3G61440,{},CYSC1,3,22735663.0,22738131.0,"Bifunctional L-3-cyanoalanine synthase/cysteine synthase C1, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9S757]",825317.0,"Bifunctional L-3-cyanoalanine synthase/cysteine synthase C1, mitochondrial ",Q9S757
+544,AT3G59760,AT3G59760,{},OASC,3,22071948.0,22075453.0,Cysteine synthase [Source:UniProtKB/TrEMBL;Acc:B9DFR6],825145.0,Cysteine synthase ,B9DFR6
+545,AT1G51720,AT1G51720,{},,1.0,19180744.0,19186532.0,Amino acid dehydrogenase family protein [Source:UniProtKB/TrEMBL;Acc:F4I9M9],841597.0,Amino acid dehydrogenase family protein ,F4I9M9
+546,AT5G60540,AT5G60540,{},PDX2,5,24336623.0,24338802.0,PDX2 [Source:UniProtKB/TrEMBL;Acc:A0A178UA48],836175.0,PDX2 ,A0A178UA48
+547,AT5G53460,AT5G53460,{},GLT1,5,21700187.0,21710296.0,"Glutamate synthase 1 [NADH], chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9LV03]",835427.0,Glutamate synthase 1 ,Q9LV03
+548,AT2G41220,AT2G41220,{},GLU2,2,17177539.0,17188836.0,"Ferredoxin-dependent glutamate synthase 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9T0P4]",818721.0,"Ferredoxin-dependent glutamate synthase 2, chloroplastic ",Q9T0P4
+549,AT5G04140,AT5G04140,{},GLU1,5,1129785.0,1138488.0,glutamate synthase 1 [Source:TAIR;Acc:AT5G04140],830292.0,glutamate synthase 1 ,AT5G04140
+550,AT5G18170,AT5G18170,{},GDH1,5,6006035.0,6008726.0,Glutamate dehydrogenase 1 [Source:UniProtKB/Swiss-Prot;Acc:Q43314],831935.0,Glutamate dehydrogenase 1 ,Q43314
+551,AT3G03910,AT3G03910,{},GSH3,3,1006780.0,1009018.0,Glutamate dehydrogenase [Source:UniProtKB/TrEMBL;Acc:A0A178VBI2],821072.0,Glutamate dehydrogenase ,A0A178VBI2
+552,AT5G07440,AT5G07440,{},GDH2,5,2355759.0,2358241.0,Glutamate dehydrogenase [Source:UniProtKB/TrEMBL;Acc:A0A178UEW8],830635.0,Glutamate dehydrogenase ,A0A178UEW8
+553,AT2G02000,AT2G02000,{},GAD3,2,469370.0,472070.0,Glutamate decarboxylase 3 [Source:UniProtKB/Swiss-Prot;Acc:Q9ZPS4],814731.0,Glutamate decarboxylase 3 ,Q9ZPS4
+554,AT2G02010,AT2G02010,{},GAD4,2,474108.0,476997.0,glutamate decarboxylase 4 [Source:TAIR;Acc:AT2G02010],814732.0,glutamate decarboxylase 4 ,AT2G02010
+555,AT1G65960,AT1G65960,{},GAD2,1,24551807.0,24557730.0,Glutamate decarboxylase 2 [Source:UniProtKB/Swiss-Prot;Acc:Q42472],842908.0,Glutamate decarboxylase 2 ,Q42472
+556,AT5G17330,AT5G17330,{},GAD1,5,5710910.0,5715075.0,Glutamate decarboxylase 1 [Source:UniProtKB/Swiss-Prot;Acc:Q42521],831599.0,Glutamate decarboxylase 1 ,Q42521
+557,AT3G22200,AT3G22200,{},POP2,3,7835144.0,7839061.0,Pyridoxal phosphate (PLP)-dependent transferases superfamily protein [Source:TAIR;Acc:AT3G22200],821784.0,Pyridoxal phosphate (PLP)-dependent transferases superfamily protein ,AT3G22200
+558,AT1G79440,AT1G79440,{},ALDH5F1,1,29882121.0,29887414.0,"Succinate-semialdehyde dehydrogenase, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9SAK4]",844282.0,"Succinate-semialdehyde dehydrogenase, mitochondrial ",Q9SAK4
+559,AT5G37600,AT5G37600,{},GLN1-1,5,14933286.0,14935885.0,Glutamine synthetase cytosolic isozyme 1-1 [Source:UniProtKB/Swiss-Prot;Acc:Q56WN1],833738.0,Glutamine synthetase cytosolic isozyme 1-1 ,Q56WN1
+560,AT1G66200,AT1G66200,{},ATGSR2,1,24655115.0,24657703.0,Glutamine synthetase [Source:UniProtKB/TrEMBL;Acc:F4ID91],842935.0,Glutamine synthetase ,F4ID91
+561,AT5G16570,AT5G16570,{},GLN1-4,5,5421589.0,5424749.0,Glutamine synthetase [Source:UniProtKB/TrEMBL;Acc:A0A178UB24],831519.0,Glutamine synthetase ,A0A178UB24
+562,AT3G17820,AT3G17820,{},GLN1-3,3,6097201.0,6099595.0,Glutamine synthetase [Source:UniProtKB/TrEMBL;Acc:A0A178VNQ6],821050.0,Glutamine synthetase ,A0A178VNQ6
+563,AT1G48470,AT1G48470,{},GLN1-5,1,17913711.0,17916101.0,Glutamine synthetase cytosolic isozyme 1-5 [Source:UniProtKB/Swiss-Prot;Acc:Q8GXW5],841268.0,Glutamine synthetase cytosolic isozyme 1-5 ,Q8GXW5
+564,AT5G35630,AT5G35630,{},GLN2,5,13830429.0,13833542.0,"Glutamine synthetase, chloroplastic/mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q43127]",833535.0,"Glutamine synthetase, chloroplastic/mitochondrial ",Q43127
+565,AT1G08630,AT1G08630,{},THA1,1,2743761.0,2747967.0,Probable low-specificity L-threonine aldolase 1 [Source:UniProtKB/Swiss-Prot;Acc:Q8RXU4],837385.0,Probable low-specificity L-threonine aldolase 1 ,Q8RXU4
+566,AT1G54100,AT1G54100,{},ALDH7B4,1,20194712.0,20199193.0,ALDH7B4 [Source:UniProtKB/TrEMBL;Acc:A0A178W3F2],841849.0,ALDH7B4 ,A0A178W3F2
+567,AT3G66658,AT3G66658,{},ALDH22A1,3,2094998.0,2099250.0,Aldehyde dehydrogenase 22A1 [Source:UniProtKB/Swiss-Prot;Acc:Q0WSF1],819849.0,Aldehyde dehydrogenase 22A1 ,Q0WSF1
+568,AT1G44170,AT1G44170,{},ALDH3H1,1,16796400.0,16800321.0,Aldehyde dehydrogenase family 3 member H1 [Source:UniProtKB/Swiss-Prot;Acc:Q70DU8],841020.0,Aldehyde dehydrogenase family 3 member H1 ,Q70DU8
+569,AT4G36250,AT4G36250,{},ALDH3F1,4,17150740.0,17153663.0,Aldehyde dehydrogenase [Source:UniProtKB/TrEMBL;Acc:A4FVT2],829782.0,Aldehyde dehydrogenase ,A4FVT2
+570,AT3G24503,AT3G24503,{},ALDH2C4,3,8919560.0,8923296.0,Aldehyde dehydrogenase family 2 member C4 [Source:UniProtKB/Swiss-Prot;Acc:Q56YU0],822042.0,Aldehyde dehydrogenase family 2 member C4 ,Q56YU0
+571,AT1G09795,AT1G09795,{},HISN1B,1,3173534.0,3176910.0,"ATP phosphoribosyltransferase 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q8GSJ1]",837509.0,"ATP phosphoribosyltransferase 2, chloroplastic ",Q8GSJ1
+572,AT1G58080,AT1G58080,{},HISN1A,1,21504314.0,21507679.0,HISN1A [Source:UniProtKB/TrEMBL;Acc:A0A178WM39],842175.0,HISN1A ,A0A178WM39
+573,AT1G31860,AT1G31860,{},HISN2,1,11434060.0,11436607.0,"Histidine biosynthesis bifunctional protein hisIE, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:O82768]",840076.0,"Histidine biosynthesis bifunctional protein hisIE, chloroplastic ",O82768
+574,AT2G36230,AT2G36230,{},HISN3,2,15193694.0,15195558.0,"1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:O82782]",818195.0,1-(5-phosphoribosyl)-5-,O82782
+575,AT4G26900,AT4G26900,{},HISN4,4,13515432.0,13519867.0,Imidazole glycerol phosphate synthase hisHF [Source:UniProtKB/TrEMBL;Acc:A0A178UW68],828797.0,Imidazole glycerol phosphate synthase hisHF ,A0A178UW68
+576,AT4G14910,AT4G14910,{},HISN5B,4,8528033.0,8530437.0,Imidazoleglycerol-phosphate dehydratase [Source:UniProtKB/TrEMBL;Acc:A0A178V3L2],827149.0,Imidazoleglycerol-phosphate dehydratase ,A0A178V3L2
+577,AT3G22425,AT3G22425,{},HISN5A,3,7951023.0,7953223.0,"Imidazoleglycerol-phosphate dehydratase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P34047]",821812.0,"Imidazoleglycerol-phosphate dehydratase 1, chloroplastic ",P34047
+578,AT5G10330,AT5G10330,{},HISN6A,5,3247847.0,3250964.0,"Histidinol-phosphate aminotransferase 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P0DI07]","dbname
+EntrezGene    843523
+EntrezGene    830897
+Name: primary_id, dtype: object","Histidinol-phosphate aminotransferase 2, chloroplastic ",P0DI07
+579,AT1G71920,AT1G71920,{},HISN6A,1,27066948.0,27069166.0,"Histidinol-phosphate aminotransferase 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P0DI07]","dbname
+EntrezGene    843523
+EntrezGene    830897
+Name: primary_id, dtype: object","Histidinol-phosphate aminotransferase 2, chloroplastic ",P0DI07
+580,AT4G39120,AT4G39120,{},IMPL2,4,18225297.0,18227988.0,myo-inositol monophosphatase like 2 [Source:TAIR;Acc:AT4G39120],830067.0,myo-inositol monophosphatase like 2 ,AT4G39120
+581,AT5G63890,AT5G63890,{},HISN8,5,25565431.0,25568206.0,"Histidinol dehydrogenase, chloroplastic [Source:UniProtKB/TrEMBL;Acc:A0A178UP37]",836509.0,"Histidinol dehydrogenase, chloroplastic ",A0A178UP37
+582,AT3G10050,AT3G10050,{},OMR1,3,3098725.0,3102048.0,Threonine dehydratase [Source:UniProtKB/TrEMBL;Acc:A0A178VHF4],820166.0,Threonine dehydratase ,A0A178VHF4
+583,AT1G30120,AT1G30120,{},PDH-E1 BETA,1,10584105.0,10586680.0,"Pyruvate dehydrogenase E1 component subunit beta-2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9C6Z3]",839891.0,"Pyruvate dehydrogenase E1 component subunit beta-2, chloroplastic ",Q9C6Z3
+584,AT1G01090,AT1G01090,{},PDH-E1 ALPHA,1,47234.0,49304.0,Pyruvate dehydrogenase E1 component subunit alpha [Source:UniProtKB/TrEMBL;Acc:A0A178W8A7],839429.0,Pyruvate dehydrogenase E1 component subunit alpha ,A0A178W8A7
+585,AT2G34590,AT2G34590,{},E1-BETA-2,2,14568802.0,14571143.0,"Pyruvate dehydrogenase E1 component subunit beta-3, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:O64688]",818024.0,"Pyruvate dehydrogenase E1 component subunit beta-3, chloroplastic ",O64688
+586,AT2G31810,AT2G31810,{},,2.0,13524048.0,13528712.0,"Acetolactate synthase small subunit 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q93YZ7]",817738.0,"Acetolactate synthase small subunit 2, chloroplastic ",Q93YZ7
+587,AT3G48560,AT3G48560,{},ALS,3,18001283.0,18003749.0,"Acetolactate synthase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P17597]",824015.0,"Acetolactate synthase, chloroplastic ",P17597
+588,AT5G16290,AT5G16290,{},VAT1,5,5333750.0,5337784.0,"Acetolactate synthase small subunit 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9FFF4]",831490.0,"Acetolactate synthase small subunit 1, chloroplastic ",Q9FFF4
+589,AT3G58610,AT3G58610,{},,3.0,21671433.0,21675090.0,"Ketol-acid reductoisomerase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q05758]",825030.0,"Ketol-acid reductoisomerase, chloroplastic ",Q05758
+590,AT3G23940,AT3G23940,{},DHAD,3,8648669.0,8652605.0,"Dihydroxy-acid dehydratase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9LIR4]",821977.0,"Dihydroxy-acid dehydratase, chloroplastic ",Q9LIR4
+591,AT5G65780,AT5G65780,{},ATBCAT-5,5,26311311.0,26318857.0,Branched-chain amino acid aminotransferase 5 / branched-chain amino acid transaminase 5 (BCAT5) [Source:UniProtKB/TrEMBL;Acc:F4JXK3],"dbname
+EntrezGene    836707
+EntrezGene    836706
+Name: primary_id, dtype: object",Branched-chain amino acid aminotransferase 5 / branched-chain amino acid transaminase 5 (BCAT5) ,F4JXK3
+592,AT1G10070,AT1G10070,{},BCAT2,1,3288087.0,3290471.0,"Branched-chain-amino-acid aminotransferase 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9M439]",837543.0,"Branched-chain-amino-acid aminotransferase 2, chloroplastic ",Q9M439
+593,AT3G49680,AT3G49680,{},BCAT3,3,18422542.0,18425758.0,"Branched-chain-amino-acid aminotransferase 3, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9M401]",824130.0,"Branched-chain-amino-acid aminotransferase 3, chloroplastic ",Q9M401
+594,AT5G23010,AT5G23010,{},MAM1,5,7703041.0,7706973.0,methylthioalkylmalate synthase 1 [Source:TAIR;Acc:AT5G23010],832365.0,methylthioalkylmalate synthase 1 ,AT5G23010
+595,AT1G18500,AT1G18500,{},IPMS1,1,6368966.0,6373080.0,"2-isopropylmalate synthase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9LPR4]",838431.0,"2-isopropylmalate synthase 1, chloroplastic ",Q9LPR4
+596,AT5G23020,AT5G23020,{},MAM3,5,7718118.0,7721866.0,"Methylthioalkylmalate synthase 3, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9FN52]",832366.0,"Methylthioalkylmalate synthase 3, chloroplastic ",Q9FN52
+597,AT1G74040,AT1G74040,{},IPMS2,1,27842109.0,27845782.0,"2-isopropylmalate synthase 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9C550]",843742.0,"2-isopropylmalate synthase 2, chloroplastic ",Q9C550
+598,AT4G13430,AT4G13430,{},IIL1,4,7803863.0,7807984.0,"3-isopropylmalate dehydratase large subunit, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q94AR8]",826975.0,"3-isopropylmalate dehydratase large subunit, chloroplastic ",Q94AR8
+599,AT3G58990,AT3G58990,{},IPMI1,3,21797058.0,21798303.0,3-isopropylmalate dehydratase small subunit 2 [Source:UniProtKB/Swiss-Prot;Acc:Q9LYT7],825068.0,3-isopropylmalate dehydratase small subunit 2 ,Q9LYT7
+600,AT2G43090,AT2G43090,{},,2.0,17918926.0,17920496.0,3-isopropylmalate dehydratase small subunit 3 [Source:UniProtKB/Swiss-Prot;Acc:Q9ZW85],818911.0,3-isopropylmalate dehydratase small subunit 3 ,Q9ZW85
+601,AT2G43100,AT2G43100,{},IPMI2,2,17920647.0,17921844.0,IPMI2 [Source:UniProtKB/TrEMBL;Acc:A0A178VZE1],818912.0,IPMI2 ,A0A178VZE1
+602,AT5G14200,AT5G14200,{},IMDH3,5,4576123.0,4578402.0,3-isopropylmalate dehydrogenase [Source:UniProtKB/TrEMBL;Acc:Q5XF32],831270.0,3-isopropylmalate dehydrogenase ,Q5XF32
+603,AT1G31180,AT1G31180,{},ATIMD3,1,11142461.0,11144717.0,isopropylmalate dehydrogenase 3 [Source:TAIR;Acc:AT1G31180],840006.0,isopropylmalate dehydrogenase 3 ,AT1G31180
+604,AT1G80560,AT1G80560,{},IMDH2,1,30287763.0,30290299.0,"3-isopropylmalate dehydrogenase 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P93832]",844395.0,"3-isopropylmalate dehydrogenase 2, chloroplastic ",P93832
+605,AT1G80555,AT1G80555,{},,1.0,30286956.0,30287741.0,Isocitrate/isopropylmalate dehydrogenase family protein [Source:TAIR;Acc:AT1G80555],5007861.0,Isocitrate/isopropylmalate dehydrogenase family protein ,AT1G80555
+606,AT5G14060,AT5G14060,{},AK2,5,4535367.0,4539323.0,Aspartokinase [Source:UniProtKB/TrEMBL;Acc:A0A178UPF4],831255.0,Aspartokinase ,A0A178UPF4
+607,AT4G19710,AT4G19710,{},AKHSDH2,4,10724814.0,10729768.0,"Bifunctional aspartokinase/homoserine dehydrogenase 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:O81852]",827715.0,"Bifunctional aspartokinase/homoserine dehydrogenase 2, chloroplastic ",O81852
+608,AT3G02020,AT3G02020,{},AK3,3,337712.0,343912.0,"Aspartokinase 3, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9S702]",821287.0,"Aspartokinase 3, chloroplastic ",Q9S702
+609,AT5G13280,AT5G13280,{},AK1,5,4249312.0,4253264.0,AK1 [Source:UniProtKB/TrEMBL;Acc:A0A178UUC2],831169.0,AK1 ,A0A178UUC2
+610,AT1G31230,AT1G31230,{},AKHSDH1,1,11158618.0,11163274.0,"Bifunctional aspartokinase/homoserine dehydrogenase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9SA18]",840011.0,"Bifunctional aspartokinase/homoserine dehydrogenase 1, chloroplastic ",Q9SA18
+611,AT1G14810,AT1G14810,{},,1.0,5102424.0,5104850.0,"Aspartate-semialdehyde dehydrogenase, putative [Source:UniProtKB/TrEMBL;Acc:Q8VYI4]",838046.0,"Aspartate-semialdehyde dehydrogenase, putative ",Q8VYI4
+612,AT2G45440,AT2G45440,{},DHDPS2,2,18730840.0,18733119.0,Putative dihydrodipicolinate synthase [Source:UniProtKB/TrEMBL;Acc:Q0WSN6],819152.0,Putative dihydrodipicolinate synthase ,Q0WSN6
+613,AT3G60880,AT3G60880,{},DHDPS1,3,22494739.0,22496697.0,"4-hydroxy-tetrahydrodipicolinate synthase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9LZX6]",825259.0,"4-hydroxy-tetrahydrodipicolinate synthase 1, chloroplastic ",Q9LZX6
+614,AT2G44040,AT2G44040,{},DAPB1,2,18221694.0,18224162.0,"4-hydroxy-tetrahydrodipicolinate reductase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:O80574]",819009.0,"4-hydroxy-tetrahydrodipicolinate reductase 1, chloroplastic ",O80574
+615,AT3G59890,AT3G59890,{},DAPB2,3,22123982.0,22126630.0,"4-hydroxy-tetrahydrodipicolinate reductase 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q8LB01]",825159.0,"4-hydroxy-tetrahydrodipicolinate reductase 2, chloroplastic ",Q8LB01
+616,AT5G52100,AT5G52100,{},DAPB3,5,21170048.0,21172346.0,CRR1 [Source:UniProtKB/TrEMBL;Acc:A0A178UH15],835286.0,CRR1 ,A0A178UH15
+617,AT4G33680,AT4G33680,{},DAP,4,16171681.0,16174723.0,"LL-diaminopimelate aminotransferase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q93ZN9]",829510.0,"LL-diaminopimelate aminotransferase, chloroplastic ",Q93ZN9
+618,AT3G53580,AT3G53580,{},DAPF,3,19864631.0,19867134.0,"Diaminopimelate epimerase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9LFG2]",824526.0,"Diaminopimelate epimerase, chloroplastic ",Q9LFG2
+619,AT5G11880,AT5G11880,{},LYSA2,5,3827526.0,3830228.0,"Diaminopimelate decarboxylase 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q94A94]",831061.0,"Diaminopimelate decarboxylase 2, chloroplastic ",Q94A94
+620,AT3G14390,AT3G14390,{},LYSA1,3,4806670.0,4809433.0,"Diaminopimelate decarboxylase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q949X7]",820660.0,"Diaminopimelate decarboxylase 1, chloroplastic ",Q949X7
+621,AT5G21060,AT5G21060,{},,5.0,7148978.0,7152922.0,Homoserine dehydrogenase [Source:UniProtKB/TrEMBL;Acc:F4K6Y8],832230.0,Homoserine dehydrogenase ,F4K6Y8
+622,AT2G17265,AT2G17265,{},HSK,2,7508473.0,7509887.0,Homoserine kinase [Source:UniProtKB/Swiss-Prot;Acc:Q8L7R2],816232.0,Homoserine kinase ,Q8L7R2
+623,AT3G01120,AT3G01120,{},CGS1,3,38759.0,42159.0,MTO1 [Source:UniProtKB/TrEMBL;Acc:A0A178VB36],821292.0,MTO1 ,A0A178VB36
+624,AT3G57050,AT3G57050,{},CBL,3,21111700.0,21114737.0,"Cystathionine beta-lyase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P53780]",824872.0,"Cystathionine beta-lyase, chloroplastic ",P53780
+625,AT2G44160,AT2G44160,{},MTHFR2,2,18262189.0,18265346.0,Methylenetetrahydrofolate reductase 2 [Source:UniProtKB/Swiss-Prot;Acc:O80585],819022.0,Methylenetetrahydrofolate reductase 2 ,O80585
+626,AT3G59970,AT3G59970,{},MTHFR1,3,22151164.0,22154483.0,Methylenetetrahydrofolate reductase 1 [Source:UniProtKB/Swiss-Prot;Acc:Q9SE60],825167.0,Methylenetetrahydrofolate reductase 1 ,Q9SE60
+627,AT5G20980,AT5G20980,{},MS3,5,7122800.0,7128412.0,"5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase 3, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q0WNZ5]",832223.0,"5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase 3, chloroplastic ",Q0WNZ5
+628,AT1G36370,AT1G36370,{},SHM7,1,13696042.0,13698739.0,Serine hydroxymethyltransferase 7 [Source:UniProtKB/Swiss-Prot;Acc:Q84WV0],840543.0,Serine hydroxymethyltransferase 7 ,Q84WV0
+629,AT4G13890,AT4G13890,{},SHM5,4,8031972.0,8033731.0,Serine hydroxymethyltransferase 5 [Source:UniProtKB/Swiss-Prot;Acc:Q9SVM4],827024.0,Serine hydroxymethyltransferase 5 ,Q9SVM4
+630,AT1G22020,AT1G22020,{},SHM6,1,7754281.0,7758029.0,Serine hydroxymethyltransferase 6 [Source:UniProtKB/Swiss-Prot;Acc:Q9LM59],838807.0,Serine hydroxymethyltransferase 6 ,Q9LM59
+631,AT4G13930,AT4G13930,{},SHM4,4,8047692.0,8050157.0,Serine hydroxymethyltransferase 4 [Source:UniProtKB/Swiss-Prot;Acc:O23254],827027.0,Serine hydroxymethyltransferase 4 ,O23254
+632,AT4G01850,AT4G01850,{},SAM2,4,795986.0,798381.0,S-adenosylmethionine synthase [Source:UniProtKB/TrEMBL;Acc:A0A178V3V9],826987.0,S-adenosylmethionine synthase ,A0A178V3V9
+633,AT2G36880,AT2G36880,{},METK3,2,15479281.0,15481412.0,S-adenosylmethionine synthase [Source:UniProtKB/TrEMBL;Acc:A0A178VXF8],818260.0,S-adenosylmethionine synthase ,A0A178VXF8
+634,AT3G17390,AT3G17390,{},METK4,3,5952187.0,5954091.0,S-adenosylmethionine synthase [Source:UniProtKB/TrEMBL;Acc:A0A178VIP8],821003.0,S-adenosylmethionine synthase ,A0A178VIP8
+635,AT1G02500,AT1G02500,{},SAM1,1,518091.0,520495.0,S-adenosylmethionine synthase [Source:UniProtKB/TrEMBL;Acc:A0A178WES1],839501.0,S-adenosylmethionine synthase ,A0A178WES1
+636,AT3G63250,AT3G63250,{},HMT-2,3,23369781.0,23372823.0,Homocysteine S-methyltransferase 2 [Source:UniProtKB/Swiss-Prot;Acc:Q9M1W4],825500.0,Homocysteine S-methyltransferase 2 ,Q9M1W4
+637,AT3G22740,AT3G22740,{},HMT3,3,8032917.0,8036005.0,Homocysteine S-methyltransferase 3 [Source:UniProtKB/Swiss-Prot;Acc:Q8LAX0],821845.0,Homocysteine S-methyltransferase 3 ,Q8LAX0
+638,AT3G25900,AT3G25900,{},HMT-1,3,9480746.0,9482962.0,Homocysteine S-methyltransferase 1 [Source:UniProtKB/Swiss-Prot;Acc:Q9SDL7],822186.0,Homocysteine S-methyltransferase 1 ,Q9SDL7
+639,AT4G13940,AT4G13940,{},SAHH1,4,8054673.0,8057181.0,Adenosylhomocysteinase 1 [Source:UniProtKB/Swiss-Prot;Acc:O23255],827028.0,Adenosylhomocysteinase 1 ,O23255
+640,AT3G23810,AT3G23810,{},SAHH2,3,8587622.0,8589754.0,Adenosylhomocysteinase [Source:UniProtKB/TrEMBL;Acc:A0A178VEP9],821964.0,Adenosylhomocysteinase ,A0A178VEP9
+641,AT5G10870,AT5G10870,{},CM2,5,3430497.0,3432468.0,Chorismate mutase 2 [Source:UniProtKB/Swiss-Prot;Acc:Q9S7H4],830954.0,Chorismate mutase 2 ,Q9S7H4
+642,AT3G29200,AT3G29200,{},CM1,3,11163839.0,11166458.0,"Chorismate mutase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P42738]",822573.0,"Chorismate mutase 1, chloroplastic ",P42738
+643,AT1G69370,AT1G69370,{},CM3,1,26079956.0,26081727.0,"Chorismate mutase 3, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9C544]",843269.0,"Chorismate mutase 3, chloroplastic ",Q9C544
+644,AT1G11790,AT1G11790,{},ADT1,1,3981153.0,3985219.0,Arogenate dehydratase [Source:UniProtKB/TrEMBL;Acc:A0A178W336],837725.0,Arogenate dehydratase ,A0A178W336
+645,AT5G22630,AT5G22630,{},ADT5,5,7524086.0,7526270.0,Arogenate dehydratase [Source:UniProtKB/TrEMBL;Acc:A0A178UL55],832326.0,Arogenate dehydratase ,A0A178UL55
+646,AT1G08250,AT1G08250,{},ADT6,1,2588776.0,2590609.0,Arogenate dehydratase [Source:UniProtKB/TrEMBL;Acc:A0A178W954],837345.0,Arogenate dehydratase ,A0A178W954
+647,AT2G27820,AT2G27820,{},ADT3,2,11856571.0,11858288.0,"Arogenate dehydratase 3, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9ZUY3]",817329.0,"Arogenate dehydratase 3, chloroplastic ",Q9ZUY3
+648,AT3G44720,AT3G44720,{},ADT4,3,16271511.0,16273413.0,"Arogenate dehydratase 4, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:O22241]",823601.0,"Arogenate dehydratase 4, chloroplastic ",O22241
+649,AT3G07630,AT3G07630,{},ADT2,3,2435408.0,2437989.0,"Arogenate dehydratase/prephenate dehydratase 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9SSE7]",819954.0,"Arogenate dehydratase/prephenate dehydratase 2, chloroplastic ",Q9SSE7
+650,AT4G08870,AT4G08870,{},ARGAH2,4,5646395.0,5648868.0,ARGAH2 [Source:UniProtKB/TrEMBL;Acc:A0A178V1K8],826458.0,ARGAH2 ,A0A178V1K8
+651,AT4G08900,AT4G08900,{},ARGAH1,4,5703311.0,5705439.0,"Arginase 1, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:P46637]",826468.0,"Arginase 1, mitochondrial ",P46637
+652,AT1G67550,AT1G67550,{},URE,1,25312660.0,25317495.0,Urease [Source:UniProtKB/Swiss-Prot;Acc:Q9SR52],843076.0,Urease ,Q9SR52
+653,AT5G46180,AT5G46180,{},DELTA-OAT,5,18718417.0,18721744.0,"Ornithine aminotransferase, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9FNK4]",834660.0,"Ornithine aminotransferase, mitochondrial ",Q9FNK4
+654,AT2G39800,AT2G39800,{},P5CSA,2,16598072.0,16603319.0,Delta-1-pyrroline-5-carboxylate synthase A [Source:UniProtKB/Swiss-Prot;Acc:P54887],818566.0,Delta-1-pyrroline-5-carboxylate synthase A ,P54887
+655,AT3G55610,AT3G55610,{},P5CSB,3,20624020.0,20629295.0,Delta-1-pyrroline-5-carboxylate synthase [Source:UniProtKB/TrEMBL;Acc:A0A178VF78],824727.0,Delta-1-pyrroline-5-carboxylate synthase ,A0A178VF78
+656,AT5G14800,AT5G14800,{},PROC1,5,4785960.0,4787996.0,Pyrroline-5-carboxylate reductase [Source:UniProtKB/Swiss-Prot;Acc:P54904],831332.0,Pyrroline-5-carboxylate reductase ,P54904
+657,AT3G30775,AT3G30775,{},POX1,3,12448636.0,12451556.0,"Proline dehydrogenase 1, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:P92983]",822833.0,"Proline dehydrogenase 1, mitochondrial ",P92983
+658,AT5G38710,AT5G38710,{},POX2,5,15501126.0,15504269.0,"Proline dehydrogenase 2, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q6NKX1]",833862.0,"Proline dehydrogenase 2, mitochondrial ",Q6NKX1
+659,AT5G62530,AT5G62530,{},ALDH12A1,5,25099003.0,25103312.0,"Delta-1-pyrroline-5-carboxylate dehydrogenase 12A1, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q8VZC3]",836373.0,"Delta-1-pyrroline-5-carboxylate dehydrogenase 12A1, mitochondrial ",Q8VZC3
+660,AT4G34200,AT4G34200,{},PGDH1,4,16373731.0,16376666.0,D-3-phosphoglycerate dehydrogenase [Source:UniProtKB/TrEMBL;Acc:A0A178UWV4],829568.0,D-3-phosphoglycerate dehydrogenase ,A0A178UWV4
+661,AT1G17745,AT1G17745,{},PGDH,1,6100964.0,6105347.0,D-3-phosphoglycerate dehydrogenase [Source:TAIR;Acc:AT1G17745],838352.0,D-3-phosphoglycerate dehydrogenase ,AT1G17745
+662,AT3G19480,AT3G19480,{},PGDH3,3,6752422.0,6754785.0,"D-3-phosphoglycerate dehydrogenase 3, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9LT69]",821482.0,"D-3-phosphoglycerate dehydrogenase 3, chloroplastic ",Q9LT69
+663,AT2G17630,AT2G17630,{},PSAT2,2,7666548.0,7668065.0,"Phosphoserine aminotransferase 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9SHP0]",816270.0,"Phosphoserine aminotransferase 2, chloroplastic ",Q9SHP0
+664,AT4G35630,AT4G35630,{},PSAT1,4,16904059.0,16905722.0,"Phosphoserine aminotransferase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q96255]",829715.0,"Phosphoserine aminotransferase 1, chloroplastic ",Q96255
+665,AT1G18640,AT1G18640,{},PSP,1,6416169.0,6418693.0,"Phosphoserine phosphatase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:O82796]",838445.0,"Phosphoserine phosphatase, chloroplastic ",O82796
+666,AT4G11640,AT4G11640,{},SR,4,7021422.0,7023318.0,Serine racemase [Source:UniProtKB/Swiss-Prot;Acc:Q2PGG3],826769.0,Serine racemase ,Q2PGG3
+667,AT1G72810,AT1G72810,{},TS2,1,27397877.0,27400474.0,"Threonine synthase 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9SSP5]",843612.0,"Threonine synthase 2, chloroplastic ",Q9SSP5
+668,AT4G29840,AT4G29840,{},TS1,4,14599216.0,14601164.0,"Threonine synthase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9S7B5]",829106.0,"Threonine synthase 1, chloroplastic ",Q9S7B5
+669,AT1G25220,AT1G25220,{},ASB1,1,8836835.0,8839609.0,Anthranilate synthase beta subunit 1 [Source:UniProtKB/TrEMBL;Acc:F4IAW5],839103.0,Anthranilate synthase beta subunit 1 ,F4IAW5
+670,AT5G57890,AT5G57890,{},ASB2,5,23447340.0,23449679.0,"Anthranilate synthase beta subunit 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9FJM5]",835900.0,"Anthranilate synthase beta subunit 2, chloroplastic ",Q9FJM5
+671,AT2G29690,AT2G29690,{},ASA2,2,12693734.0,12697091.0,"Anthranilate synthase alpha subunit 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P32069]",817519.0,"Anthranilate synthase alpha subunit 2, chloroplastic ",P32069
+672,AT5G05730,AT5G05730,{},ASA1,5,1719533.0,1722933.0,Anthranilate synthase alpha subunit 1 [Source:UniProtKB/TrEMBL;Acc:F4K0T5],830457.0,Anthranilate synthase alpha subunit 1 ,F4K0T5
+673,AT5G17990,AT5G17990,{},PAT1,5,5957080.0,5960201.0,"Anthranilate phosphoribosyltransferase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q02166]",831666.0,"Anthranilate phosphoribosyltransferase, chloroplastic ",Q02166
+674,AT5G05590,AT5G05590,{},PAI2,5,1666471.0,1668569.0,"N-(5'-phosphoribosyl)anthranilate isomerase 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q42527]",830442.0,"N-(5'-phosphoribosyl)anthranilate isomerase 2, chloroplastic ",Q42527
+675,AT1G07780,AT1G07780,{},PAI1,1,2409865.0,2412777.0,"N-(5'-phosphoribosyl)anthranilate isomerase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q42440]",837292.0,"N-(5'-phosphoribosyl)anthranilate isomerase 1, chloroplastic ",Q42440
+676,AT1G29410,AT1G29410,{},PAI3,1,10297750.0,10300073.0,"N-(5'-phosphoribosyl)anthranilate isomerase 3, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q8LPI9]",839817.0,"N-(5'-phosphoribosyl)anthranilate isomerase 3, chloroplastic ",Q8LPI9
+677,AT5G48220,AT5G48220,{},,5.0,19549676.0,19552267.0,AT5g48220/MIF21_11 [Source:UniProtKB/TrEMBL;Acc:Q9LUB2],834875.0,AT5g48220/MIF21_11 ,Q9LUB2
+678,AT2G04400,AT2G04400,{},IGPS,2,1531148.0,1533737.0,"Indole-3-glycerol phosphate synthase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P49572]",814980.0,"Indole-3-glycerol phosphate synthase, chloroplastic ",P49572
+679,AT3G54640,AT3G54640,{},TSA1,3,20223034.0,20225523.0,"Tryptophan synthase alpha chain, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q42529]",824629.0,"Tryptophan synthase alpha chain, chloroplastic ",Q42529
+680,AT4G02610,AT4G02610,{},TRPA1,4,1147608.0,1149336.0,Tryptophan synthase alpha chain [Source:UniProtKB/Swiss-Prot;Acc:O22765],828226.0,Tryptophan synthase alpha chain ,O22765
+681,AT5G54810,AT5G54810,{},TSB1,5,22264594.0,22266902.0,Tryptophan synthase [Source:UniProtKB/TrEMBL;Acc:Q0WUI8],835571.0,Tryptophan synthase ,Q0WUI8
+682,AT4G27070,AT4G27070,{},TSB2,4,13586268.0,13588897.0,Tryptophan synthase [Source:UniProtKB/TrEMBL;Acc:Q0WS13],828815.0,Tryptophan synthase ,Q0WS13
+683,AT5G34920,AT5G34920,{},,,,,,,,
+684,AT1G15710,AT1G15710,{},TYRAAT2,1,5404130.0,5405910.0,"Arogenate dehydrogenase 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9LMR3]",838140.0,"Arogenate dehydrogenase 2, chloroplastic ",Q9LMR3
+685,AT2G16570,AT2G16570,{},ASE1,2,7180142.0,7182287.0,"Amidophosphoribosyltransferase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9SI61]",816156.0,"Amidophosphoribosyltransferase 1, chloroplastic ",Q9SI61
+686,AT4G34740,AT4G34740,{},ASE2,4,16574544.0,16576753.0,Amidophosphoribosyltransferase [Source:UniProtKB/TrEMBL;Acc:A0A178UYQ3],829626.0,Amidophosphoribosyltransferase ,A0A178UYQ3
+687,AT4G38880,AT4G38880,{},ASE3,4,18134116.0,18135714.0,"Amidophosphoribosyltransferase 3, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9T0J5]",830043.0,"Amidophosphoribosyltransferase 3, chloroplastic ",Q9T0J5
+688,AT1G09830,AT1G09830,{},PUR2,1,3192568.0,3195044.0,"Phosphoribosylamine--glycine ligase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P52420]",837515.0,"Phosphoribosylamine--glycine ligase, chloroplastic ",P52420
+689,AT1G31220,AT1G31220,{},PUR3,1,11156698.0,11158683.0,"Phosphoribosylglycinamide formyltransferase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P52422]",840010.0,"Phosphoribosylglycinamide formyltransferase, chloroplastic ",P52422
+690,AT1G74260,AT1G74260,{},PUR4,1,27922725.0,27927962.0,"Probable phosphoribosylformylglycinamidine synthase, chloroplastic/mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9M8D3]",843766.0,"Probable phosphoribosylformylglycinamidine synthase, chloroplastic/mitochondrial ",Q9M8D3
+691,AT3G55010,AT3G55010,{},PUR5,3,20386597.0,20388860.0,"Phosphoribosylformylglycinamidine cyclo-ligase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q05728]",824667.0,"Phosphoribosylformylglycinamidine cyclo-ligase, chloroplastic ",Q05728
+692,AT2G37690,AT2G37690,{},,2.0,15805659.0,15810552.0,Phosphoribosylaminoimidazole carboxylase like protein [Source:UniProtKB/TrEMBL;Acc:Q84TI2],818346.0,Phosphoribosylaminoimidazole carboxylase like protein ,Q84TI2
+693,AT3G21110,AT3G21110,{},PUR7,3,7402477.0,7405674.0,"Phosphoribosylaminoimidazole-succinocarboxamide synthase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P38025]",821663.0,"Phosphoribosylaminoimidazole-succinocarboxamide synthase, chloroplastic ",P38025
+694,AT1G36280,AT1G36280,{},,1.0,13640508.0,13643126.0,Adenylosuccinate lyase [Source:UniProtKB/TrEMBL;Acc:Q8GUN7],840534.0,Adenylosuccinate lyase ,Q8GUN7
+695,AT4G18440,AT4G18440,{},,4.0,10186073.0,10188981.0,Adenylosuccinate lyase [Source:UniProtKB/TrEMBL;Acc:Q8RY94],827575.0,Adenylosuccinate lyase ,Q8RY94
+696,AT2G35040,AT2G35040,{},,2.0,14765145.0,14768329.0,AICARFT/IMPCHase bienzyme family protein [Source:UniProtKB/TrEMBL;Acc:Q8RWT5],818069.0,AICARFT/IMPCHase bienzyme family protein ,Q8RWT5
+697,AT2G38280,AT2G38280,{},AMPD,2,16033292.0,16038972.0,FAC1 [Source:UniProtKB/TrEMBL;Acc:A0A178VY66],818408.0,FAC1 ,A0A178VY66
+698,AT1G79470,AT1G79470,{},IMPDH,1,29894569.0,29897166.0,Inosine-5'-monophosphate dehydrogenase 1 [Source:UniProtKB/Swiss-Prot;Acc:P47996],844285.0,Inosine-5'-monophosphate dehydrogenase 1 ,P47996
+699,AT1G16350,AT1G16350,{},,1.0,5590756.0,5593098.0,Inosine-5'-monophosphate dehydrogenase 2 [Source:UniProtKB/Swiss-Prot;Acc:Q9SA34],838204.0,Inosine-5'-monophosphate dehydrogenase 2 ,Q9SA34
+700,AT1G63660,AT1G63660,{},,1.0,23603791.0,23607275.0,At1g63660 [Source:UniProtKB/TrEMBL;Acc:Q9CAD1],842670.0,At1g63660 ,Q9CAD1
+701,AT3G57610,AT3G57610,{},PURA,3,21334191.0,21336720.0,"Adenylosuccinate synthetase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q96529]",824930.0,"Adenylosuccinate synthetase, chloroplastic ",Q96529
+702,AT3G20330,AT3G20330,{},PYRB,3,7089989.0,7092670.0,"Aspartate carbamoyltransferase, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:P49077]",821577.0,"Aspartate carbamoyltransferase, chloroplastic ",P49077
+703,AT4G22930,AT4G22930,{},PYR4,4,12018829.0,12021782.0,PYR4 [Source:UniProtKB/TrEMBL;Acc:A0A178V399],828392.0,PYR4 ,A0A178V399
+704,AT5G23300,AT5G23300,{},PYRD,5,7847587.0,7850404.0,"Dihydroorotate dehydrogenase (quinone), mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:P32746]",832394.0,"Dihydroorotate dehydrogenase (quinone), mitochondrial ",P32746
+705,AT3G54470,AT3G54470,{},PYRE-F,3,20168005.0,20170320.0,Uridine 5'-monophosphate synthase [Source:UniProtKB/Swiss-Prot;Acc:Q42586],824612.0,Uridine 5'-monophosphate synthase ,Q42586
+706,AT4G02120,AT4G02120,{},,4.0,940721.0,944327.0,CTP synthase family protein [Source:TAIR;Acc:AT4G02120],828137.0,CTP synthase family protein ,AT4G02120
+707,AT1G30820,AT1G30820,{},,1.0,10944908.0,10949482.0,CTP synthase [Source:UniProtKB/TrEMBL;Acc:F4I6G9],839964.0,CTP synthase ,F4I6G9
+708,AT4G20320,AT4G20320,{},,4.0,10974456.0,10979627.0,CTP synthase [Source:UniProtKB/TrEMBL;Acc:Q0WRY1],827780.0,CTP synthase ,Q0WRY1
+709,AT3G12670,AT3G12670,{},emb2742,3,4019031.0,4024357.0,Emb2742 [Source:UniProtKB/TrEMBL;Acc:A0A384K8P2],820447.0,Emb2742 ,A0A384K8P2
+710,AT2G34890,AT2G34890,{},,2.0,14718195.0,14721271.0,CTP synthase [Source:UniProtKB/TrEMBL;Acc:O64753],818054.0,CTP synthase ,O64753
+711,AT2G37250,AT2G37250,{},ADK,2,15641906.0,15644143.0,"Adenylate kinase 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9ZUU1]",818302.0,"Adenylate kinase 1, chloroplastic ",Q9ZUU1
+712,AT5G63400,AT5G63400,{},ADK1,5,25392920.0,25394907.0,ADK1 [Source:UniProtKB/TrEMBL;Acc:A0A178UAM7],836459.0,ADK1 ,A0A178UAM7
+713,AT5G50370,AT5G50370,{},ADK2,5,20509115.0,20510810.0,Adenylate kinase 3 [Source:UniProtKB/Swiss-Prot;Acc:Q9FK35],835104.0,Adenylate kinase 3 ,Q9FK35
+714,AT5G60340,AT5G60340,{},AAK6,5,24274876.0,24276122.0,Adenylate kinase isoenzyme 6 homolog [Source:UniProtKB/Swiss-Prot;Acc:Q9FJI1],836156.0,Adenylate kinase isoenzyme 6 homolog ,Q9FJI1
+715,AT5G35170,AT5G35170,{},,5.0,13419080.0,13423882.0,"Adenylate kinase 5, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q8VYL1]",833471.0,"Adenylate kinase 5, chloroplastic ",Q8VYL1
+716,AT2G39270,AT2G39270,{},,2.0,16399969.0,16401671.0,"Probable adenylate kinase 6, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q84JF7]",818512.0,"Probable adenylate kinase 6, chloroplastic ",Q84JF7
+717,AT5G47840,AT5G47840,{},AMK2,5,19375317.0,19378465.0,"Adenylate kinase 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9FIJ7]",834835.0,"Adenylate kinase 2, chloroplastic ",Q9FIJ7
+718,AT3G57550,AT3G57550,{},AGK2,3,21306609.0,21309570.0,Guanylate kinase [Source:UniProtKB/TrEMBL;Acc:F4J3E9],824922.0,Guanylate kinase ,F4J3E9
+719,AT3G06200,AT3G06200,{},GK3,3,1877514.0,1879379.0,"Guanylate kinase 3, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q94JM2]",819794.0,"Guanylate kinase 3, chloroplastic ",Q94JM2
+720,AT2G41880,AT2G41880,{},GK-1,2,17474527.0,17477311.0,guanylate kinase 1 [Source:TAIR;Acc:AT2G41880],818788.0,guanylate kinase 1 ,AT2G41880
+721,AT3G600180,AT3G600180,{},,,,,,,,
+722,AT5G26667,AT5G26667,{},PYR6,5,9275893.0,9278625.0,UMP-CMP kinase [Source:UniProtKB/TrEMBL;Acc:A0A178UDQ9],832710.0,UMP-CMP kinase ,A0A178UDQ9
+723,AT1G14240,AT1G14240,{},APY3,1,4864881.0,4868011.0,Probable apyrase 3 [Source:UniProtKB/Swiss-Prot;Acc:Q9XI62],837985.0,Probable apyrase 3 ,Q9XI62
+724,AT1G14250,AT1G14250,{},APY5,1,4868346.0,4871488.0,Probable apyrase 5 [Source:UniProtKB/Swiss-Prot;Acc:Q6NQA8],837986.0,Probable apyrase 5 ,Q6NQA8
+725,AT3G04080,AT3G04080,{},APY1,3,1067558.0,1071438.0,Apyrase 1 [Source:UniProtKB/Swiss-Prot;Acc:Q9SQG2],819563.0,Apyrase 1 ,Q9SQG2
+726,AT1G14230,AT1G14230,{},APY4,1,4861168.0,4864094.0,Probable apyrase 4 [Source:UniProtKB/Swiss-Prot;Acc:Q8H1D8],837984.0,Probable apyrase 4 ,Q8H1D8
+727,AT4G19180,AT4G19180,{},APY7,4,10485116.0,10488534.0,Probable apyrase 7 [Source:UniProtKB/Swiss-Prot;Acc:F4JSH1],827656.0,Probable apyrase 7 ,F4JSH1
+728,AT2G02970,AT2G02970,{},APY6,2,864997.0,868292.0,Probable apyrase 6 [Source:UniProtKB/Swiss-Prot;Acc:O80612],814826.0,Probable apyrase 6 ,O80612
+729,AT3G23580,AT3G23580,{},RNR2A,3,8459838.0,8462815.0,Ribonucleoside-diphosphate reductase small chain A [Source:UniProtKB/Swiss-Prot;Acc:P50651],821937.0,Ribonucleoside-diphosphate reductase small chain A ,P50651
+730,AT2G21790,AT2G21790,{},RNR1,2,9293261.0,9297861.0,Ribonucleoside-diphosphate reductase large subunit [Source:UniProtKB/Swiss-Prot;Acc:Q9SJ20],816715.0,Ribonucleoside-diphosphate reductase large subunit ,Q9SJ20
+731,AT3G27060,AT3G27060,{},TSO2,3,9979841.0,9981620.0,TSO2 [Source:UniProtKB/TrEMBL;Acc:A0A178VJE9],822324.0,TSO2 ,A0A178VJE9
+732,AT4G13720,AT4G13720,{},,4.0,7966805.0,7968965.0,Inosine triphosphate pyrophosphatase family protein [Source:TAIR;Acc:AT4G13720],827006.0,Inosine triphosphate pyrophosphatase family protein ,AT4G13720
+733,AT3G46940,AT3G46940,{},DUT1,3,17288134.0,17289006.0,dUTP-PYROPHOSPHATASE-LIKE 1 [Source:UniProtKB/TrEMBL;Acc:A0A1I9LM85],823847.0,dUTP-PYROPHOSPHATASE-LIKE 1 ,A0A1I9LM85
+734,AT5G59440,AT5G59440,{},ZEU1,5,23971063.0,23972964.0,P-loop containing nucleoside triphosphate hydrolases superfamily protein [Source:UniProtKB/TrEMBL;Acc:F4KJ62],836063.0,P-loop containing nucleoside triphosphate hydrolases superfamily protein ,F4KJ62
+735,AT4G23895,AT4G23895,{},,4.0,12422036.0,12426475.0,Nucleoside diphosphate kinase [Source:UniProtKB/TrEMBL;Acc:F4JPD8],2745723.0,Nucleoside diphosphate kinase ,F4JPD8
+736,AT5G63310,AT5G63310,{},NDPK2,5,25371904.0,25373904.0,NDPK2 [Source:UniProtKB/TrEMBL;Acc:A0A384KNJ7],836451.0,NDPK2 ,A0A384KNJ7
+737,AT4G09320,AT4G09320,{},NDK1,4,5923484.0,5924366.0,Nucleoside diphosphate kinase [Source:UniProtKB/TrEMBL;Acc:A0A178UXQ6],826515.0,Nucleoside diphosphate kinase ,A0A178UXQ6
+738,AT4G11010,AT4G11010,{},NDPK3,4,6732420.0,6734454.0,Nucleoside diphosphate kinase [Source:UniProtKB/TrEMBL;Acc:A0A178UTZ0],826702.0,Nucleoside diphosphate kinase ,A0A178UTZ0
+739,AT4G23900,AT4G23900,{},NDK4,4,12424451.0,12426528.0,"Nucleoside diphosphate kinase IV, chloroplastic/mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q8LAH8]",828490.0,"Nucleoside diphosphate kinase IV, chloroplastic/mitochondrial ",Q8LAH8
+740,AT4G02700,AT4G02700,{},SULTR3;2,4,1188983.0,1193611.0,Sulfate transporter 3.2 [Source:UniProtKB/Swiss-Prot;Acc:O04289],828201.0,Sulfate transporter 3.2 ,O04289
+741,AT3G51895,AT3G51895,{},SULTR3;1,3,19251287.0,19255922.0,Sulfate transporter 31 [Source:UniProtKB/TrEMBL;Acc:A0A1I9LNF9],824353.0,Sulfate transporter 31 ,A0A1I9LNF9
+742,AT5G13550,AT5G13550,{},SULTR4;1,5,4355276.0,4359692.0,"Sulfate transporter 4.1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9FY46]",831199.0,"Sulfate transporter 4.1, chloroplastic ",Q9FY46
+743,AT1G68570,AT1G68570,{},NPF3.1,1,25746697.0,25750291.0,Protein NRT1/ PTR FAMILY 3.1 [Source:UniProtKB/Swiss-Prot;Acc:Q9SX20],843186.0,Protein NRT1/ PTR FAMILY 3.1 ,Q9SX20
+744,AT1G80300,AT1G80300,{},AATP1,1,30191538.0,30194605.0,"ADP,ATP carrier protein 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q39002]",844370.0,"ADP,ATP carrier protein 1, chloroplastic ",Q39002
+745,AT1G15500,AT1G15500,{},AATP2,1,5326290.0,5328875.0,"ADP,ATP carrier protein [Source:UniProtKB/TrEMBL;Acc:A0A178WDN7]",838120.0,"ADP,ATP carrier protein ",A0A178WDN7
+746,AT4G28390,AT4G28390,{},AAC3,4,14041288.0,14043347.0,"ADP,ATP carrier protein 3, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:O49447]",828955.0,"ADP,ATP carrier protein 3, mitochondrial ",O49447
+747,AT3G08580,AT3G08580,{},AAC1,3,2605435.0,2607895.0,AAC1 [Source:UniProtKB/TrEMBL;Acc:A0A384KYV2],820005.0,AAC1 ,A0A384KYV2
+748,AT5G14490,AT5G14490,{},anac085,5,4670289.0,4672958.0,NAC domain containing protein 85 [Source:TAIR;Acc:AT5G14490],831300.0,NAC domain containing protein 85 ,AT5G14490
+749,AT4G01100,AT4G01100,{},ADNT1,4,477141.0,480028.0,Adenine nucleotide transporter 1 [Source:UniProtKB/TrEMBL;Acc:F4JHS4],827899.0,Adenine nucleotide transporter 1 ,F4JHS4
+750,AT4G32400,AT4G32400,{},BT1,4,15638353.0,15640517.0,SHS1 [Source:UniProtKB/TrEMBL;Acc:A0A178UW29],829375.0,SHS1 ,A0A178UW29
+751,AT2G47490,AT2G47490,{},NDT1,2,19486842.0,19489732.0,"Nicotinamide adenine dinucleotide transporter 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:O22261]",819362.0,"Nicotinamide adenine dinucleotide transporter 1, chloroplastic ",O22261
+752,AT1G25380,AT1G25380,{},NDT2,1,8903405.0,8906455.0,"Nicotinamide adenine dinucleotide transporter 2, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q8RWA5]",839124.0,"Nicotinamide adenine dinucleotide transporter 2, mitochondrial ",Q8RWA5
+753,AT5G17630,AT5G17630,{},XPT,5,5809334.0,5810962.0,"Xylulose 5-phosphate/phosphate translocator, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9LF61]",831629.0,"Xylulose 5-phosphate/phosphate translocator, chloroplastic ",Q9LF61
+754,AT5G54800,AT5G54800,{},GPT1,5,22261134.0,22263936.0,GPT1 [Source:UniProtKB/TrEMBL;Acc:A0A178UL59],835570.0,GPT1 ,A0A178UL59
+755,AT1G61800,AT1G61800,{},GPT2,1,22824414.0,22826902.0,glucose-6-phosphate/phosphate translocator 2 [Source:TAIR;Acc:AT1G61800],842477.0,glucose-6-phosphate/phosphate translocator 2 ,AT1G61800
+756,AT3G01550,AT3G01550,{},PPT2,3,216805.0,219136.0,"Phosphoenolpyruvate/phosphate translocator 2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q8H0T6]",821114.0,"Phosphoenolpyruvate/phosphate translocator 2, chloroplastic ",Q8H0T6
+757,AT5G33320,AT5G33320,{},PPT1,5,12588741.0,12591748.0,"Phosphoenolpyruvate/phosphate translocator 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q8RXN3]",833308.0,"Phosphoenolpyruvate/phosphate translocator 1, chloroplastic ",Q8RXN3
+758,AT1G32080,AT1G32080,{},PLGG1,1,11537242.0,11539896.0,"Plastidal glycolate/glycerate translocator 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9FVQ4]",840100.0,"Plastidal glycolate/glycerate translocator 1, chloroplastic ",Q9FVQ4
+759,AT5G16150,AT5G16150,{},GLT1,5,5272476.0,5275815.0,Plastidic glucose transporter 4 [Source:UniProtKB/Swiss-Prot;Acc:Q56ZZ7],831472.0,Plastidic glucose transporter 4 ,Q56ZZ7
+760,AT5G17520,AT5G17520,{},MEX1,5,5772568.0,5775417.0,"Maltose excess protein 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9LF50]",831618.0,"Maltose excess protein 1, chloroplastic ",Q9LF50
+761,AT3G18830,AT3G18830,{},PLT5,3,6488843.0,6491429.0,PMT5 [Source:UniProtKB/TrEMBL;Acc:A0A178V5Y2],821416.0,PMT5 ,A0A178V5Y2
+762,AT5G09470,AT5G09470,{},PUMP6,5,2949132.0,2950695.0,DIC3 [Source:UniProtKB/TrEMBL;Acc:A0A178UKG1],830806.0,DIC3 ,A0A178UKG1
+763,AT2G22500,AT2G22500,{},PUMP5,2,9562774.0,9564850.0,Mitochondrial uncoupling protein 5 [Source:UniProtKB/Swiss-Prot;Acc:Q9SJY5],816783.0,Mitochondrial uncoupling protein 5 ,Q9SJY5
+764,AT4G24570,AT4G24570,{},PUMP4,4,12686459.0,12687650.0,DIC2 [Source:UniProtKB/TrEMBL;Acc:A0A178URN9],828559.0,DIC2 ,A0A178URN9
+765,AT5G12860,AT5G12860,{},DIT1,5,4059579.0,4062289.0,"Dicarboxylate transporter 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9LXV3]",831126.0,"Dicarboxylate transporter 1, chloroplastic ",Q9LXV3
+766,AT5G64290,AT5G64290,{},DIT2-1,5,25714178.0,25716901.0,"Dicarboxylate transporter 2.1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9FMF7]",836550.0,"Dicarboxylate transporter 2.1, chloroplastic ",Q9FMF7
+767,AT5G64280,AT5G64280,{},DIT2-2,5,25710999.0,25713574.0,"Dicarboxylate transporter 2.2, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9FMF8]",836549.0,"Dicarboxylate transporter 2.2, chloroplastic ",Q9FMF8
+768,AT5G19760,AT5G19760,{},DTC,5,6679306.0,6682054.0,Mitochondrial dicarboxylate/tricarboxylate transporter DTC [Source:UniProtKB/Swiss-Prot;Acc:Q9C5M0],832096.0,Mitochondrial dicarboxylate/tricarboxylate transporter DTC ,Q9C5M0
+769,AT5G01340,AT5G01340,{},SFC1,5,143055.0,144863.0,Mitochondrial succinate-fumarate transporter 1 [Source:UniProtKB/Swiss-Prot;Acc:Q9M038],831479.0,Mitochondrial succinate-fumarate transporter 1 ,Q9M038
+770,AT2G01170,AT2G01170,{},BAT1,2,102156.0,104574.0,Amino-acid permease BAT1 [Source:UniProtKB/Swiss-Prot;Acc:Q9ZU50],814645.0,Amino-acid permease BAT1 ,Q9ZU50
+771,AT1G79900,AT1G79900,{},BAC2,1,30051955.0,30053936.0,Mitochondrial arginine transporter BAC2 [Source:UniProtKB/Swiss-Prot;Acc:Q9CA93],844329.0,Mitochondrial arginine transporter BAC2 ,Q9CA93
+772,AT2G33820,AT2G33820,{},ATMBAC1,2,14306293.0,14308367.0,Mitochondrial substrate carrier family protein [Source:TAIR;Acc:AT2G33820],817949.0,Mitochondrial substrate carrier family protein ,AT2G33820
+773,AT2G26900,AT2G26900,{},BASS2,2,11474752.0,11478142.0,BASS2 [Source:UniProtKB/TrEMBL;Acc:A0A178VXV9],817231.0,BASS2 ,A0A178VXV9
+774,AT4G05590,AT4G05590,{},,4.0,2907012.0,2908631.0,CONTAINS InterPro DOMAIN/s: Uncharacterised protein family UPF0041 (InterPro:IPR005336); BEST Arabidopsis thaliana protein match is: Uncharacterised protein family (UPF0041) (TAIR:AT4G22310.1); Ha. [Source:TAIR;Acc:AT4G05590],825927.0,CONTAINS InterPro DOMAIN/s: Uncharacterised protein family UPF0041 (InterPro:IPR005336); BEST Arabidopsis thaliana protein match is: Uncharacterised protein family (UPF0041) (TAIR:AT4G22310.1); Ha. ,AT4G05590
+775,AT4G14695,AT4G14695,{},MPC2,4,8419570.0,8421070.0,Mitochondrial pyruvate carrier 2 [Source:UniProtKB/Swiss-Prot;Acc:Q8L7H8],827120.0,Mitochondrial pyruvate carrier 2 ,Q8L7H8
+776,AT5G20090,AT5G20090,{},MPC1,5,6786834.0,6788680.0,Mitochondrial pyruvate carrier [Source:UniProtKB/TrEMBL;Acc:A0A178UR79],832131.0,Mitochondrial pyruvate carrier ,A0A178UR79
+777,AT4G22310,AT4G22310,{},MPC4,4,11791321.0,11793137.0,Mitochondrial pyruvate carrier [Source:UniProtKB/TrEMBL;Acc:A0A178USR1],828326.0,Mitochondrial pyruvate carrier ,A0A178USR1
+778,AT2G38060,AT2G38060,{},PHT4;2,2,15922518.0,15925895.0,phosphate transporter 4;2 [Source:TAIR;Acc:AT2G38060],818384.0,phosphate transporter 4;2 ,AT2G38060
+779,AT3G46980,AT3G46980,{},PHT4;3,3,17306599.0,17310068.0,Phosphate transporter 43 [Source:UniProtKB/TrEMBL;Acc:A0A1I9LP04],823851.0,Phosphate transporter 43 ,A0A1I9LP04
+780,AT5G20380,AT5G20380,{},PHT4;5,5,6887636.0,6892571.0,phosphate transporter 4;5 [Source:TAIR;Acc:AT5G20380],832160.0,phosphate transporter 4;5 ,AT5G20380
+781,AT3G26570,AT3G26570,{},PHT2;1,3,9756007.0,9758701.0,phosphate transporter 2;1 [Source:TAIR;Acc:AT3G26570],822265.0,phosphate transporter 2;1 ,AT3G26570
+782,AT4G00370,AT4G00370,{},PHT4;4,4,162897.0,166357.0,"Ascorbate transporter, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q8GX78]",827908.0,"Ascorbate transporter, chloroplastic ",Q8GX78
+783,AT3G19490,AT3G19490,{},NHD1,3,6754615.0,6758285.0,Sodium/proton antiporter 1 [Source:UniProtKB/Swiss-Prot;Acc:Q9LT68],821483.0,Sodium/proton antiporter 1 ,Q9LT68
+784,AT2G32040,AT2G32040,{},,2.0,13635094.0,13638081.0,"Folate-biopterin transporter 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q9SKZ5]",817764.0,"Folate-biopterin transporter 1, chloroplastic ",Q9SKZ5
+785,AT5G66380,AT5G66380,{},FOLT1,5,26513262.0,26515800.0,"Folate transporter 1, chloroplastic [Source:UniProtKB/Swiss-Prot;Acc:Q7XA87]",836770.0,"Folate transporter 1, chloroplastic ",Q7XA87
+786,AT5G14040,AT5G14040,{},MPT3,5,4530643.0,4533119.0,"Mitochondrial phosphate carrier protein 3, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9FMU6]",831252.0,"Mitochondrial phosphate carrier protein 3, mitochondrial ",Q9FMU6
+787,AT3G48850,AT3G48850,{},MPT2,3,18114526.0,18116569.0,"Mitochondrial phosphate carrier protein 2, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9M2Z8]",824046.0,"Mitochondrial phosphate carrier protein 2, mitochondrial ",Q9M2Z8
+788,AT3G54110,AT3G54110,{},PUMP1,3,20038670.0,20041210.0,UCP1 [Source:UniProtKB/TrEMBL;Acc:A0A178V8U1],824578.0,UCP1 ,A0A178V8U1
+789,AT5G58970,AT5G58970,{},PUMP2,5,23808461.0,23811292.0,Mitochondrial uncoupling protein 2 [Source:UniProtKB/Swiss-Prot;Acc:Q9ZWG1],836014.0,Mitochondrial uncoupling protein 2 ,Q9ZWG1
+790,AT2G39970,AT2G39970,{},PXN,2,16683832.0,16686815.0,Peroxisomal nicotinamide adenine dinucleotide carrier [Source:UniProtKB/Swiss-Prot;Acc:O04200],818584.0,Peroxisomal nicotinamide adenine dinucleotide carrier ,O04200
+791,AT4G28220,AT4G28220,{},NDB1,4,13992210.0,13995831.0,"External alternative NAD(P)H-ubiquinone oxidoreductase B1, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q1JPL4]",828937.0,"External alternative NAD(P)H-ubiquinone oxidoreductase B1, mitochondrial ",Q1JPL4
+792,AT1G07180,AT1G07180,{},NDA1,1,2204104.0,2207099.0,"Internal alternative NAD(P)H-ubiquinone oxidoreductase A1, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q8GWA1]",837229.0,"Internal alternative NAD(P)H-ubiquinone oxidoreductase A1, mitochondrial ",Q8GWA1
+793,AT2G29990,AT2G29990,{},NDA2,2,12793320.0,12796085.0,"Internal alternative NAD(P)H-ubiquinone oxidoreductase A2, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:O80874]",817549.0,"Internal alternative NAD(P)H-ubiquinone oxidoreductase A2, mitochondrial ",O80874
+794,AT5G08740,AT5G08740,{},NDC1,5,2848352.0,2851534.0,NAD(P)H dehydrogenase C1 [Source:TAIR;Acc:AT5G08740],,NAD(P)H dehydrogenase C1 ,AT5G08740
+795,AT4G05020,AT4G05020,{},NDB2,4,2572427.0,2576599.0,NAD(P)H dehydrogenase B2 [Source:UniProtKB/TrEMBL;Acc:F4JGL5],825844.0,NAD(P)H dehydrogenase B2 ,F4JGL5
+796,AT2G20800,AT2G20800,{},NDB4,2,8953057.0,8955831.0,"External alternative NAD(P)H-ubiquinone oxidoreductase B4, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q9SKT7]",816609.0,"External alternative NAD(P)H-ubiquinone oxidoreductase B4, mitochondrial ",Q9SKT7
+797,AT4G21490,AT4G21490,{},NDB3,4,11436326.0,11439506.0,"External alternative NAD(P)H-ubiquinone oxidoreductase B3, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:F4JJJ3]",828234.0,"External alternative NAD(P)H-ubiquinone oxidoreductase B3, mitochondrial ",F4JJJ3
+798,AT3G22370,AT3G22370,{},AOX1A,3,7906521.0,7908746.0,"Ubiquinol oxidase 1a, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:Q39219]",821806.0,"Ubiquinol oxidase 1a, mitochondrial ",Q39219
+799,AT3G27620,AT3G27620,{},AOX1C,3,10229045.0,10230707.0,"Ubiquinol oxidase 1c, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:O22048]",822384.0,"Ubiquinol oxidase 1c, mitochondrial ",O22048
+800,AT5G64210,AT5G64210,{},AOX2,5,25683770.0,25685731.0,"Ubiquinol oxidase 2, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:O22049]",836542.0,"Ubiquinol oxidase 2, mitochondrial ",O22049
+801,AT1G32350,AT1G32350,{},AOX3,1,11666886.0,11668690.0,AOX1D [Source:UniProtKB/TrEMBL;Acc:A0A384LFI3],840127.0,AOX1D ,A0A384LFI3
+802,AT3G22360,AT3G22360,{},AOX1B,3,7904097.0,7905576.0,"Ubiquinol oxidase 1b, mitochondrial [Source:UniProtKB/Swiss-Prot;Acc:O23913]",821805.0,"Ubiquinol oxidase 1b, mitochondrial ",O23913
+803,AT4G22260,AT4G22260,{},AOX4,4,11769668.0,11772599.0,"Ubiquinol oxidase 4, chloroplastic/chromoplastic [Source:UniProtKB/Swiss-Prot;Acc:Q56X52]",828321.0,"Ubiquinol oxidase 4, chloroplastic/chromoplastic ",Q56X52

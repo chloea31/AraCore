@@ -1,0 +1,414 @@
+,aracore_ids,aracore_name,aracore_formula,aracore_annotations,aracore_updated_ids,aracore_updated_universal_ids,aracore_updated_universal_ids_lower,seed_id_aggr,bigg_id_aggr
+0,hnu_h,Photon,X,{},hnu_h,hnu,hnu,[],
+1,PQ_h,Oxidized plastoquinone,C13H16O2,{},PQ_h,PQ,pq,[],pq
+2,H2O_h,"H2O, water",H2O,{},H2O_h,H2O,h2o,[['cpd00001']],h2o
+3,H_h,"H+, proton",H,{},H_h,H,h,['cpd00067'],h
+4,PQH2_h,Reduced plastoquinone,C13H18O2,{},PQH2_h,PQH2,pqh2,[],pqh2
+5,O2_h,"O2, oxygen",O2,{},O2_h,O2,o2,['cpd00007'],o2
+6,H_l,"H+, proton",H,{},H_ul,H,h,['cpd00067'],h
+7,PCox_h,Oxidized plastocyanin,X,{},PCox_h,PCox,pcox,['cpd30035'],pcox
+8,PCrd_h,Reduced plastocyanin,X,{},PCrd_h,PCrd,pcrd,['cpd30034'],pcrd
+9,Fdox_h,Oxidized ferredoxin,S8FeX,{},Fdox_h,Fdox,fdox,['cpd15876'],fdox
+10,Fdrd_h,Reduced ferredoxin,S8FeX,{},Fdrd_h,Fdrd,fdrd,[],
+11,NADP_h,Nicotinamide adenine dinucleotide phosphate,C21H25N7O17P3,{},NADP_h,NADP,nadp,['cpd00006'],nadp
+12,NADPH_h,Nicotinamide adenine dinucleotide phosphate - reduced,C21H26N7O17P3,{},NADPH_h,NADPH,nadph,['cpd00005'],nadph
+13,ADP_h,Adenosine diphosphate,C10H12N5O10P2,{},ADP_h,ADP,adp,['cpd00008'],adp
+14,Pi_h,Orthophosphate,HO4P,{},Pi_h,Pi,pi,[['cpd00009']],pi
+15,ATP_h,Adenosine triphosphate,C10H12N5O13P3,{},ATP_h,ATP,atp,['cpd00002'],atp
+16,RuBP_h,"Ribulose 1,5-bisphosphate",C5H8O11P2,{},RuBP_h,RuBP,rubp,[],
+17,CO2_h,"CO2, carbon dioxide",CO2,{},CO2_h,CO2,co2,['cpd00011'],co2
+18,PGA_h,3-Phosphoglycerate,C3H4O7P,{},PGA_h,PGA,pga,['cpd29254'],
+19,DPGA_h,3-Phospho-D-glyceroyl phosphate,C3H4O10P2,{},DPGA_h,DPGA,dpga,[],
+20,GAP_h,Glyceraldehyde 3-phosphate,C3H5O6P,{},GAP_h,GAP,gap,[],
+21,DHAP_h,Dihydroxyacetone phosphate,C3H5O6P,{},DHAP_h,DHAP,dhap,['cpd00095'],dhap
+22,FBP_h,"Fructose 1,6-bisphosphate",C6H10O12P2,{},FBP_h,FBP,fbp,[],
+23,F6P_h,Fructose 6-phosphate,C6H11O9P,{},F6P_h,F6P,f6p,[['cpd00072']],f6p
+24,E4P_h,Erythrose 4-phosphate,C4H7O7P,{},E4P_h,E4P,e4p,['cpd00236'],e4p
+25,X5P_h,Xylulose 5-phosphate,C5H9O8P,{},X5P_h,X5P,x5p,[],
+26,SBP_h,"Sedoheptulose 1,7-bisphosphate",C7H12O13P2,{},SBP_h,SBP,sbp,[],
+27,S7P_h,Sedoheptulose 7-phosphate,C7H13O10P,{},S7P_h,S7P,s7p,['cpd00238'],s7p
+28,R5P_h,Ribose 5-phosphate,C5H9O8P,{},R5P_h,R5P,r5p,[['cpd00101']],r5p
+29,Ru5P_h,Ribulose 5-phosphate,C5H9O8P,{},Ru5P_h,Ru5P,ru5p,[],
+30,G6P_h,Glucose 6-phosphate,C6H11O9P,{},G6P_h,G6P,g6p,[['cpd00079']],g6p
+31,G1P_h,Glucose 1-phosphate,C6H11O9P,{},G1P_h,G1P,g1p,[['cpd00089']],g1p
+32,ADPG_h,ADP-Glucose,C16H23N5O15P2,{},ADPG_h,ADPG,adpg,[],
+33,PPi_h,"Diphosphate, Pyrophosphate",O7P2,{},PPi_h,PPi,ppi,[['cpd00012']],ppi
+34,starch1_h,"Starch, X+1 glucose units",C6H12O6,{},starch1_h,starch1,starch1,[],
+35,starch2_h,"Starch, X+2 glucose units",C12H22O11,{},starch2_h,starch2,starch2,[],
+36,starch3_h,"Starch, X+3 glucose units",C18H32O16,{},starch3_h,starch3,starch3,[],
+37,starch5_h,"Starch, X+5 glucose units",C30H52O26,{},starch5_h,starch5,starch5,[],
+38,Mas_h,Maltose,C12H22O11,{},Mas_h,Mas,mas,[],mas
+39,Glc_h,Glucose,C6H12O6,{},Glc_h,Glc,glc,['cpd28337'],
+40,starch1_c,"Starch, X+1 glucose units",C6H12O6,{},starch1_c,starch1,starch1,[],
+41,Mas_c,Maltose,C12H22O11,{},Mas_c,Mas,mas,[],mas
+42,starch2_c,"Starch, X+2 glucose units",C12H22O11,{},starch2_c,starch2,starch2,[],
+43,Glc_c,Glucose,C6H12O6,{},Glc_c,Glc,glc,['cpd28337'],
+44,ATP_c,Adenosine triphosphate,C10H12N5O13P3,{},ATP_c,ATP,atp,['cpd00002'],atp
+45,G6P_c,Glucose 6-phosphate,C6H11O9P,{},G6P_c,G6P,g6p,[['cpd00079']],g6p
+46,ADP_c,Adenosine diphosphate,C10H12N5O10P2,{},ADP_c,ADP,adp,['cpd00008'],adp
+47,H_c,"H+, proton",H,{},H_c,H,h,['cpd00067'],h
+48,Na_c,Na+ ion,Na,{},Na_c,Na,na,[],
+49,Na_h,Na+ ion,Na,{},Na_h,Na,na,[],
+50,Pi_c,Orthophosphate,HO4P,{},Pi_c,Pi,pi,[['cpd00009']],pi
+51,G1P_c,Glucose 1-phosphate,C6H11O9P,{},G1P_c,G1P,g1p,[['cpd00089']],g1p
+52,GAP_c,Glyceraldehyde 3-phosphate,C3H5O6P,{},GAP_c,GAP,gap,[],
+53,DHAP_c,Dihydroxyacetone phosphate,C3H5O6P,{},DHAP_c,DHAP,dhap,['cpd00095'],dhap
+54,FBP_c,"Fructose 1,6-bisphosphate",C6H10O12P2,{},FBP_c,FBP,fbp,[],
+55,H2O_c,"H2O, water",H2O,{},H2O_c,H2O,h2o,[['cpd00001']],h2o
+56,F6P_c,Fructose 6-phosphate,C6H11O9P,{},F6P_c,F6P,f6p,[['cpd00072']],f6p
+57,F26BP_c,"Fructose 2,6-bisphosphate",C6H10O12P2,{},F26BP_c,F26BP,f26bp,['cpd00503'],f26bp
+58,UTP_c,Uridine triphosphate,C9H11N2O15P3,{},UTP_c,UTP,utp,['cpd00062'],utp
+59,UDPG_c,UDP-Glucose,C15H22N2O17P2,{},UDPG_c,UDPG,udpg,[['cpd00026']],udpg
+60,PPi_c,"Diphosphate, Pyrophosphate",HO7P2,{},PPi_c,PPi,ppi,[['cpd00012']],ppi
+61,S6P_c,Sucrose-6-phosphate,C12H21O14P,{},S6P_c,S6P,s6p,[],
+62,UDP_c,Uridine diphosphate,C9H12N2O12P2,{},UDP_c,UDP,udp,['cpd00014'],udp
+63,Suc_c,Sucrose,C12H22O11,{},Suc_c,Suc,suc,[],
+64,Frc_c,Fructose,C6H12O6,{},Frc_c,Frc,frc,[],
+65,T6P_c,Trehalose 6-phosphate,C12H21O14P,{},T6P_c,T6P,t6p,[],
+66,Tre_c,Trehalose,C12H22O11,{},Tre_c,Tre,tre,['cpd00794'],tre
+67,cellulose1_c,"Cellulose, 1 repeat units",C6H12O6,{},cellulose1_c,cellulose1,cellulose1,[],
+68,cellulose2_c,"Cellulose, 2 repeat units",C12H22O11,{},cellulose2_c,cellulose2,cellulose2,[],
+69,cellulose3_c,"Cellulose, 3 repeat units",C18H32O16,{},cellulose3_c,cellulose3,cellulose3,[],
+70,Mal_c,Malate,C4H4O5,{},Mal_c,Mal,mal,[],
+71,NAD_c,Nicotinamide adenine dinucleotide,C21H26N7O14P2,{},NAD_c,NAD,nad,['cpd00003'],nad
+72,OAA_c,Oxaloacetate,C4H2O5,{},OAA_c,OAA,oaa,['cpd00032'],oaa
+73,NADH_c,Nicotinamide adenine dinucleotide - reduced,C21H27N7O14P2,{},NADH_c,NADH,nadh,['cpd00004'],nadh
+74,PEP_c,Phosphoenolpyruvate,C3H2O6P,{},PEP_c,PEP,pep,['cpd00061'],pep
+75,CO2_c,"CO2, carbon dioxide",CO2,{},CO2_c,CO2,co2,['cpd00011'],co2
+76,HCO3_c,Bicarbonate,CHO3,{},HCO3_c,HCO3,hco3,['cpd00242'],hco3
+77,2PGA_c,2-Phosphoglycerate ,C3H4O7P,{},2PGA_c,2PGA,2pga,[],
+78,PGA_c,3-Phosphoglycerate,C3H4O7P,{},PGA_c,PGA,pga,['cpd29254'],
+79,DPGA_c,3-Phospho-D-glyceroyl phosphate,C3H4O10P2,{},DPGA_c,DPGA,dpga,[],
+80,NADP_c,Nicotinamide adenine dinucleotide phosphate,C21H25N7O17P3,{},NADP_c,NADP,nadp,['cpd00006'],nadp
+81,NADPH_c,Nicotinamide adenine dinucleotide phosphate - reduced,C21H26N7O17P3,{},NADPH_c,NADPH,nadph,['cpd00005'],nadph
+82,NAD_h,Nicotinamide adenine dinucleotide,C21H26N7O14P2,{},NAD_h,NAD,nad,['cpd00003'],nad
+83,NADH_h,Nicotinamide adenine dinucleotide - reduced,C21H27N7O14P2,{},NADH_h,NADH,nadh,['cpd00004'],nadh
+84,2PGA_h,2-Phosphoglycerate ,C3H4O7P,{},2PGA_h,2PGA,2pga,[],
+85,PEP_h,Phosphoenolpyruvate,C3H2O6P,{},PEP_h,PEP,pep,['cpd00061'],pep
+86,Pyr_c,Pyruvate,C3H3O3,{},Pyr_c,Pyr,pyr,['cpd00020'],pyr
+87,Pyr_h,Pyruvate,C3H3O3,{},Pyr_h,Pyr,pyr,['cpd00020'],pyr
+88,Pyr_m,Pyruvate,C3H3O3,{},Pyr_m,Pyr,pyr,['cpd00020'],pyr
+89,ThPP_m,"ThPP, Thiamine pyrophosphate",C12H16N4O7P2S,{},ThPP_m,ThPP,thpp,[],
+90,H_m,"H+, proton",H,{},H_m,H,h,['cpd00067'],h
+91,H_DASH_Eth_DASH_ThPP_m,2-(alpha-Hydroxyethyl)thiamine diphosphate,C14H20N4O8P2S,{},H_DASH_Eth_DASH_ThPP_m,H_DASH_Eth_DASH_ThPP,h_dash_eth_dash_thpp,[],
+92,CO2_m,"CO2, carbon dioxide",CO2,{},CO2_m,CO2,co2,['cpd00011'],co2
+93,LPA_m,Lipoamide,C8H15NOS2,{},LPA_m,LPA,lpa,[],
+94,A_DASH_DHL_m,Acetyldihydrolipoamide,C10H19NO2S2,{},A_DASH_DHL_m,A_DASH_DHL,a_dash_dhl,[],
+95,CoA_m,Coenzyme A,C21H32N7O16P3S,{},CoA_m,CoA,coa,[['cpd00010']],coa
+96,A_DASH_CoA_m,Acetyl-Coenzyme A,C23H34N7O17P3S,{},A_DASH_CoA_m,A_DASH_CoA,a_dash_coa,[],
+97,DHL_m,Dihydrolipoamide,C8H17NOS2,{},DHL_m,DHL,dhl,[],
+98,NAD_m,Nicotinamide adenine dinucleotide,C21H26N7O14P2,{},NAD_m,NAD,nad,['cpd00003'],nad
+99,NADH_m,Nicotinamide adenine dinucleotide - reduced,C21H27N7O14P2,{},NADH_m,NADH,nadh,['cpd00004'],nadh
+100,OAA_m,Oxaloacetate,C4H2O5,{},OAA_m,OAA,oaa,['cpd00032'],oaa
+101,H2O_m,"H2O, water",H2O,{},H2O_m,H2O,h2o,[['cpd00001']],h2o
+102,Cit_m,Citrate,C6H5O7,{},Cit_m,Cit,cit,['cpd00137'],cit
+103,cACN_m,cis-Aconitate,C6H3O6,{},cACN_m,cACN,cacn,[],
+104,iCit_m,Isocitrate,C6H5O7,{},iCit_m,iCit,icit,['cpd00260'],icit
+105,KG_m,"alpha-Ketoglutarate, 2-Oxoglutarate",C5H4O5,{},KG_m,KG,kg,[],
+106,S_DASH_DHL_m,Succinyldihydrolipoamide,C12H20NO4S2,{},S_DASH_DHL_m,S_DASH_DHL,s_dash_dhl,[],
+107,S_DASH_CoA_m,Succinyl-CoA,C25H35N7O19P3S,{},S_DASH_CoA_m,S_DASH_CoA,s_dash_coa,[],
+108,ADP_m,Adenosine diphosphate,C10H12N5O10P2,{},ADP_m,ADP,adp,['cpd00008'],adp
+109,Pi_m,Orthophosphate,HO4P,{},Pi_m,Pi,pi,[['cpd00009']],pi
+110,SCA_m,Succinate,C4H4O4,{},SCA_m,SCA,sca,[],
+111,ATP_m,Adenosine triphosphate,C10H12N5O13P3,{},ATP_m,ATP,atp,['cpd00002'],atp
+112,Q_m,Ubiquinone,C49H74O4,{},Q_m,Q,q,['cpd11669'],q
+113,Fum_m,Fumarate,C4H2O4,{},Fum_m,Fum,fum,['cpd00106'],fum
+114,QH2_m,Ubiquinol,C49H76O4,{},QH2_m,QH2,qh2,['cpd11665'],qh2
+115,Mal_m,Malate,C4H4O5,{},Mal_m,Mal,mal,[],
+116,H_i,"H+, proton",H,{},H_im,H,h,['cpd00067'],h
+117,Cytcox_m,Oxidized cytochrome c,C42H42N8O8S2FeR4,{},Cytcox_m,Cytcox,cytcox,[],
+118,Cytcrd_m,Reduced cytochrome c,C42H42N8O8S2FeR4,{},Cytcrd_m,Cytcrd,cytcrd,[],
+119,O2_m,"O2, oxygen",O2,{},O2_m,O2,o2,['cpd00007'],o2
+120,PGCA_h,2-Phosphoglycolate,C2H2O6P,{},PGCA_h,PGCA,pgca,[],
+121,GCA_h,Glycolate,C2H3O3,{},GCA_h,GCA,gca,[],
+122,GCA_p,Glycolate,C2H3O3,{},GCA_x,GCA,gca,[],
+123,O2_p,"O2, oxygen",O2,{},O2_x,O2,o2,['cpd00007'],o2
+124,GLX_p,Glyoxylate,C2HO3,{},GLX_x,GLX,glx,['cpd00040'],glx
+125,H2O2_p,Hydrogen peroxide,H2O2,{},H2O2_x,H2O2,h2o2,['cpd00025'],h2o2
+126,H2O_p,"H2O, water",H2O,{},H2O_x,H2O,h2o,[['cpd00001']],h2o
+127,Glu_p,Glutamate,C5H8NO4,{},Glu_x,Glu,glu,[],
+128,Gly_p,Glycine,C2H5NO2,{},Gly_x,Gly,gly,['cpd00033'],gly
+129,KG_p,"alpha-Ketoglutarate, 2-Oxoglutarate",C5H4O5,{},KG_x,KG,kg,[],
+130,Gly_m,Glycine,C2H5NO2,{},Gly_m,Gly,gly,['cpd00033'],gly
+131,LPL_m,Lipoylprotein,C8H14NOS2R,{},LPL_m,LPL,lpl,[],
+132,amDHP_m,Aminomethyldihydrolipoylprotein,C9H20N2OS2R,{},amDHP_m,amDHP,amdhp,[],
+133,THF_m,"5,6,7,8-Tetrahydrofolate",C19H21N7O6,{},THF_m,THF,thf,[['cpd00087']],thf
+134,DHP_m,Dihydrolipolprotein,C8H16NOS2R,{},DHP_m,DHP,dhp,[],
+135,M_DASH_THF_m,"5,10-Methylenetetrahydrofolate",C20H21N7O6,{},M_DASH_THF_m,M_DASH_THF,m_dash_thf,[],
+136,NH4_m,Ammonia,H4N,{},NH4_m,NH4,nh4,[['cpd00013']],nh4
+137,Ser_m,Serine,C3H7NO3,{},Ser_m,Ser,ser,[],
+138,Ser_p,Serine,C3H7NO3,{},Ser_x,Ser,ser,[],
+139,HPR_p,Hydroxypyruvate,C3H3O4,{},HPR_x,HPR,hpr,[],
+140,NADH_p,Nicotinamide adenine dinucleotide - reduced,C21H27N7O14P2,{},NADH_x,NADH,nadh,['cpd00004'],nadh
+141,H_p,"H+, proton",H,{},H_x,H,h,['cpd00067'],h
+142,GCEA_p,Glycerate,C3H5O4,{},GCEA_x,GCEA,gcea,[],
+143,NAD_p,Nicotinamide adenine dinucleotide,C21H26N7O14P2,{},NAD_x,NAD,nad,['cpd00003'],nad
+144,Mal_p,Malate,C4H4O5,{},Mal_x,Mal,mal,[],
+145,OAA_p,Oxaloacetate,C4H2O5,{},OAA_x,OAA,oaa,['cpd00032'],oaa
+146,GCEA_h,Glycerate,C3H5O4,{},GCEA_h,GCEA,gcea,[],
+147,GLP_h,Glucono-delta-lactone-6-phosphate,C6H9O9P,{},GLP_h,GLP,glp,['cpd12002'],glp
+148,6PG_h,6-Phospho-D-gluconate,C6H10O10P,{},6PG_h,6PG,6pg,[],
+149,DAHP_h,3-Deoxy-D-arabino-heptulosonate-7-phosphate,C7H10O10P,{},DAHP_h,DAHP,dahp,[],
+150,DHQ_h,3-Dehydroquinate,C7H9O6,{},DHQ_h,DHQ,dhq,[],
+151,DHS_h,3-Dehydroshikimate,C7H7O5,{},DHS_h,DHS,dhs,[],
+152,SA_h,Shikimate,C7H9O5,{},SA_h,SA,sa,[],
+153,S3P_h,Shikimate 3-phosphate,C7H8O8P,{},S3P_h,S3P,s3p,[],
+154,EPSP_h,5-Enolpyruvyl-shikimate-3-phosphate,C10H9O10P,{},EPSP_h,EPSP,epsp,[],
+155,CHR_h,Chorismate,C10H8O6,{},CHR_h,CHR,chr,[],
+156,PRPP_h,5-Phosphoribosyl 1-pyrophosphate,C5H8O14P3,{},PRPP_h,PRPP,prpp,['cpd00103'],prpp
+157,AMP_h,Adenosine 5-phosphate,C10H12N5O7P,{},AMP_h,AMP,amp,[['cpd00018']],amp
+158,Mal_h,Malate,C4H4O5,{},Mal_h,Mal,mal,[],
+159,OAA_h,Oxaloacetate,C4H2O5,{},OAA_h,OAA,oaa,['cpd00032'],oaa
+160,NADPH_m,Nicotinamide adenine dinucleotide phosphate - reduced,C21H26N7O17P3,{},NADPH_m,NADPH,nadph,['cpd00005'],nadph
+161,NADP_m,Nicotinamide adenine dinucleotide phosphate,C21H25N7O17P3,{},NADP_m,NADP,nadp,['cpd00006'],nadp
+162,A_DASH_CoA_c,Acetyl-Coenzyme A,C23H35N7O17P3S,{},A_DASH_CoA_c,A_DASH_CoA,a_dash_coa,[],
+163,Cit_c,Citrate,C6H5O7,{},Cit_c,Cit,cit,['cpd00137'],cit
+164,CoA_c,Coenzyme A,C21H33N7O16P3S,{},CoA_c,CoA,coa,[['cpd00010']],coa
+165,A_DASH_CoA_h,Acetyl-Coenzyme A,C23H34N7O17P3S,{},A_DASH_CoA_h,A_DASH_CoA,a_dash_coa,[],
+166,Cit_h,Citrate,C6H5O7,{},Cit_h,Cit,cit,['cpd00137'],cit
+167,CoA_h,Coenzyme A,C21H32N7O16P3S,{},CoA_h,CoA,coa,[['cpd00010']],coa
+168,cACN_c,cis-Aconitate,C6H3O6,{},cACN_c,cACN,cacn,[],
+169,cACN_h,cis-Aconitate,C6H3O6,{},cACN_h,cACN,cacn,[],
+170,iCit_c,Isocitrate,C6H5O7,{},iCit_c,iCit,icit,['cpd00260'],icit
+171,iCit_p,Isocitrate,C6H5O7,{},iCit_x,iCit,icit,['cpd00260'],icit
+172,iCit_h,Isocitrate,C6H5O7,{},iCit_h,iCit,icit,['cpd00260'],icit
+173,KG_c,"alpha-Ketoglutarate, 2-Oxoglutarate",C5H4O5,{},KG_c,KG,kg,[],
+174,KG_h,"alpha-Ketoglutarate, 2-Oxoglutarate",C5H4O5,{},KG_h,KG,kg,[],
+175,SCA_c,Succinate,C4H4O4,{},SCA_c,SCA,sca,[],
+176,SCA_p,Succinate,C4H4O4,{},SCA_x,SCA,sca,[],
+177,AC_h,Acetate,C2H3O2,{},AC_h,AC,ac,['cpd00029'],ac
+178,HCO3_h,Bicarbonate,CHO3,{},HCO3_h,HCO3,hco3,['cpd00242'],hco3
+179,M_DASH_CoA_h,Malonyl-Coenzyme A,C24H33N7O19P3S,{},M_DASH_CoA_h,M_DASH_CoA,m_dash_coa,[],
+180,ACP_h,Acyl-carrier protein,HSR,{},ACP_h,ACP,acp,['cpd11493'],acp
+181,M_DASH_ACP_h,Malonyl-acyl-carrier-protein,C3H2O3SR,{},M_DASH_ACP_h,M_DASH_ACP,m_dash_acp,[],
+182,For_h,Formate,CHO2,{},For_h,For,for,[['cpd00047']],for
+183,THF_h,"5,6,7,8-Tetrahydrofolate",C19H21N7O6,{},THF_h,THF,thf,[['cpd00087']],thf
+184,F_DASH_THF_h,10-Formyltetrahydrofolate,C20H22N7O7,{},F_DASH_THF_h,F_DASH_THF,f_dash_thf,[],
+185,DHF_c,Dihydrofolate,C19H20N7O6,{},DHF_c,DHF,dhf,['cpd00330'],dhf
+186,THF_c,"5,6,7,8-Tetrahydrofolate",C19H22N7O6,{},THF_c,THF,thf,[['cpd00087']],thf
+187,TRXox_c,Oxidized thioredoxin,C10H12N4O4S2R4,{},TRXox_c,TRXox,trxox,[],
+188,TRXrd_c,Reduced thioredoxin,C10H14N4O4S2R4,{},TRXrd_c,TRXrd,trxrd,[],
+189,ADN_c,Adenosine,C10H13N5O4,{},ADN_c,ADN,adn,['cpd00182'],adn
+190,AMP_c,Adenosine 5-phosphate,C10H12N5O7P,{},AMP_c,AMP,amp,[['cpd00018']],amp
+191,Rib_c,Ribose,C5H10O5,{},Rib_c,Rib,rib,[],
+192,AD_c,Adenine,C5H4N5,{},AD_c,AD,ad,['cpd03734'],ad
+193,PRPP_c,5-Phosphoribosyl 1-pyrophosphate,C5H9O14P3,{},PRPP_c,PRPP,prpp,['cpd00103'],prpp
+194,Rib_h,Ribose,C5H10O5,{},Rib_h,Rib,rib,[],
+195,NO3_c,Nitrate,NO3,{},NO3_c,NO3,no3,['cpd00209'],no3
+196,NO2_c,Nitrite,NO2,{},NO2_c,NO2,no2,['cpd00075'],no2
+197,NO2_h,Nitrite,NO2,{},NO2_h,NO2,no2,['cpd00075'],no2
+198,NH4_h,Ammonia,H4N,{},NH4_h,NH4,nh4,[['cpd00013']],nh4
+199,SO4_h,Sulfate,O4S,{},SO4_h,SO4,so4,[['cpd00048']],so4
+200,SO4_m,Sulfate,O4S,{},SO4_m,SO4,so4,[['cpd00048']],so4
+201,APS_h,Adenosine 5-phosphosulfate,C10H12N5O10PS,{},APS_h,APS,aps,['cpd00193'],aps
+202,GSH_h,Glutathione,C10H16N3O6S,{},GSH_h,GSH,gsh,[],
+203,SO3_h,Sulfite,HO3S,{},SO3_h,SO3,so3,['cpd00081'],so3
+204,GSSG_h,Glutathione disulfide,C20H30N6O12S2,{},GSSG_h,GSSG,gssg,[],
+205,H2S_h,Hydrogen sulfide,H2S,{},H2S_h,H2S,h2s,[['cpd00239']],h2s
+206,Glu_h,Glutamate,C5H8NO4,{},Glu_h,Glu,glu,[],
+207,Ala_h,Alanine,C3H7NO2,{},Ala_h,Ala,ala,[],
+208,Glu_m,Glutamate,C5H8NO4,{},Glu_m,Glu,glu,[],
+209,Ala_m,Alanine,C3H7NO2,{},Ala_m,Ala,ala,[],
+210,Pyr_p,Pyruvate,C3H3O3,{},Pyr_x,Pyr,pyr,['cpd00020'],pyr
+211,Ala_p,Alanine,C3H7NO2,{},Ala_x,Ala,ala,[],
+212,A_DASH_Glu_h,Acetylglutamate,C7H8NO5,{},A_DASH_Glu_h,A_DASH_Glu,a_dash_glu,[],
+213,A_DASH_GluP_h,Acetylglutamate 5-phosphate,C7H8NO8P,{},A_DASH_GluP_h,A_DASH_GluP,a_dash_glup,[],
+214,A_DASH_Glu_DASH_SeA_h,Acetylglutamate 5-semialdehyde,C7H9NO4,{},A_DASH_Glu_DASH_SeA_h,A_DASH_Glu_DASH_SeA,a_dash_glu_dash_sea,[],
+215,A_DASH_Orn_h,Acetylornithine,C7H13N2O3,{},A_DASH_Orn_h,A_DASH_Orn,a_dash_orn,[],
+216,Orn_h,Ornithine,C5H13N2O2,{},Orn_h,Orn,orn,[['cpd00064']],orn
+217,Gln_h,Glutamine,C5H10N2O3,{},Gln_h,Gln,gln,[],
+218,CBP_h,Carbamoyl phosphate,CHNO5P,{},CBP_h,CBP,cbp,['cpd00146'],cbp
+219,CTL_h,Citrulline,C6H14N3O3,{},CTL_h,CTL,ctl,[],
+220,Asp_h,Aspartate,C4H6NO4,{},Asp_h,Asp,asp,[],
+221,Arg_DASH_SCA_h,Argininosuccinate,C10H17N4O6,{},Arg_DASH_SCA_h,Arg_DASH_SCA,arg_dash_sca,[],
+222,Arg_h,Arginine,C6H15N4O2,{},Arg_h,Arg,arg,[],
+223,Fum_h,Fumarate,C4H2O4,{},Fum_h,Fum,fum,['cpd00106'],fum
+224,Fum_c,Fumarate,C4H2O4,{},Fum_c,Fum,fum,['cpd00106'],fum
+225,Gln_c,Glutamine,C5H10N2O3,{},Gln_c,Gln,gln,[],
+226,Asp_c,Aspartate,C4H6NO4,{},Asp_c,Asp,asp,[],
+227,Glu_c,Glutamate,C5H8NO4,{},Glu_c,Glu,glu,[],
+228,Asn_c,Asparagine,C4H8N2O3,{},Asn_c,Asn,asn,[],
+229,Asp_m,Aspartate,C4H6NO4,{},Asp_m,Asp,asp,[],
+230,Asp_p,Aspartate,C4H6NO4,{},Asp_x,Asp,asp,[],
+231,NH4_c,Ammonia,H4N,{},NH4_c,NH4,nh4,[['cpd00013']],nh4
+232,Ser_c,Serine,C3H7NO3,{},Ser_c,Ser,ser,[],
+233,A_DASH_Ser_c,O-Acetyl-L-serine,C5H9NO4,{},A_DASH_Ser_c,A_DASH_Ser,a_dash_ser,[],
+234,Ser_h,Serine,C3H7NO3,{},Ser_h,Ser,ser,[],
+235,A_DASH_Ser_h,O-Acetyl-L-serine,C5H9NO4,{},A_DASH_Ser_h,A_DASH_Ser,a_dash_ser,[],
+236,A_DASH_Ser_m,O-Acetyl-L-serine,C5H9NO4,{},A_DASH_Ser_m,A_DASH_Ser,a_dash_ser,[],
+237,H2S_c,Hydrogen sulfide,H2S,{},H2S_c,H2S,h2s,[['cpd00239']],h2s
+238,Cys_c,Cysteine,C3H7NO2S,{},Cys_c,Cys,cys,[],
+239,AC_c,Acetate,C2H3O2,{},AC_c,AC,ac,['cpd00029'],ac
+240,Cys_h,Cysteine,C3H7NO2S,{},Cys_h,Cys,cys,[],
+241,H2S_m,Hydrogen sulfide,H2S,{},H2S_m,H2S,h2s,[['cpd00239']],h2s
+242,Cys_m,Cysteine,C3H7NO2S,{},Cys_m,Cys,cys,[],
+243,AC_m,Acetate,C2H3O2,{},AC_m,AC,ac,['cpd00029'],ac
+244,GABA_c,"GABA, 4-Aminobutyrate",C4H9NO2,{},GABA_c,GABA,gaba,[],
+245,GABA_m,"GABA, 4-Aminobutyrate",C4H9NO2,{},GABA_m,GABA,gaba,[],
+246,SCA_DASH_SeA_m,Succinate semialdehyde,C4H5O3,{},SCA_DASH_SeA_m,SCA_DASH_SeA,sca_dash_sea,[],
+247,Gln_m,Glutamine,C5H10N2O3,{},Gln_m,Gln,gln,[],
+248,Thr_c,Threonine,C4H9NO3,{},Thr_c,Thr,thr,[],
+249,ACD_c,Acetaldehyde,C2H4O,{},ACD_c,ACD,acd,[],
+250,Gly_c,Glycine,C2H5NO2,{},Gly_c,Gly,gly,['cpd00033'],gly
+251,GLX_h,Glyoxylate,C2HO3,{},GLX_h,GLX,glx,['cpd00040'],glx
+252,H2O2_h,Hydrogen peroxide,H2O2,{},H2O2_h,H2O2,h2o2,['cpd00025'],h2o2
+253,Gly_h,Glycine,C2H5NO2,{},Gly_h,Gly,gly,['cpd00033'],gly
+254,PR_DASH_ATP_h,5-Phosphoribosyl-ATP,C15H19N5O20P4,{},PR_DASH_ATP_h,PR_DASH_ATP,pr_dash_atp,[],
+255,PR_DASH_AMP_h,5-Phosphoribosyl-AMP,C15H19N5O14P2,{},PR_DASH_AMP_h,PR_DASH_AMP,pr_dash_amp,[],
+256,P_DASH_AICAR_DASH_P_h,1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide,C15H21N5O15P2,{},P_DASH_AICAR_DASH_P_h,P_DASH_AICAR_DASH_P,p_dash_aicar_dash_p,[],
+257,Pu_DASH_AICAR_DASH_P_h,5-[(5-phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide,C15H21N5O15P2,{},Pu_DASH_AICAR_DASH_P_h,Pu_DASH_AICAR_DASH_P,pu_dash_aicar_dash_p,[],
+258,EIGP_h,Erythro-1-imidazol-4-glycerol 3-phosphate,C6H9N2O6P,{},EIGP_h,EIGP,eigp,[],
+259,AICAR_h,5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide,C9H14N4O8P,{},AICAR_h,AICAR,aicar,['cpd02851'],aicar
+260,IA_DASH_P_h,Imidazole acetol-phosphate,C6H7N2O5P,{},IA_DASH_P_h,IA_DASH_P,ia_dash_p,[],
+261,Hisol_DASH_P_h,Histidinol phosphate,C6H11N3O4P,{},Hisol_DASH_P_h,Hisol_DASH_P,hisol_dash_p,[],
+262,Hisol_h,Histidinol,C6H12N3O,{},Hisol_h,Hisol,hisol,[],
+263,Hisal_h,Histidinal,C6H9N3O,{},Hisal_h,Hisal,hisal,[],
+264,His_h,Histidine,C6H9N3O2,{},His_h,His,his,[],
+265,Thr_h,Threonine,C4H9NO3,{},Thr_h,Thr,thr,[],
+266,OB_h,2-Oxobutanoate,C4H5O3,{},OB_h,OB,ob,[],
+267,ThPP_h,"ThPP, Thiamine pyrophosphate",C12H16N4O7P2S,{},ThPP_h,ThPP,thpp,[],
+268,H_DASH_Eth_DASH_ThPP_h,2-(alpha-Hydroxyethyl)thiamine diphosphate,C14H20N4O8P2S,{},H_DASH_Eth_DASH_ThPP_h,H_DASH_Eth_DASH_ThPP,h_dash_eth_dash_thpp,[],
+269,AHB_h,2-Aceto-2-hydroxybutanoate,C6H9O4,{},AHB_h,AHB,ahb,[],
+270,DHMP_h,"2,3-Dihydroxy-3-methylpentanoate",C6H11O4,{},DHMP_h,DHMP,dhmp,[],
+271,MOP_h,3-Methyl-2-oxopentanoate,C6H9O3,{},MOP_h,MOP,mop,[],
+272,Ile_h,Isoleucine,C6H13NO2,{},Ile_h,Ile,ile,[],
+273,AL_h,2-Acetolactate,C5H7O4,{},AL_h,AL,al,['cpd12855'],
+274,DHMB_h,"2,3-Dihydroxy-3-methylbutanoate",C5H9O4,{},DHMB_h,DHMB,dhmb,[],
+275,MOB_h,3-Methyl-2-oxobutanoate,C5H7O3,{},MOB_h,MOB,mob,[],
+276,2IPM_h,2-Isopropylmalate,C7H10O5,{},2IPM_h,2IPM,2ipm,[],
+277,IPM_h,2-Isopropylmaleate,C7H8O4,{},IPM_h,IPM,ipm,[],
+278,3IPM_h,3-Isopropylmalate,C7H10O5,{},3IPM_h,3IPM,3ipm,[],
+279,IPO_h,2-Isopropyl-3-oxosuccinate,C7H8O5,{},IPO_h,IPO,ipo,[],
+280,4MOP_h,4-Methyl-2-oxopentanoate,C6H9O3,{},4MOP_h,4MOP,4mop,['cpd00200'],4mop
+281,Leu_h,Leucine,C6H13NO2,{},Leu_h,Leu,leu,[],
+282,AspP_h,Aspartyl-4-phosphate,C4H6NO7P,{},AspP_h,AspP,aspp,[],
+283,Asp_DASH_SeA_h,Aspartate 4-semialdehyde,C4H7NO3,{},Asp_DASH_SeA_h,Asp_DASH_SeA,asp_dash_sea,[],
+284,DHD_h,"2,3-Dihydrodipicolinate",C7H5NO4,{},DHD_h,DHD,dhd,[],
+285,THD_h,"2,3,4,5-Tetrahydrodipicolinate",C7H7NO4,{},THD_h,THD,thd,[],
+286,DAP_h,Diaminopimelate,C7H14N2O4,{},DAP_h,DAP,dap,[],
+287,mDAP_h,meso-Diaminopimelate,C7H14N2O4,{},mDAP_h,mDAP,mdap,[],
+288,Lys_h,Lysine,C6H15N2O2,{},Lys_h,Lys,lys,[],
+289,H_DASH_Ser_h,Homoserine,C4H9NO3,{},H_DASH_Ser_h,H_DASH_Ser,h_dash_ser,[],
+290,PH_DASH_Ser_h,O-Phosphohomoserine,C4H8NO6P,{},PH_DASH_Ser_h,PH_DASH_Ser,ph_dash_ser,[],
+291,CTH_h,Cystathionine,C7H14N2O4S,{},CTH_h,CTH,cth,[],
+292,H_DASH_Cys_h,Homocysteine,C4H9NO2S,{},H_DASH_Cys_h,H_DASH_Cys,h_dash_cys,[],
+293,M_DASH_THF_c,"5,10-Methylenetetrahydrofolate",C20H22N7O6,{},M_DASH_THF_c,M_DASH_THF,m_dash_thf,[],
+294,5M_DASH_THF_c,5-Methyltetrahydrofolate,C20H24N7O6,{},5M_DASH_THF_c,5M_DASH_THF,5m_dash_thf,[],
+295,H_DASH_Cys_c,Homocysteine,C4H9NO2S,{},H_DASH_Cys_c,H_DASH_Cys,h_dash_cys,[],
+296,Met_c,Methionine,C5H11NO2S,{},Met_c,Met,met,[],
+297,aMet_c,Adenosylmethionine,C15H22N6O5S,{},aMet_c,aMet,amet,['cpd00017'],amet
+298,aH_DASH_Cys_c,Adenosylhomocysteine,C14H20N6O5S,{},aH_DASH_Cys_c,aH_DASH_Cys,ah_dash_cys,[],
+299,PRE_h,Prephenate,C10H8O6,{},PRE_h,PRE,pre,[],
+300,AGN_h,Arogenate,C10H12NO5,{},AGN_h,AGN,agn,[],
+301,Phe_h,Phenylalanine,C9H11NO2,{},Phe_h,Phe,phe,[],
+302,Arg_m,Arginine,C6H15N4O2,{},Arg_m,Arg,arg,[],
+303,Orn_m,Ornithine,C5H13N2O2,{},Orn_m,Orn,orn,[['cpd00064']],orn
+304,urea_m,Urea,CH5N2O,{},urea_m,urea,urea,['cpd00073'],urea
+305,Glu_DASH_SeA_m,Glutamate 5-semialdehyde,C5H9NO3,{},Glu_DASH_SeA_m,Glu_DASH_SeA,glu_dash_sea,[],
+306,GluP_c,Glutamate 5-phosphate,C5H8NO7P,{},GluP_c,GluP,glup,[],
+307,GluP_h,Glutamate 5-phosphate,C5H8NO7P,{},GluP_h,GluP,glup,[],
+308,GluP_m,Glutamate 5-phosphate,C5H8NO7P,{},GluP_m,GluP,glup,[],
+309,Glu_DASH_SeA_c,Glutamate 5-semialdehyde,C5H9NO3,{},Glu_DASH_SeA_c,Glu_DASH_SeA,glu_dash_sea,[],
+310,Glu_DASH_SeA_h,Glutamate 5-semialdehyde,C5H9NO3,{},Glu_DASH_SeA_h,Glu_DASH_SeA,glu_dash_sea,[],
+311,P5C_c,1-Pyrroline-5-carboxylate,C5H6NO2,{},P5C_c,P5C,p5c,[],
+312,P5C_h,1-Pyrroline-5-carboxylate,C5H6NO2,{},P5C_h,P5C,p5c,[],
+313,P5C_m,1-Pyrroline-5-carboxylate,C5H6NO2,{},P5C_m,P5C,p5c,[],
+314,Pro_c,Proline,C5H9NO2,{},Pro_c,Pro,pro,[],
+315,Pro_m,Proline,C5H9NO2,{},Pro_m,Pro,pro,[],
+316,P_DASH_HPR_h,3-Phosphohydroxypyruvate,C3H2O7P,{},P_DASH_HPR_h,P_DASH_HPR,p_dash_hpr,[],
+317,PSer_h,O-Phosphoserine,C3H6NO6P,{},PSer_h,PSer,pser,[],pser
+318,ANT_h,Anthranilate,C7H6NO2,{},ANT_h,ANT,ant,[],
+319,PR_DASH_ANT_h,5-Phosphoribosyl-anthranilate,C12H13NO9P,{},PR_DASH_ANT_h,PR_DASH_ANT,pr_dash_ant,[],
+320,CPD_DASH_Ru5P_h,1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate,C12H13NO9P,{},CPD_DASH_Ru5P_h,CPD_DASH_Ru5P,cpd_dash_ru5p,[],
+321,Ind_DASH_GP_h,Indole-glycerol 3-phosphate,C11H12NO6P,{},Ind_DASH_GP_h,Ind_DASH_GP,ind_dash_gp,[],
+322,Ind_h,Indole,C8H7N,{},Ind_h,Ind,ind,[],ind
+323,Trp_h,Tryptophan,C11H12N2O2,{},Trp_h,Trp,trp,[],
+324,Tyr_h,Tyrosine,C9H11NO3,{},Tyr_h,Tyr,tyr,[],
+325,Val_h,Valine,C5H11NO2,{},Val_h,Val,val,[],
+326,PRA_h,5-Phospho-beta-D-ribosylamine,C5H11NO7P,{},PRA_h,PRA,pra,[],
+327,GAR_h,5-Phospho-D-ribosylglycineamide,C7H14N2O8P,{},GAR_h,GAR,gar,['cpd02394'],gar
+328,FGAR_h,5-Phospho-D-ribosyl-N-formylglycineamide,C8H13N2O9P,{},FGAR_h,FGAR,fgar,[],
+329,FGAM_h,5-Phospho-D-ribosyl-N-formylglycineamidine,C8H14N3O8P,{},FGAM_h,FGAM,fgam,['cpd02678'],fgam
+330,AIR_h,5-Aminoimidazole ribonucleotide,C8H12N3O7P,{},AIR_h,AIR,air,['cpd02140'],air
+331,CAIR_h,4-Carboxyaminoimidazole ribonucleotide,C9H11N3O9P,{},CAIR_h,CAIR,cair,[],
+332,SAICAR_h,1-(5-Phosphoribosyl)-4-(N-succino-carboxamide)-5-aminoimidazole,C13H15N4O12P,{},SAICAR_h,SAICAR,saicar,[],
+333,FAICAR_h,5-phosphoribosyl-5-formamido-4-imidazole carboxamide,C10H13N4O9P,{},FAICAR_h,FAICAR,faicar,[],
+334,IMP_h,Inosine 5-phosphate,C10H11N4O8P,{},IMP_h,IMP,imp,['cpd00114'],imp
+335,IMP_c,Inosine 5-phosphate,C10H11N4O8P,{},IMP_c,IMP,imp,['cpd00114'],imp
+336,XMP_c,Xanthosine 5-phosphate,C10H11N4O9P,{},XMP_c,XMP,xmp,['cpd00497'],xmp
+337,GMP_c,Guanosine 5-phosphate,C10H13N5O8P,{},GMP_c,GMP,gmp,['cpd00126'],gmp
+338,GTP_h,Guanosine triphosphate,C10H13N5O14P3,{},GTP_h,GTP,gtp,['cpd00038'],gtp
+339,DC_DASH_AMP_h,"N6-(1,2-Dicarboxyethyl)-AMP",C14H14N5O11P,{},DC_DASH_AMP_h,DC_DASH_AMP,dc_dash_amp,[],
+340,GDP_h,Guanosine diphosphate,C10H14N5O11P2,{},GDP_h,GDP,gdp,['cpd00031'],gdp
+341,CB_DASH_Asp_h,N-Carbamoyl-L-aspartate,C5H6N2O5,{},CB_DASH_Asp_h,CB_DASH_Asp,cb_dash_asp,[],
+342,DHO_h,Dihydroorotate,C5H4N2O4,{},DHO_h,DHO,dho,[],
+343,DHO_m,Dihydroorotate,C5H4N2O4,{},DHO_m,DHO,dho,[],
+344,ORO_m,Orotate,C5H3N2O4,{},ORO_m,ORO,oro,[],
+345,ORO_c,Orotate,C5H3N2O4,{},ORO_c,ORO,oro,[],
+346,OMP_c,Orotidine 5-phosphate,C10H10N2O11P,{},OMP_c,OMP,omp,[],
+347,UMP_c,Uridine 5-phosphate,C9H11N2O9P,{},UMP_c,UMP,ump,['cpd00091'],ump
+348,CTP_c,Cytidine triphosphate,C9H12N3O14P3,{},CTP_c,CTP,ctp,['cpd00052'],ctp
+349,GDP_c,Guanosine diphosphate,C10H14N5O11P2,{},GDP_c,GDP,gdp,['cpd00031'],gdp
+350,CDP_c,Cytidine diphosphate,C9H13N3O11P2,{},CDP_c,CDP,cdp,['cpd00096'],cdp
+351,dADP_c,2-Deoxyadenosine 5-diphosphate,C10H13N5O9P2,{},dADP_c,dADP,dadp,['cpd00177'],dadp
+352,dCDP_c,2-Deoxycytidine 5-diphosphate,C9H13N3O10P2,{},dCDP_c,dCDP,dcdp,['cpd00533'],dcdp
+353,dGDP_c,2-Deoxyguanosine 5-diphosphate,C10H14N5O10P2,{},dGDP_c,dGDP,dgdp,['cpd00295'],dgdp
+354,dUDP_c,2-Deoxyuridine 5-diphosphate,C9H12N2O11P2,{},dUDP_c,dUDP,dudp,['cpd00978'],dudp
+355,dUTP_c,2-Deoxyuridine 5-triphosphate,C9H12N2O14P3,{},dUTP_c,dUTP,dutp,['cpd00358'],dutp
+356,dUMP_c,2-Deoxyuridine 5-monophosphate,C9H11N2O8P,{},dUMP_c,dUMP,dump,['cpd00299'],dump
+357,dTMP_c,2-Deoxythymidine 5-monophosphate,C10H13N2O8P,{},dTMP_c,dTMP,dtmp,['cpd00298'],dtmp
+358,dTDP_c,2-Deoxythymidine 5-diphosphate,C10H14N2O11P2,{},dTDP_c,dTDP,dtdp,['cpd00297'],dtdp
+359,GTP_c,Guanosine triphosphate,C10H13N5O14P3,{},GTP_c,GTP,gtp,['cpd00038'],gtp
+360,dATP_c,2-Deoxyadenosine 5-triphosphate,C10H13N5O12P3,{},dATP_c,dATP,datp,['cpd00115'],datp
+361,dCTP_c,2-Deoxycytidine 5-triphosphate,C9H13N3O13P3,{},dCTP_c,dCTP,dctp,['cpd00356'],dctp
+362,dGTP_c,2-Deoxyguanosine 5-triphosphate,C10H14N5O13P3,{},dGTP_c,dGTP,dgtp,['cpd00241'],dgtp
+363,dTTP_c,2-Deoxythymidine 5-triphosphate,C10H14N2O14P3,{},dTTP_c,dTTP,dttp,['cpd00357'],dttp
+364,SO4_c,Sulfate,O4S,{},SO4_c,SO4,so4,[['cpd00048']],so4
+365,GCA_c,Glycolate,C2H3O3,{},GCA_c,GCA,gca,[],
+366,GCEA_c,Glycerate,C3H5O4,{},GCEA_c,GCEA,gcea,[],
+367,Ala_c,Alanine,C3H7NO2,{},Ala_c,Ala,ala,[],
+368,Arg_c,Arginine,C6H15N4O2,{},Arg_c,Arg,arg,[],
+369,Lys_c,Lysine,C6H15N2O2,{},Lys_c,Lys,lys,[],
+370,Lys_m,Lysine,C6H15N2O2,{},Lys_m,Lys,lys,[],
+371,His_m,Histidine,C6H9N3O2,{},His_m,His,his,[],
+372,His_c,Histidine,C6H9N3O2,{},His_c,His,his,[],
+373,DHO_c,Dihydroorotate,C5H4N2O4,{},DHO_c,DHO,dho,[],
+374,O2_c,"O2, oxygen",O2,{},O2_c,O2,o2,['cpd00007'],o2
+375,Arg_p,Arginine,C6H15N4O2,{},Arg_x,Arg,arg,[],
+376,Asn_p,Asparagine,C4H7N2O3,{},Asn_x,Asn,asn,[],
+377,Cys_p,Cysteine,C3H7NO2S,{},Cys_x,Cys,cys,[],
+378,Gln_p,Glutamine,C5H9N2O3,{},Gln_x,Gln,gln,[],
+379,His_p,Histidine,C6H9N3O2,{},His_x,His,his,[],
+380,Ile_c,Isoleucine,C6H13NO2,{},Ile_c,Ile,ile,[],
+381,Ile_p,Isoleucine,C6H13NO2,{},Ile_x,Ile,ile,[],
+382,Leu_c,Leucine,C6H13NO2,{},Leu_c,Leu,leu,[],
+383,Leu_p,Leucine,C6H13NO2,{},Leu_x,Leu,leu,[],
+384,Lys_p,Lysine,C6H15N2O2,{},Lys_x,Lys,lys,[],
+385,Met_p,Methionine,C5H11NO2S,{},Met_x,Met,met,[],
+386,Phe_c,Phenylalanine,C9H11NO2,{},Phe_c,Phe,phe,[],
+387,Phe_p,Phenylalanine,C9H11NO2,{},Phe_x,Phe,phe,[],
+388,Pro_p,Proline,C5H9NO2,{},Pro_x,Pro,pro,[],
+389,Thr_p,Threonine,C4H9NO3,{},Thr_x,Thr,thr,[],
+390,Trp_c,Tryptophan,C11H12N2O2,{},Trp_c,Trp,trp,[],
+391,Trp_p,Tryptophan,C11H12N2O2,{},Trp_x,Trp,trp,[],
+392,Tyr_c,Tyrosine,C9H11NO3,{},Tyr_c,Tyr,tyr,[],
+393,Tyr_p,Tyrosine,C9H11NO3,{},Tyr_x,Tyr,tyr,[],
+394,Val_c,Valine,C5H11NO2,{},Val_c,Val,val,[],
+395,Val_p,Valine,C5H11NO2,{},Val_x,Val,val,[],
+396,Asn_h,Asparagine,C4H7N2O3,{},Asn_h,Asn,asn,[],
+397,Asn_m,Asparagine,C4H8N2O3,{},Asn_m,Asn,asn,[],
+398,Ile_m,Isoleucine,C6H13NO2,{},Ile_m,Ile,ile,[],
+399,Leu_m,Leucine,C6H13NO2,{},Leu_m,Leu,leu,[],
+400,Met_h,Methionine,C5H11NO2S,{},Met_h,Met,met,[],
+401,Met_m,Methionine,C5H11NO2S,{},Met_m,Met,met,[],
+402,Phe_m,Phenylalanine,C9H11NO2,{},Phe_m,Phe,phe,[],
+403,Pro_h,Proline,C5H9NO2,{},Pro_h,Pro,pro,[],
+404,Thr_m,Threonine,C4H9NO3,{},Thr_m,Thr,thr,[],
+405,Trp_m,Tryptophan,C11H12N2O2,{},Trp_m,Trp,trp,[],
+406,Tyr_m,Tyrosine,C9H11NO3,{},Tyr_m,Tyr,tyr,[],
+407,Val_m,Valine,C5H11NO2,{},Val_m,Val,val,[],
+408,PQstar_h,Plastoquinone radical,C13H16O2,{},PQstar_h,PQstar,pqstar,[],
+409,PGR5_PGRL1ox_h,oxidised proton gradient regulation 5 (PGR5)/PGR5-like photosynthetic phenotype 1 (PGRL1) complex,X,{},PGR5_PGRL1ox_h,PGR5_PGRL1ox,pgr5_pgrl1ox,[],
+410,PGR5_PGRL1rd_h,reduced proton gradient regulation 5 (PGR5)/PGR5-like photosynthetic phenotype 1 (PGRL1) complex,X,{},PGR5_PGRL1rd_h,PGR5_PGRL1rd,pgr5_pgrl1rd,[],
+411,NDHox_h,oxidised NADH dehydrogenase-like (NDH) complex,X,{},NDHox_h,NDHox,ndhox,[],
+412,NDHrd_h,reduced NADH dehydrogenase-like (NDH) complex,X,{},NDHrd_h,NDHrd,ndhrd,[],
